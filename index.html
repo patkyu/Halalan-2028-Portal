@@ -45,23 +45,27 @@ a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible,[
 button{font:inherit;color:inherit}
 
 /* header */
-header.top{padding-block:28px 18px;display:grid;grid-template-columns:1fr auto;gap:14px 24px;align-items:end}
+header.top{padding-block:28px 18px;display:grid;grid-template-columns:1fr auto;gap:18px 40px;align-items:center}
 header.top .txt{display:grid;gap:12px;min-width:0}
-.countdown{display:flex;gap:10px;align-items:baseline}
-.countdown .n{font-family:var(--f-display);font-size:clamp(2.4rem,7vw,3.6rem);font-weight:800;color:var(--violet);line-height:1}
-.countdown .l{color:var(--muted);font-size:.95rem;max-width:12ch;line-height:1.25}
 .lede{color:var(--muted);max-width:68ch}
-.hero-art{width:150px;height:auto}
-.hero-art .stroke{stroke:var(--ink);fill:none;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}
-.hero-art .box{fill:var(--sheet)}
-.hero-art .paper{fill:var(--sheet)}
-.hero-art .ink{fill:var(--violet)}
-.hero-art .soft{fill:var(--violet-soft)}
+/* countdown as a shaded answer sheet: one oval column per digit */
+.omr{background:var(--sheet);border:2px solid var(--ink);border-radius:6px;display:grid;width:max-content;max-width:100%}
+.omr-top{display:flex;justify-content:space-between;gap:12px;padding:6px 12px;border-bottom:2px solid var(--ink);font:600 .66rem var(--f-mono);letter-spacing:.1em;text-transform:uppercase}
+.omr-body{display:flex;gap:14px;padding:12px 14px 10px;align-items:start}
+.omr-col{display:grid;gap:4px;justify-items:center}
+.omr-box{width:30px;height:34px;border:1.5px solid var(--ink);border-radius:3px;display:grid;place-items:center;font:800 1.35rem var(--f-display);color:var(--violet);margin-bottom:4px}
+.omr-o{width:26px;height:14px;border:1.5px solid var(--ink);border-radius:50%;display:grid;place-items:center;font:600 8px/1 var(--f-mono);color:var(--muted)}
+.omr-o.on{background:var(--ink);color:var(--sheet);border-color:var(--ink)}
+.omr-lbl{writing-mode:vertical-rl;transform:rotate(180deg);font:600 .64rem var(--f-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);align-self:stretch;text-align:center;border-left:1px dashed var(--line);padding-left:10px}
+.omr-foot{display:flex;justify-content:space-between;gap:12px;padding:6px 12px;border-top:1px solid var(--line);font:.72rem var(--f-body);color:var(--muted)}
+.omr-foot b{color:var(--ink)}
+@media (prefers-reduced-motion:no-preference){.omr-o.on{animation:shade .45s ease-out both;animation-delay:calc(var(--i) * 120ms + 150ms)}}
+@keyframes shade{from{background:transparent;color:var(--muted)}to{background:var(--ink);color:var(--sheet)}}
 .updated{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:.84rem;color:var(--muted)}
 .updated b{color:var(--ink);font-weight:600}
 .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--ok);margin-right:6px;vertical-align:1px}
 .dot.stale{background:var(--warn)}
-@media (max-width:640px){header.top{grid-template-columns:1fr}.hero-art{display:none}}
+@media (max-width:640px){header.top{grid-template-columns:1fr}.omr{justify-self:start}}
 
 nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);display:flex;gap:6px;padding-block:10px;border-bottom:1px solid var(--line);overflow-x:auto}
 nav.tabs a{font-family:var(--f-display);font-weight:700;text-decoration:none;color:var(--muted);padding:8px 14px;border-radius:999px;white-space:nowrap;border:1px solid transparent}
@@ -308,27 +312,15 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
   <header class="top">
     <div class="txt">
       <span class="eyebrow">Pambansa at Lokal na Halalan · Mayo 8, 2028</span>
-      <div class="row" style="gap:20px;align-items:end">
-        <h1>Halalan 2028 Tracker</h1>
-        <div class="countdown" aria-live="polite"><span class="n mono" id="days">—</span><span class="l">araw bago ang halalan</span></div>
-      </div>
+      <h1>Halalan 2028 Tracker</h1>
       <p class="lede">Check if you can vote, see who is running or being talked about for President, Vice President and Senator, and keep track of the dates that matter. Facts are compiled from COMELEC statements, published surveys and news reports, each linked to its source.</p>
       <div class="updated"><span>Facts checked <b id="asof">—</b></span><span><span class="dot" id="newsdot"></span>News feed <b id="checked">—</b></span></div>
     </div>
-    <svg class="hero-art" viewBox="0 0 160 150" aria-hidden="true">
-      <!-- ballot going into a ballot box -->
-      <rect class="paper stroke" x="52" y="8" width="56" height="72" rx="3" transform="rotate(-6 80 44)"/>
-      <g transform="rotate(-6 80 44)">
-        <ellipse class="ink" cx="64" cy="24" rx="5" ry="3"/><line class="stroke" x1="74" y1="24" x2="98" y2="24" stroke-width="1.5"/>
-        <ellipse class="stroke" cx="64" cy="36" rx="5" ry="3" stroke-width="1.5"/><line class="stroke" x1="74" y1="36" x2="94" y2="36" stroke-width="1.5"/>
-        <ellipse class="ink" cx="64" cy="48" rx="5" ry="3"/><line class="stroke" x1="74" y1="48" x2="98" y2="48" stroke-width="1.5"/>
-      </g>
-      <path class="soft" d="M18 74 h124 l-10 66 h-104 z"/>
-      <path class="stroke" d="M18 74 h124 l-10 66 h-104 z"/>
-      <rect class="box stroke" x="12" y="62" width="136" height="14" rx="3"/>
-      <rect class="ink" x="50" y="66" width="60" height="5" rx="2"/>
-      <text x="80" y="114" text-anchor="middle" font-family="Bricolage Grotesque, sans-serif" font-weight="800" font-size="17" class="ink">2028</text>
-    </svg>
+    <div class="omr" id="omr" role="img" aria-label="Days before the election">
+      <div class="omr-top"><span>Araw bago ang halalan</span><span>2028</span></div>
+      <div class="omr-body" id="omrbody"></div>
+      <div class="omr-foot"><span>Halalan: <b>Mayo 8, 2028</b></span><span id="omrnote"></span></div>
+    </div>
   </header>
 
   <nav class="tabs" aria-label="Sections">
@@ -593,7 +585,13 @@ function relTime(iso){
 
 /* ---------- header ---------- */
 function renderHeader(){
-  $("#days").textContent = Math.max(0, days(today, toDate(D.electionDate))).toLocaleString();
+  const left = Math.max(0, days(today, toDate(D.electionDate)));
+  const digits = String(left).padStart(3, "0").split("");
+  $("#omrbody").innerHTML = digits.map((d, i) => `<div class="omr-col"><span class="omr-box">${d}</span>${
+    Array.from({ length: 10 }, (_, n) => `<span class="omr-o${n === +d ? " on" : ""}" style="--i:${i}">${n}</span>`).join("")}</div>`).join("") +
+    `<span class="omr-lbl">Shade fully</span>`;
+  $("#omr").setAttribute("aria-label", `${left.toLocaleString()} days before the election on May 8, 2028`);
+  $("#omrnote").textContent = left === 1 ? "bukas na!" : left === 0 ? "ngayon na!" : `${Math.round(left / 7)} linggo`;
   $("#asof").textContent = fmtDate(toDate(D.asOf));
   const rt = relTime(NEWS.checked);
   $("#checked").textContent = rt || "not run yet";
