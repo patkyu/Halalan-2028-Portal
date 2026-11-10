@@ -1,0 +1,132 @@
+{
+  "checked": null,
+  "feeds": {},
+  "items": [
+    {
+      "id": "a8f9819d46f8",
+      "title": "COMELEC opens voter registration ahead of 2028 polls",
+      "url": "https://www.sunstar.com.ph/manila/comelec-opens-voter-registration-ahead-of-2028-presidential-polls",
+      "publisher": "SunStar",
+      "date": "2026-11-10",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "seed"
+    },
+    {
+      "id": "78824fa29825",
+      "title": "OCTA: four tied in 2028 Senate race",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564265/raffy-tulfo-padilla-cayetano-vico-sotto-statistically-tied-hypothetical-2028-senate-race",
+      "publisher": "Philstar",
+      "date": "2026-10-19",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "raffy-tulfo",
+        "robin-padilla",
+        "alan-peter-cayetano",
+        "vico-sotto"
+      ],
+      "feed": "seed"
+    },
+    {
+      "id": "1b88abf289fb",
+      "title": "Bong Go leads VP preference",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1005608/bong-go-leads-vice-presidential-preference-survey-for-may-2028-polls-pulse-asia/story/",
+      "publisher": "GMA News",
+      "date": "2026-10-12",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "bong-go"
+      ],
+      "feed": "seed"
+    },
+    {
+      "id": "8f53b05af70e",
+      "title": "Poe leads 2028 senatorial list",
+      "url": "https://tribune.net.ph/2026/10/12/poe-leads-2028-senatorial-bet-pulse-asia",
+      "publisher": "Daily Tribune",
+      "date": "2026-10-12",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "grace-poe"
+      ],
+      "feed": "seed"
+    },
+    {
+      "id": "345fb5c31cee",
+      "title": "Comelec: 74 million voters expected in 2028",
+      "url": "https://www.inquirer.net/487086/comelec-74-million-voters-expected-in-2028-elections/",
+      "publisher": "Inquirer",
+      "date": "2026-09-01",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "seed"
+    },
+    {
+      "id": "4e8f426f860e",
+      "title": "Registered voters hit 71 million",
+      "url": "https://tribune.net.ph/2026/05/26/comelec-says-registered-voters-hit-71-million-ahead-of-bske",
+      "publisher": "Daily Tribune",
+      "date": "2026-05-26",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "seed"
+    },
+    {
+      "id": "3af9d6828ec5",
+      "title": "Raffy Tulfo: no to presidency, yes to Senate",
+      "url": "https://www.philstar.com/headlines/2026/03/02/2511550/raffy-tulfo-no-presidency-yes-senate-reelection-2028",
+      "publisher": "Philstar",
+      "date": "2026-03-02",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [
+        "raffy-tulfo"
+      ],
+      "feed": "seed"
+    },
+    {
+      "id": "e6f0e119f11a",
+      "title": "VP Sara: I'm running for president",
+      "url": "https://www.philstar.com/headlines/2026/02/19/2508981/vp-sara-im-running-president-2028",
+      "publisher": "Philstar",
+      "date": "2026-02-19",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "seed"
+    },
+    {
+      "id": "c6318dc292f5",
+      "title": "Sara Duterte announces 2028 presidential bid",
+      "url": "https://newsinfo.inquirer.net/2183578/vice-president-sara-duterte-announces-2028-presidential-bid",
+      "publisher": "Inquirer",
+      "date": "2026-02-18",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "seed"
+    }
+  ]
+}

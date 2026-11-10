@@ -1,0 +1,32 @@
+{
+  "_comment": "Feeds the daily scraper reads. Add or remove freely; a feed that fails is logged and skipped. 'gnews' entries are Google News RSS searches (Philippines edition).",
+  "userAgent": "Halalan2028TrackerBot/1.0 (daily election news digest)",
+  "maxAgeDays": 120,
+  "maxItems": 250,
+  "feeds": [
+    { "id": "gn-comelec-registration", "type": "gnews", "q": "COMELEC voter registration 2028" },
+    { "id": "gn-registered-voters", "type": "gnews", "q": "COMELEC \"registered voters\" 2028" },
+    { "id": "gn-2028-president", "type": "gnews", "q": "2028 presidential bid Philippines" },
+    { "id": "gn-2028-vp", "type": "gnews", "q": "2028 vice president Philippines running mate" },
+    { "id": "gn-2028-senate", "type": "gnews", "q": "2028 Senate race Philippines" },
+    { "id": "gn-surveys", "type": "gnews", "q": "2028 survey \"Pulse Asia\" OR OCTA OR SWS OR Tangere OR \"WR Numero\" OR \"Momentum Research\"" },
+    { "id": "gn-impeachment", "type": "gnews", "q": "Sara Duterte impeachment trial Senate verdict" },
+    { "id": "inquirer", "type": "rss", "url": "https://newsinfo.inquirer.net/feed" },
+    { "id": "gma-nation", "type": "rss", "url": "https://data.gmanetwork.com/gno/rss/news/nation/feed.xml" },
+    { "id": "philstar-headlines", "type": "rss", "url": "https://www.philstar.com/rss/headlines" },
+    { "id": "rappler", "type": "rss", "url": "https://www.rappler.com/feed/" },
+    { "id": "sunstar", "type": "rss", "url": "https://www.sunstar.com.ph/feed" }
+  ],
+  "mustMatchAny": ["2028", "comelec", "comelec's", "voter registration", "registered voters", "halalan", "certificate of candidacy", "impeachment"],
+  "topics": {
+    "registration": ["voter registration", "registered voters", "register anywhere", "registrants", "overseas voting", "voter's registration", "magparehistro"],
+    "survey": ["survey", "pulse asia", "octa", "sws", "social weather", "tangere", "wr numero", "momentum research", "poll shows", "preference"],
+    "candidacy": ["presidential bid", "run for president", "run for vice president", "running mate", "senate bid", "senatorial bid", "slate", "won't run", "will not run", "not running", "rules out", "ruled out", "declares", "announces", "certificate of candidacy", "tandem", "re-election", "reelection", "comeback"],
+    "impeachment": ["impeachment", "impeach", "verdict", "acquit", "convict"],
+    "comelec": ["comelec", "counting machines", "automated election", "election budget"]
+  },
+  "pollsters": ["Pulse Asia", "OCTA", "SWS", "Social Weather Stations", "Tangere", "WR Numero", "Momentum Research"],
+  "candidacySignals": ["declare", "declares", "declared", "announce", "announces", "announced", "will run", "to run", "running for", "bid", "won't run", "will not run", "not running", "rule out", "rules out", "ruled out", "withdraw", "withdraws", "backs out", "slate", "running mate", "tandem", "certificate of candidacy", "files coc", "filed coc", "endorse", "endorses"],
+  "registrationSignals": ["extend", "extension", "extended", "deadline", "until", "cut-off", "cutoff", "suspend", "resume", "resumes"],
+  "impeachmentSignals": ["verdict", "convict", "convicted", "conviction", "acquit", "acquitted", "acquittal", "dismissed"]
+}

@@ -1,0 +1,1148 @@
+{
+  "asOf": "2026-11-10",
+  "electionDate": "2028-05-08",
+  "regStart": "2026-11-10",
+  "regEnd": "2027-06-30",
+  "cocStart": "2027-09-20",
+  "voterCounts": [
+    {
+      "label": "2025 polls",
+      "date": "Nov 2024",
+      "value": 68.62,
+      "type": "count",
+      "src": [
+        "dzrh-68m"
+      ]
+    },
+    {
+      "label": "Mid-2026",
+      "date": "May 2026",
+      "value": 71,
+      "type": "count",
+      "src": [
+        "tribune-71m"
+      ]
+    },
+    {
+      "label": "2028 target",
+      "date": "May 2028",
+      "value": 74,
+      "type": "projection",
+      "src": [
+        "inq-74m",
+        "gma-74m"
+      ]
+    }
+  ],
+  "overseas": {
+    "value2025": 1.24,
+    "targetNew": 2,
+    "src": [
+      "inq-ov"
+    ]
+  },
+  "people": {
+    "sara-duterte": {
+      "name": "Sara Duterte",
+      "wiki": "Sara Duterte"
+    },
+    "risa-hontiveros": {
+      "name": "Risa Hontiveros",
+      "wiki": "Risa Hontiveros"
+    },
+    "jonvic-remulla": {
+      "name": "Jonvic Remulla",
+      "wiki": "Jonvic Remulla"
+    },
+    "bam-aquino": {
+      "name": "Bam Aquino",
+      "wiki": "Bam Aquino"
+    },
+    "gibo-teodoro": {
+      "name": "Gibo Teodoro",
+      "wiki": "Gilberto Teodoro"
+    },
+    "vince-dizon": {
+      "name": "Vince Dizon",
+      "wiki": "Vince Dizon"
+    },
+    "baste-duterte": {
+      "name": "Baste Duterte",
+      "wiki": "Sebastian Duterte"
+    },
+    "leni-robredo": {
+      "name": "Leni Robredo",
+      "wiki": "Leni Robredo"
+    },
+    "raffy-tulfo": {
+      "name": "Raffy Tulfo",
+      "wiki": "Raffy Tulfo"
+    },
+    "benjamin-magalong": {
+      "name": "Benjamin Magalong",
+      "wiki": "Benjamin Magalong"
+    },
+    "isko-moreno": {
+      "name": "Isko Moreno",
+      "wiki": "Isko Moreno"
+    },
+    "vico-sotto": {
+      "name": "Vico Sotto",
+      "wiki": "Vico Sotto"
+    },
+    "robin-padilla": {
+      "name": "Robin Padilla",
+      "wiki": "Robin Padilla"
+    },
+    "bong-go": {
+      "name": "Bong Go",
+      "wiki": "Bong Go"
+    },
+    "grace-poe": {
+      "name": "Grace Poe",
+      "wiki": "Grace Poe"
+    },
+    "rodante-marcoleta": {
+      "name": "Rodante Marcoleta",
+      "wiki": "Rodante Marcoleta"
+    },
+    "win-gatchalian": {
+      "name": "Win Gatchalian",
+      "wiki": "Win Gatchalian"
+    },
+    "kiko-pangilinan": {
+      "name": "Kiko Pangilinan",
+      "wiki": "Kiko Pangilinan"
+    },
+    "imee-marcos": {
+      "name": "Imee Marcos",
+      "wiki": "Imee Marcos"
+    },
+    "erwin-tulfo": {
+      "name": "Erwin Tulfo",
+      "wiki": "Erwin Tulfo"
+    },
+    "rowena-guanzon": {
+      "name": "Rowena Guanzon",
+      "wiki": "Rowena Guanzon"
+    },
+    "salvador-panelo": {
+      "name": "Salvador Panelo",
+      "wiki": "Salvador Panelo"
+    },
+    "alan-peter-cayetano": {
+      "name": "Alan Peter Cayetano",
+      "wiki": "Alan Peter Cayetano"
+    },
+    "loren-legarda": {
+      "name": "Loren Legarda",
+      "wiki": "Loren Legarda"
+    },
+    "chiz-escudero": {
+      "name": "Chiz Escudero",
+      "wiki": "Chiz Escudero"
+    },
+    "jinggoy-estrada": {
+      "name": "Jinggoy Estrada",
+      "wiki": "Jinggoy Estrada"
+    },
+    "jv-ejercito": {
+      "name": "JV Ejercito",
+      "wiki": "JV Ejercito"
+    },
+    "mark-villar": {
+      "name": "Mark Villar",
+      "wiki": "Mark Villar"
+    },
+    "anjo-yllana": {
+      "name": "Anjo Yllana",
+      "wiki": "Anjo Yllana"
+    },
+    "manny-pacquiao": {
+      "name": "Manny Pacquiao",
+      "wiki": "Manny Pacquiao"
+    },
+    "nancy-binay": {
+      "name": "Nancy Binay",
+      "wiki": "Nancy Binay"
+    },
+    "sonny-angara": {
+      "name": "Sonny Angara",
+      "wiki": "Sonny Angara"
+    },
+    "ben-tulfo": {
+      "name": "Ben Tulfo",
+      "wiki": "Ben Tulfo"
+    },
+    "willie-revillame": {
+      "name": "Willie Revillame",
+      "wiki": "Willie Revillame"
+    },
+    "antonio-trillanes": {
+      "name": "Antonio Trillanes",
+      "wiki": "Antonio Trillanes"
+    },
+    "joel-villanueva": {
+      "name": "Joel Villanueva",
+      "wiki": "Joel Villanueva"
+    },
+    "migz-zubiri": {
+      "name": "Migz Zubiri",
+      "wiki": "Juan Miguel Zubiri"
+    },
+    "mark-lapid": {
+      "name": "Mark Lapid",
+      "wiki": "Mark Lapid"
+    },
+    "mike-defensor": {
+      "name": "Mike Defensor",
+      "wiki": "Mike Defensor"
+    },
+    "nicolas-torre": {
+      "name": "Nicolas Torre III",
+      "wiki": "Nicolas Torre III"
+    }
+  },
+  "aspirants": {
+    "pres": [
+      {
+        "id": "sara-duterte",
+        "role": "Vice President · Hugpong ng Pagbabago",
+        "status": "ok",
+        "note": "Announced her run for president at a press conference.",
+        "date": "Feb 18, 2026",
+        "src": [
+          "inq-sara",
+          "philstar-sara"
+        ]
+      },
+      {
+        "id": "risa-hontiveros",
+        "role": "Senator · Akbayan (term ends 2028)",
+        "status": "warn",
+        "note": "Says she is preparing and willing to run, but wants the opposition to rally behind one candidate.",
+        "date": "Jun–Aug 2026",
+        "src": [
+          "inq-hontiveros"
+        ]
+      },
+      {
+        "id": "jonvic-remulla",
+        "role": "DILG Secretary",
+        "status": "warn",
+        "note": "Leaning toward a run for Cavite governor but has said he is open to a presidential run.",
+        "date": "Aug 2026",
+        "src": []
+      },
+      {
+        "id": "bam-aquino",
+        "role": "Senator · KANP",
+        "status": "vio",
+        "note": "Included in several presidential surveys and named by commentators. Has said he will not run for VP; no stated presidential plan.",
+        "date": "2026",
+        "src": [
+          "sunstar-momentum",
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "gibo-teodoro",
+        "role": "Defense Secretary",
+        "status": "vio",
+        "note": "Listed in Pulse Asia's September 2026 presidential question.",
+        "date": "Sep 2026",
+        "src": [
+          "inq-sept"
+        ]
+      },
+      {
+        "id": "vince-dizon",
+        "role": "Public Works Secretary",
+        "status": "vio",
+        "note": "Listed in Pulse Asia's September 2026 presidential question.",
+        "date": "Sep 2026",
+        "src": [
+          "inq-sept"
+        ]
+      },
+      {
+        "id": "baste-duterte",
+        "role": "Davao City Mayor",
+        "status": "vio",
+        "note": "Led one Tangere survey scenario that excluded Sara Duterte.",
+        "date": "Oct 2026",
+        "src": []
+      },
+      {
+        "id": "leni-robredo",
+        "role": "Naga City Mayor",
+        "status": "no",
+        "note": "Ruled out a presidential or Senate run again; expects to seek a second term as mayor.",
+        "date": "Nov 2026",
+        "src": [
+          "bilyonaryo-robredo"
+        ]
+      },
+      {
+        "id": "raffy-tulfo",
+        "role": "Senator · Independent",
+        "status": "no",
+        "note": "Ruled out running for president or VP; will seek Senate re-election.",
+        "date": "Mar & May 2026",
+        "src": [
+          "philstar-rtulfo",
+          "gma-tulfos"
+        ]
+      },
+      {
+        "id": "benjamin-magalong",
+        "role": "Baguio City Mayor",
+        "status": "no",
+        "note": "Ruled out a 2028 run and plans to retire.",
+        "date": "Feb 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "isko-moreno",
+        "role": "Manila Mayor",
+        "status": "no",
+        "note": "Vowed not to run for a higher post in 2028.",
+        "date": "May 2025",
+        "src": []
+      },
+      {
+        "id": "vico-sotto",
+        "role": "Pasig City Mayor",
+        "status": "no",
+        "note": "Said he will not run for any post in 2028. Also below the age of 40 required for president.",
+        "date": "Jun 2025",
+        "src": [
+          "inq-vico"
+        ]
+      }
+    ],
+    "vp": [
+      {
+        "id": "robin-padilla",
+        "role": "Senator · PDP",
+        "status": "warn",
+        "note": "Said he would run for VP if former President Rodrigo Duterte asks. Earlier said he may leave politics after his term.",
+        "date": "Feb 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "risa-hontiveros",
+        "role": "Senator · Akbayan",
+        "status": "warn",
+        "note": "Open to running for VP if the opposition chooses her.",
+        "date": "Feb 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "bong-go",
+        "role": "Senator · PDP",
+        "status": "vio",
+        "note": "Tops Pulse Asia's VP question. Backs Sara Duterte for president but brushed off talk that he will be her running mate.",
+        "date": "Feb–Oct 2026",
+        "src": [
+          "gma-vp",
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "grace-poe",
+        "role": "Former Senator",
+        "status": "vio",
+        "note": "Appears in VP surveys; also leads Pulse Asia's latest Senate list. No stated 2028 plan.",
+        "date": "Sep 2026",
+        "src": [
+          "gma-vp",
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "rodante-marcoleta",
+        "role": "Senator",
+        "status": "vio",
+        "note": "Floated as Sara Duterte's running mate by Partido Reporma and a Hugpong official. Declined to comment.",
+        "date": "Feb 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "win-gatchalian",
+        "role": "Senate President · NPC (term-limited)",
+        "status": "vio",
+        "note": "Named by commentators as a possible VP candidate. No stated plan.",
+        "date": "2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "kiko-pangilinan",
+        "role": "Senator · Liberal",
+        "status": "vio",
+        "note": "Included in Pulse Asia's VP question. No stated plan.",
+        "date": "Sep 2026",
+        "src": [
+          "gma-vp"
+        ]
+      },
+      {
+        "id": "bam-aquino",
+        "role": "Senator · KANP",
+        "status": "no",
+        "note": "Said he will not run for vice president in 2028.",
+        "date": "Feb 19, 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "imee-marcos",
+        "role": "Senator · Nacionalista",
+        "status": "no",
+        "note": "Said she will not seek a higher office and will finish her Senate term to 2031.",
+        "date": "May 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      },
+      {
+        "id": "erwin-tulfo",
+        "role": "Senator · Lakas",
+        "status": "no",
+        "note": "Said he and his brother Raffy will not run for higher office in 2028.",
+        "date": "May 2026",
+        "src": [
+          "gma-tulfos"
+        ]
+      },
+      {
+        "id": "benjamin-magalong",
+        "role": "Baguio City Mayor",
+        "status": "no",
+        "note": "Rejected talk of a Duterte–Magalong tandem and ruled out a run.",
+        "date": "Feb 2026",
+        "src": [
+          "wiki-vp"
+        ]
+      }
+    ],
+    "sen": [
+      {
+        "id": "raffy-tulfo",
+        "role": "Senator · Independent",
+        "status": "ok",
+        "note": "Confirmed he will run for Senate re-election.",
+        "date": "Mar 2, 2026",
+        "src": [
+          "philstar-rtulfo"
+        ]
+      },
+      {
+        "id": "rowena-guanzon",
+        "role": "Former COMELEC and COA Commissioner",
+        "status": "ok",
+        "note": "Announced a Senate run; said she wants to join Sara Duterte's slate.",
+        "date": "Mar 2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "salvador-panelo",
+        "role": "Former Presidential Legal Counsel · PDP",
+        "status": "ok",
+        "note": "Announced a Senate run.",
+        "date": "Mar 2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "alan-peter-cayetano",
+        "role": "Senator · Independent",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election and seen as a likely contender; high in surveys.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "loren-legarda",
+        "role": "Senator · NPC",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election and seen as a likely contender.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "chiz-escudero",
+        "role": "Senator · NPC",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election and seen as a likely contender.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "jinggoy-estrada",
+        "role": "Senator · PMP",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election; intent not stated.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "jv-ejercito",
+        "role": "Senator · NPC",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election; intent not stated.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "mark-villar",
+        "role": "Senator · Nacionalista",
+        "status": "warn",
+        "note": "Incumbent eligible for re-election; seen as a likely contender.",
+        "date": "2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "anjo-yllana",
+        "role": "Actor, former QC councilor · PDP",
+        "status": "warn",
+        "note": "Hinted at a Senate run.",
+        "date": "Nov 2025",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "grace-poe",
+        "role": "Former Senator",
+        "status": "vio",
+        "note": "Tops Pulse Asia's September Senate list at 50.2%.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "robin-padilla",
+        "role": "Senator · PDP",
+        "status": "vio",
+        "note": "Near the top of every Senate survey, but has said he may retire after this term and is open to a VP run.",
+        "date": "2026",
+        "src": [
+          "tribune-poe",
+          "philstar-octa"
+        ]
+      },
+      {
+        "id": "baste-duterte",
+        "role": "Davao City Mayor",
+        "status": "vio",
+        "note": "5th–6th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "manny-pacquiao",
+        "role": "Former Senator",
+        "status": "vio",
+        "note": "5th–7th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "nancy-binay",
+        "role": "Makati City Mayor",
+        "status": "vio",
+        "note": "7th–9th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "sonny-angara",
+        "role": "Education Secretary",
+        "status": "vio",
+        "note": "10th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "ben-tulfo",
+        "role": "Broadcaster",
+        "status": "vio",
+        "note": "11th–12th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "willie-revillame",
+        "role": "TV host",
+        "status": "vio",
+        "note": "12th–18th in Pulse Asia's September list.",
+        "date": "Sep 2026",
+        "src": [
+          "tribune-poe"
+        ]
+      },
+      {
+        "id": "vico-sotto",
+        "role": "Pasig City Mayor",
+        "status": "no",
+        "note": "Ranks high in OCTA's Senate list, but has said he will not run for any post in 2028.",
+        "date": "Jun 2025",
+        "src": [
+          "inq-vico",
+          "philstar-octa"
+        ]
+      },
+      {
+        "id": "leni-robredo",
+        "role": "Naga City Mayor",
+        "status": "no",
+        "note": "Ruled out a Senate run as well.",
+        "date": "Apr & Nov 2026",
+        "src": [
+          "bilyonaryo-robredo"
+        ]
+      },
+      {
+        "id": "antonio-trillanes",
+        "role": "Former Senator",
+        "status": "no",
+        "note": "Ruled out a Senate comeback.",
+        "date": "Apr 2026",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "joel-villanueva",
+        "role": "Senator (term-limited)",
+        "status": "no",
+        "note": "Barred from a third straight term; said he is retiring.",
+        "date": "2025",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "migz-zubiri",
+        "role": "Senator (term-limited)",
+        "status": "no",
+        "note": "Barred from a third straight term; said he will not run for any office in 2028.",
+        "date": "2024",
+        "src": [
+          "wiki-sen"
+        ]
+      },
+      {
+        "id": "win-gatchalian",
+        "role": "Senate President (term-limited)",
+        "status": "no",
+        "note": "Barred from a third straight Senate term. Named as a possible VP candidate.",
+        "date": "—",
+        "src": [
+          "wiki-sen"
+        ]
+      }
+    ]
+  },
+  "notes": {
+    "vp": "No one has declared for Vice President yet. Sara Duterte has said she has already recruited a running mate but has not named them."
+  },
+  "surveys": {
+    "pres": [
+      {
+        "pollster": "Pulse Asia",
+        "fieldwork": "Sep 17–24, 2026",
+        "n": 2400,
+        "moe": 2,
+        "src": [
+          "inq-sept"
+        ],
+        "rows": [
+          [
+            "Sara Duterte",
+            50
+          ],
+          [
+            "Leni Robredo",
+            26
+          ],
+          [
+            "Raffy Tulfo",
+            12
+          ],
+          [
+            "Risa Hontiveros",
+            3
+          ],
+          [
+            "Gibo Teodoro",
+            1
+          ],
+          [
+            "Vince Dizon",
+            1
+          ],
+          [
+            "Benjamin Magalong",
+            0.3
+          ],
+          [
+            "Undecided",
+            3
+          ],
+          [
+            "None of the above",
+            3
+          ]
+        ]
+      },
+      {
+        "pollster": "Momentum Research",
+        "fieldwork": "Jul 13–16, 2026",
+        "n": 1438,
+        "moe": 2.6,
+        "src": [
+          "sunstar-momentum"
+        ],
+        "rows": [
+          [
+            "Sara Duterte",
+            44.2
+          ],
+          [
+            "Leni Robredo",
+            23.8
+          ],
+          [
+            "Raffy Tulfo",
+            12.2
+          ],
+          [
+            "Risa Hontiveros",
+            2.4
+          ],
+          [
+            "Bam Aquino",
+            2
+          ],
+          [
+            "Bong Go",
+            1.8
+          ],
+          [
+            "Kiko Pangilinan",
+            1
+          ],
+          [
+            "Jonvic Remulla",
+            0.5
+          ],
+          [
+            "Unsure",
+            10
+          ]
+        ]
+      }
+    ],
+    "vp": [
+      {
+        "pollster": "Pulse Asia",
+        "fieldwork": "Sep 17–24, 2026",
+        "n": 2400,
+        "moe": 2,
+        "src": [
+          "gma-vp"
+        ],
+        "rows": [
+          [
+            "Bong Go",
+            31
+          ],
+          [
+            "Robin Padilla",
+            19
+          ],
+          [
+            "Bam Aquino",
+            17
+          ],
+          [
+            "Grace Poe",
+            14
+          ],
+          [
+            "Erwin Tulfo",
+            10
+          ],
+          [
+            "Kiko Pangilinan",
+            3
+          ],
+          [
+            "Nicolas Torre III",
+            0.3
+          ],
+          [
+            "Undecided",
+            2
+          ],
+          [
+            "None of the above",
+            2
+          ]
+        ]
+      },
+      {
+        "pollster": "Pulse Asia",
+        "fieldwork": "Jun 28–Jul 6, 2026",
+        "n": 2400,
+        "moe": 2,
+        "src": [
+          "wiki-vp"
+        ],
+        "rows": [
+          [
+            "Bong Go",
+            27
+          ],
+          [
+            "Robin Padilla",
+            21
+          ],
+          [
+            "Bam Aquino",
+            14
+          ],
+          [
+            "Grace Poe",
+            14
+          ],
+          [
+            "Erwin Tulfo",
+            9
+          ],
+          [
+            "Kiko Pangilinan",
+            4
+          ]
+        ]
+      }
+    ],
+    "sen": [
+      {
+        "pollster": "Pulse Asia",
+        "note": "Top 15 of 66 names; respondents picked up to 12",
+        "fieldwork": "Sep 17–24, 2026",
+        "n": 2400,
+        "moe": 2,
+        "src": [
+          "tribune-poe"
+        ],
+        "rows": [
+          [
+            "Grace Poe",
+            50.2
+          ],
+          [
+            "Alan Peter Cayetano",
+            46.5
+          ],
+          [
+            "Robin Padilla",
+            45.9
+          ],
+          [
+            "Raffy Tulfo",
+            44.4
+          ],
+          [
+            "Baste Duterte",
+            37.2
+          ],
+          [
+            "Manny Pacquiao",
+            36.5
+          ],
+          [
+            "Loren Legarda",
+            33.0
+          ],
+          [
+            "Nancy Binay",
+            31.7
+          ],
+          [
+            "Chiz Escudero",
+            30.1
+          ],
+          [
+            "Sonny Angara",
+            26.3
+          ],
+          [
+            "Ben Tulfo",
+            21.5
+          ],
+          [
+            "Mark Lapid",
+            19.8
+          ],
+          [
+            "Jinggoy Estrada",
+            18.2
+          ],
+          [
+            "Willie Revillame",
+            17.7
+          ],
+          [
+            "Mike Defensor",
+            16.9
+          ]
+        ]
+      },
+      {
+        "pollster": "OCTA Research",
+        "note": "Top tier only",
+        "fieldwork": "Sep 28–Oct 4, 2026",
+        "n": 1200,
+        "moe": 3,
+        "src": [
+          "philstar-octa"
+        ],
+        "rows": [
+          [
+            "Raffy Tulfo",
+            47
+          ],
+          [
+            "Robin Padilla",
+            45
+          ],
+          [
+            "Alan Peter Cayetano",
+            44
+          ],
+          [
+            "Vico Sotto",
+            42
+          ],
+          [
+            "Baste Duterte",
+            36
+          ],
+          [
+            "Grace Poe",
+            36
+          ],
+          [
+            "Loren Legarda",
+            31
+          ]
+        ]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "d": "2026-02-18",
+      "label": "Feb 18, 2026",
+      "t": "Sara Duterte announces presidential bid",
+      "s": "First to declare for 2028.",
+      "src": [
+        "inq-sara"
+      ],
+      "short": "Sara declares"
+    },
+    {
+      "d": "2026-11-10",
+      "label": "Nov 10, 2026",
+      "t": "Voter registration opens",
+      "s": "New voters, transfers and reactivations.",
+      "src": [
+        "sunstar-reg"
+      ],
+      "short": "Registration opens"
+    },
+    {
+      "d": "2026-12-15",
+      "label": "Dec 2026 (target)",
+      "t": "Possible impeachment verdict",
+      "s": "Senators have floated December; no fixed date.",
+      "src": [
+        "cdn-impeach"
+      ],
+      "short": "Impeachment verdict?"
+    },
+    {
+      "d": "2027-06-30",
+      "label": "Jun 30, 2027",
+      "t": "Voter registration closes",
+      "s": "Per COMELEC's opening-day announcement.",
+      "src": [
+        "sunstar-reg"
+      ],
+      "short": "Registration closes"
+    },
+    {
+      "d": "2027-09-20",
+      "label": "Sep 20–27, 2027",
+      "t": "Filing of certificates of candidacy (planned)",
+      "s": "Aspirants become official candidates.",
+      "src": [],
+      "short": "COC filing"
+    },
+    {
+      "d": "2028-05-08",
+      "label": "May 8, 2028",
+      "t": "Election day",
+      "s": "National, local and party-list races.",
+      "src": [],
+      "short": "Election day"
+    },
+    {
+      "d": "2028-06-30",
+      "label": "Jun 30, 2028",
+      "t": "New President and VP take office",
+      "s": "At noon; six-year terms.",
+      "src": [],
+      "short": "New leaders sworn in"
+    },
+    {
+      "d": "2028-11-01",
+      "label": "Nov 2028",
+      "t": "Barangay and SK elections",
+      "s": "Moved from Nov 2026 by RA 12326.",
+      "src": [],
+      "short": "BSKE"
+    }
+  ],
+  "sources": {
+    "sunstar-reg": [
+      "COMELEC opens voter registration ahead of 2028 polls — SunStar, Nov 10, 2026",
+      "https://www.sunstar.com.ph/manila/comelec-opens-voter-registration-ahead-of-2028-presidential-polls"
+    ],
+    "inq-74m": [
+      "Comelec: 74 million voters expected in 2028 — Inquirer, Sep 1, 2026",
+      "https://www.inquirer.net/487086/comelec-74-million-voters-expected-in-2028-elections/"
+    ],
+    "gma-74m": [
+      "Comelec: 74M voters expected in 2028 polls — GMA News",
+      "https://www.gmanetwork.com/news/topstories/nation/1004025/comelec-74m-voters-expected-in-2028-polls/story"
+    ],
+    "tribune-71m": [
+      "Registered voters hit 71 million — Daily Tribune, May 26, 2026",
+      "https://tribune.net.ph/2026/05/26/comelec-says-registered-voters-hit-71-million-ahead-of-bske"
+    ],
+    "dzrh-68m": [
+      "68 million registered for 2025 polls — DZRH, Nov 2024",
+      "https://dzrh.com.ph/post/comelec-logs-more-than-68-million-registered-voters-for-2025-polls"
+    ],
+    "inq-ov": [
+      "Comelec eyes 2M new overseas voters — Inquirer",
+      "https://www.inquirer.net/?p=455119"
+    ],
+    "inq-sara": [
+      "Sara Duterte announces 2028 presidential bid — Inquirer, Feb 18, 2026",
+      "https://newsinfo.inquirer.net/2183578/vice-president-sara-duterte-announces-2028-presidential-bid"
+    ],
+    "inq-sept": [
+      "Sara Duterte tops September survey — Inquirer",
+      "https://www.inquirer.net/492660/sara-duterte-tops-september-survey-of-2028-presidential-picks/"
+    ],
+    "gma-vp": [
+      "Bong Go leads VP preference — GMA News, Oct 12, 2026",
+      "https://www.gmanetwork.com/news/topstories/nation/1005608/bong-go-leads-vice-presidential-preference-survey-for-may-2028-polls-pulse-asia/story/"
+    ],
+    "tribune-poe": [
+      "Poe leads 2028 senatorial list — Daily Tribune, Oct 12, 2026",
+      "https://tribune.net.ph/2026/10/12/poe-leads-2028-senatorial-bet-pulse-asia"
+    ],
+    "philstar-octa": [
+      "OCTA: four tied in 2028 Senate race — Philstar, Oct 19, 2026",
+      "https://www.philstar.com/headlines/2026/10/19/2564265/raffy-tulfo-padilla-cayetano-vico-sotto-statistically-tied-hypothetical-2028-senate-race"
+    ],
+    "sunstar-momentum": [
+      "Momentum Research July survey — SunStar Davao",
+      "https://www.sunstar.com.ph/davao/latest-survey-sara-tulfo-top-choices-for-president-vp-in-2028"
+    ],
+    "bilyonaryo-robredo": [
+      "Robredo rules out 2028 bids anew — Bilyonaryo",
+      "https://bnc.bilyonaryo.com/robredo-rules-out-2028-presidential-senate-bids-anew/news"
+    ],
+    "philstar-rtulfo": [
+      "Raffy Tulfo: no to presidency, yes to Senate — Philstar",
+      "https://www.philstar.com/headlines/2026/03/02/2511550/raffy-tulfo-no-presidency-yes-senate-reelection-2028"
+    ],
+    "gma-tulfos": [
+      "Brothers Raffy, Erwin Tulfo won't run for higher posts — GMA",
+      "https://www.gmanetwork.com/news/topstories/nation/986485/brothers-raffy-erwin-tulfo-won-t-run-for-higher-posts-in-2028/story/"
+    ],
+    "inq-hontiveros": [
+      "Hontiveros preparing for single opposition bet — Inquirer",
+      "https://newsinfo.inquirer.net/2289890/hontiveros-preparing-very-hard-for-single-presidential-bet-in-2028"
+    ],
+    "inq-vico": [
+      "Vico Sotto rules out 2028 bid — Inquirer",
+      "https://www.inquirer.net/?p=448116"
+    ],
+    "philstar-sara": [
+      "VP Sara: I'm running for president — Philstar",
+      "https://www.philstar.com/headlines/2026/02/19/2508981/vp-sara-im-running-president-2028"
+    ],
+    "wiki-vp": [
+      "2028 Philippine vice presidential election — Wikipedia",
+      "https://en.wikipedia.org/wiki/2028_Philippine_vice_presidential_election"
+    ],
+    "wiki-sen": [
+      "2028 Philippine Senate election — Wikipedia",
+      "https://en.wikipedia.org/wiki/2028_Philippine_Senate_election"
+    ],
+    "cdn-impeach": [
+      "Impeachment trial may run through December — Cebu Daily News",
+      "https://cebudailynews.inquirer.net/779392/sara-duterte-impeachment-trial-december/amp"
+    ],
+    "sunstar-resume": [
+      "Voter registration resumes in November — SunStar",
+      "https://www.sunstar.com.ph/manila/voter-registration-resumes-in-november-says-comelec"
+    ]
+  }
+}
