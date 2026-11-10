@@ -1,1 +1,353 @@
-{}
+{
+  "imee-marcos": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Senator_Imee_Marcos_%28Comission_on_Appointments_portrait%29.png/250px-Senator_Imee_Marcos_%28Comission_on_Appointments_portrait%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Imee_Marcos",
+    "artist": "Commission on Appointments of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Imee_Marcos_(Comission_on_Appointments_portrait).png",
+    "checked": "2026-11-10"
+  },
+  "loren-legarda": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Senator_Loren_Legarda_%28Comission_on_Appointments_portrait%29.png/250px-Senator_Loren_Legarda_%28Comission_on_Appointments_portrait%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Loren_Legarda",
+    "artist": "Commission on Appointments of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Loren_Legarda_(Comission_on_Appointments_portrait).png",
+    "checked": "2026-11-10"
+  },
+  "manny-pacquiao": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg/250px-Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+    "artist": "Robert Oswald P. Alfiler for the Philippine News Agency (state-owned publication)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "jv-ejercito": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/JV_Ejercito_2025_%28cropped%29.jpg/250px-JV_Ejercito_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/JV_Ejercito",
+    "artist": "Office of Senator JV Ejercito",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:JV_Ejercito_2025_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "jinggoy-estrada": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Senator_Jinggoy_Estrada_%28Comission_on_Appointments_portrait%29.png/250px-Senator_Jinggoy_Estrada_%28Comission_on_Appointments_portrait%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Jinggoy_Estrada",
+    "artist": "Commission on Appointments of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Jinggoy_Estrada_(Comission_on_Appointments_portrait).png",
+    "checked": "2026-11-10"
+  },
+  "robin-padilla": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Senator_Robin_Padilla_%282023%29_%28cropped%29.jpg/250px-Senator_Robin_Padilla_%282023%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Robin_Padilla",
+    "artist": "Office of Senator Robin Padilla",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Robin_Padilla_(2023)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "willie-revillame": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Willie_Revillame_files_his_candidacy_for_Senator_%2810-08-2024%29_%28cropped%29.jpg/250px-Willie_Revillame_files_his_candidacy_for_Senator_%2810-08-2024%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Willie_Revillame",
+    "artist": "Avito Dalan for the Philippine News Agency (state-owned publication)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Willie_Revillame_files_his_candidacy_for_Senator_(10-08-2024)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "ben-tulfo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ben_Tulfo_in_2025.jpg/250px-Ben_Tulfo_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Ben_Tulfo",
+    "artist": "Robert Oswald Alfiler for the Philippine News Agency",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Ben_Tulfo_in_2025.jpg",
+    "checked": "2026-11-10"
+  },
+  "raffy-tulfo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Senator_Raffy_Tulfo_%282022%29_%28cropped%29.jpg/250px-Senator_Raffy_Tulfo_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Raffy_Tulfo",
+    "artist": "Office of Senator Raffy Tulfo",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Raffy_Tulfo_(2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "kiko-pangilinan": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Senkikopangilinan.jpg/250px-Senkikopangilinan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Kiko_Pangilinan",
+    "artist": "Senate of the Philippines Facebook Page",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senkikopangilinan.jpg",
+    "checked": "2026-11-10"
+  },
+  "chiz-escudero": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Senate_President_Francis_Escudero_%28cropped%29.jpg/250px-Senate_President_Francis_Escudero_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Francis_Escudero",
+    "artist": "Senate of the Philippines (photo by Joseph B. Vidal; courtesy of the Office of the Senate President)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senate_President_Francis_Escudero_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "mike-defensor": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/BBM_Uniteam_rally_Batasan_Mike_Defensor_%28IBP_Road%2C_Quezon_City%3B_04-13-2022%29_%28cropped%29.jpg/250px-BBM_Uniteam_rally_Batasan_Mike_Defensor_%28IBP_Road%2C_Quezon_City%3B_04-13-2022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Mike_Defensor",
+    "artist": "patrickroque01",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "filePage": "https://commons.wikimedia.org/wiki/File:BBM_Uniteam_rally_Batasan_Mike_Defensor_(IBP_Road,_Quezon_City;_04-13-2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "migz-zubiri": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Senator_Juan_Miguel_Zubiri_%282022%29_%28cropped%29.jpg/250px-Senator_Juan_Miguel_Zubiri_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Juan_Miguel_Zubiri",
+    "artist": "Office of Senator Juan Miguel Zubiri",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Juan_Miguel_Zubiri_(2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "antonio-trillanes": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sen._Antonio_%E2%80%9CSonny%E2%80%9D_Trillanes_IV%2C_2014_Portrait_%28cropped%29.jpg/250px-Sen._Antonio_%E2%80%9CSonny%E2%80%9D_Trillanes_IV%2C_2014_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Antonio_Trillanes",
+    "artist": "Antonio Trillanes IV",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Sen._Antonio_%E2%80%9CSonny%E2%80%9D_Trillanes_IV,_2014_Portrait_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "alan-peter-cayetano": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Senator_Alan_Peter_Cayetano_%282022%29_%28cropped%29.jpg/250px-Senator_Alan_Peter_Cayetano_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Alan_Peter_Cayetano",
+    "artist": "Office of Senator Alan Peter Cayetano",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Alan_Peter_Cayetano_(2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "isko-moreno": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/IskoMorenoOfficialPortrait2025_%28cropped%29.jpg/250px-IskoMorenoOfficialPortrait2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Isko_Moreno",
+    "artist": "Office of the Mayor of the City of Manila",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:IskoMorenoOfficialPortrait2025_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "sonny-angara": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/50th_DepEd_Secretary_Sonny_Angara.png/250px-50th_DepEd_Secretary_Sonny_Angara.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Sonny_Angara",
+    "artist": "DepEd, Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:50th_DepEd_Secretary_Sonny_Angara.png",
+    "checked": "2026-11-10"
+  },
+  "risa-hontiveros": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Risa_Hontiveros_2025_%28Cropped%29.png/250px-Risa_Hontiveros_2025_%28Cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Risa_Hontiveros",
+    "artist": "Office of Senator Risa Hontiveros",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Risa_Hontiveros_2025_(Cropped).png",
+    "checked": "2026-11-10"
+  },
+  "gibo-teodoro": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Gilbert_Teodoro%2C_2023_official_portrait.jpg/250px-Gilbert_Teodoro%2C_2023_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Gilbert_Teodoro",
+    "artist": "Philippine Department of National Defense",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Gilbert_Teodoro,_2023_official_portrait.jpg",
+    "checked": "2026-11-10"
+  },
+  "win-gatchalian": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Senator_Sherwin_%E2%80%9CWin%E2%80%9D_Gatchalian%2C_2025_portrait_%28cropped%29.jpg/250px-Senator_Sherwin_%E2%80%9CWin%E2%80%9D_Gatchalian%2C_2025_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Sherwin_Gatchalian",
+    "artist": "Sherwin Gatchalian",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Sherwin_%E2%80%9CWin%E2%80%9D_Gatchalian,_2025_portrait_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "bam-aquino": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bam_Aquino_2025_%28Cropped%29.png/250px-Bam_Aquino_2025_%28Cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Bam_Aquino",
+    "artist": "Paolo Aquino",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Bam_Aquino_2025_(Cropped).png",
+    "checked": "2026-11-10"
+  },
+  "erwin-tulfo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Senator_Ewrin_Tulfo.jpg/250px-Senator_Ewrin_Tulfo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Erwin_Tulfo",
+    "artist": "Senate of the Philippines",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Ewrin_Tulfo.jpg",
+    "checked": "2026-11-10"
+  },
+  "jonvic-remulla": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/DILG_Secretary_Jonvic_Remulla_%28cropped%29.jpg/250px-DILG_Secretary_Jonvic_Remulla_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Jonvic_Remulla",
+    "artist": "Department of the Interior and Local Government",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:DILG_Secretary_Jonvic_Remulla_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "leni-robredo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Naga_City_Mayor_Leni_Robredo.jpg/250px-Naga_City_Mayor_Leni_Robredo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Leni_Robredo",
+    "artist": "Quezon City Government",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Naga_City_Mayor_Leni_Robredo.jpg",
+    "checked": "2026-11-10"
+  },
+  "grace-poe": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Senator_Grace_Poe_%28Comission_on_Appointments_portrait%29.png/250px-Senator_Grace_Poe_%28Comission_on_Appointments_portrait%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Grace_Poe",
+    "artist": "Commission on Appointments of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Grace_Poe_(Comission_on_Appointments_portrait).png",
+    "checked": "2026-11-10"
+  },
+  "nancy-binay": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nancy_Binay_with_her_Jose_Benjamin_Angeles_in_2025_%28cropped%29.jpg/250px-Nancy_Binay_with_her_Jose_Benjamin_Angeles_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Nancy_Binay",
+    "artist": "Nancy Binay",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Nancy_Binay_with_her_Jose_Benjamin_Angeles_in_2025_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "mark-lapid": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mark_Lapid_2022.jpg/250px-Mark_Lapid_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Mark_Lapid",
+    "artist": "Tourism Infrastructure and Enterprise Zone Authority (Philippines)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Mark_Lapid_2022.jpg",
+    "checked": "2026-11-10"
+  },
+  "sara-duterte": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Vice_President_Sara_Z._Duterte_%286x9_cropped%29.jpg/250px-Vice_President_Sara_Z._Duterte_%286x9_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Sara_Duterte",
+    "artist": "Office of the Vice President of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Vice_President_Sara_Z._Duterte_(6x9_cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "joel-villanueva": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Senator_Joel_Villanueva_%282022%29_%28cropped%29.jpg/250px-Senator_Joel_Villanueva_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Joel_Villanueva",
+    "artist": "Office of Senator Joel Villanueva",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Joel_Villanueva_(2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "rowena-guanzon": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/CommGuanzon300x355v2.png/250px-CommGuanzon300x355v2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Rowena_Guanzon",
+    "artist": "Commission on Elections",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:CommGuanzon300x355v2.png",
+    "checked": "2026-11-10"
+  },
+  "mark-villar": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Senator_Mark_Villar_%282022%29_%28cropped%29.jpg/250px-Senator_Mark_Villar_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Mark_Villar",
+    "artist": "Office of Senator Mark Villar",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Mark_Villar_(2022)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "bong-go": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Senator_Bong_Go_%28Commission_on_Appointments_portrait%29.png/250px-Senator_Bong_Go_%28Commission_on_Appointments_portrait%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Bong_Go",
+    "artist": "Commission on Appointments of the Philippines",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Bong_Go_(Commission_on_Appointments_portrait).png",
+    "checked": "2026-11-10"
+  },
+  "salvador-panelo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Salvador_Panelo_%28cropped%29.jpg/250px-Salvador_Panelo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Salvador_Panelo",
+    "artist": "Albert Alcain for the Presidential Communications Operations Office",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Salvador_Panelo_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "vico-sotto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Vico_Sotto%2C_Official_Portrait_2025_%28cropped%29.jpg/250px-Vico_Sotto%2C_Official_Portrait_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Vico_Sotto",
+    "artist": "City Government of Pasig",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Vico_Sotto,_Official_Portrait_2025_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "benjamin-magalong": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Mayor_Benjamin_Magalong%2C_City_of_Baguio.jpg/250px-Mayor_Benjamin_Magalong%2C_City_of_Baguio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Benjamin_Magalong",
+    "artist": "Office of the Mayor of the City of Baguio",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Mayor_Benjamin_Magalong,_City_of_Baguio.jpg",
+    "checked": "2026-11-10"
+  },
+  "vince-dizon": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vince_Dizon_DOTr.jpg/250px-Vince_Dizon_DOTr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Vince_Dizon",
+    "artist": "Department of Transportation",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Vince_Dizon_DOTr.jpg",
+    "checked": "2026-11-10"
+  },
+  "baste-duterte": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sebastian_%22Baste%22_Z._Duterte_%2809-29-2026%29_%28cropped%29.jpg/250px-Sebastian_%22Baste%22_Z._Duterte_%2809-29-2026%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Sebastian_Duterte",
+    "artist": "Wendell D. Alinea, SSMU",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Sebastian_%22Baste%22_Z._Duterte_(09-29-2026)_(cropped).jpg",
+    "checked": "2026-11-10"
+  },
+  "rodante-marcoleta": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Senator_Rodante_D._Marcoleta.jpg/250px-Senator_Rodante_D._Marcoleta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Rodante_Marcoleta",
+    "artist": "Rodante Marcoleta",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:Senator_Rodante_D._Marcoleta.jpg",
+    "checked": "2026-11-10"
+  },
+  "nicolas-torre": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/MMDA_General_Manager_Nicolas_Torre_III_in_Pasig_City_%2801-05-2026%29_%28cropped%29.jpg/250px-MMDA_General_Manager_Nicolas_Torre_III_in_Pasig_City_%2801-05-2026%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Nicolas_Torre",
+    "artist": "Joan Bondoc for the Philippine News Agency (state-owned publication)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "filePage": "https://commons.wikimedia.org/wiki/File:MMDA_General_Manager_Nicolas_Torre_III_in_Pasig_City_(01-05-2026)_(cropped).jpg",
+    "checked": "2026-11-10"
+  }
+}
