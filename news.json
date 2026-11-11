@@ -1,25 +1,25 @@
 {
-  "checked": "2026-11-10T12:57:57+00:00",
+  "checked": "2026-11-11T01:58:44+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 51
+      "entries": 50
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 13
+      "entries": 11
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 27
+      "entries": 26
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 5
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 25
+      "entries": 28
     },
     "gn-surveys": {
       "ok": true,
@@ -27,7 +27,7 @@
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 29
+      "entries": 31
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,301 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 35
+      "entries": 1
     }
   },
   "items": [
+    {
+      "id": "a64960bf7cde",
+      "title": "Sara Duterte impeachment: Defense presents witnesses to counter case",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGRhaWRuUjNmYncxYVNkMUJqT2VGQjFBOGJ3ZzJNUWFNUnpWUVlRN3Q1dWlPeEZPQklIVnJUQUpHNkV5enVrRWJ2SlJuWks0aDJacjZScXd5U2V2ZG9YNUJqY1hpRWJVS21GTHlYaVozMTl2S2lKTE0yS1VnRVNrRHNQbXMtRVpWNnJhYU1odk0xbEt0UTc0Q2VvWXdHWW54cUFpN2NpM1RLT1h6d0HSAa4BQVVfeXFMUDBkYWlkblIzZmJ3MWFTZDFCak9lRkIxQThid2cyTVFhTVJ6VlFZUTd0NXVpT3hGT0JJSFZyVEFKRzZFeXp1a0VidkpSblpLNGgyWnI2UnF3eVNldmRvWDVCamNYaUViVUttRkx5WGlaMzE5dktpSkxNMktVZ0VTa0RzUG1zLUVaVjZyYWFNaHZNMWxLdFE3NENlb1l3R1lueHFBaTdjaTNUS09YendB?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "9e7b72fb4f35",
+      "title": "WATCH: Sara Duterte impeachment trial | Nov. 11, 2026",
+      "url": "https://newsinfo.inquirer.net/2339476/watch-sara-duterte-impeachment-trial-nov-11-2026",
+      "publisher": "Inquirer",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "7d4d65a5549b",
+      "title": "‘Evasive,’ conflicting answers test impeach court’s patience",
+      "url": "https://newsinfo.inquirer.net/2339418/evasive-conflicting-answers-test-impeach-courts-patience",
+      "publisher": "Inquirer",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "345338b7491d",
+      "title": "LIVE UPDATES: Sara Duterte Impeachment Trial (November 11, 2026)",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009063/live-updates-sara-duterte-impeachment-trial-november-11-2026/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "79a8bfa80391",
+      "title": "Sara Duterte impeachment trial Day 42: What to expect",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009035/sara-duterte-impeachment-trial-day-42-what-to-expect/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "9bc6d51f7c21",
+      "title": "Sara Duterte impeachment trial Day 41: Contempt warning, salary differential, witness's accounting firm ties",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009050/sara-duterte-impeachment-trial-day-41-contempt-warning-salary-differential-witness-s-accounting-firm-t/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "ff9664672763",
+      "title": "LIVE: Sara Duterte impeachment trial, Nov. 11",
+      "url": "https://www.philstar.com/headlines/2026/11/11/2569396/live-sara-duterte-impeachment-trial-nov-11",
+      "publisher": "Philstar",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "aefec4f27d72",
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "publisher": "Rappler",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "rappler",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "624b0fc9767e",
+      "title": "US House blocks bid to impeach Defense Secretary Hegseth",
+      "url": "https://www.rappler.com/world/us-canada/house-blocks-pete-hegseth-impeachment-november-10-2026/",
+      "publisher": "Rappler",
+      "date": "2026-11-11",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "rappler",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "31c821480c68",
+      "title": "BOTANTE KA NA BA? Comelec opens the voter registration today, November 10, 2026, for the 2028 national and local elections. It will run until July 30, 2027.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEEycHRlUE05ZmZGMk5oTWV2eWxiV0RtSFp4cWgzX0xHdTBzaVo4MjNqV3R4ejh2VTViQnBmVTJtem5qRFB2RTFyNzFMUVJrOENaMUhtZWxNZklEcWxEOG8xZzkyR3ZXNmp6RE1pNVVXTWNfeTZ5ZmduQlZ1UmRYcFdfZGQ4Y1owSlhFSXAzV2NUQnZBRTNSekxaOWk3SEdMOW1zMlNNOEp1bEt2MWI4TnduS3o4LVMteElaNEh5OVVXUndnTWMwUnBQZE4yTlJXRTk1U0o5aWpVSXhF?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-10",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "fd05725480e5",
+      "title": "Comelec restarts nationwide voter registration",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjMxQ09jYXlRSGw0ckJaU3EwSmpMLUZBQ0J5cUMxQnVhY1hMTUhVdTRObllkLVM4V0NjSEdaME80Z1JTMElxbEE0QTY0YjBPZkJpOS11YkxiMDJpeGhVanBKdzlZWklXV2E3SVd6SHNvRm5QbXQ4UFlUM1NVYjFvMklaVDVJanM?oc=5",
+      "publisher": "Daily Tribune",
+      "date": "2026-11-10",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "0d9a2a4e1329",
+      "title": "Over 1,000 Negros residents apply as voter registration resumes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnBqWDZhNlBaN2x2YmVQNkxhOXVucXV5Ul9wYTc3QVBXaUNpN09zaExGOHZjcktOZFZSYTc3YkphbERURnJ2aVZZT190U28xYnJWMmVpa2p1VTJhLVRFb2IwQUZiTXptcDdGMnVWVU5HNWVDOFJVS0ZfZXJZLUpjQmJweXdnSVhwSGRwS3FyaEE5VElkWVgycEUtSjI3elhGTFVmQkJ1a9IBpwFBVV95cUxOQnBqWDZhNlBaN2x2YmVQNkxhOXVucXV5Ul9wYTc3QVBXaUNpN09zaExGOHZjcktOZFZSYTc3YkphbERURnJ2aVZZT190U28xYnJWMmVpa2p1VTJhLVRFb2IwQUZiTXptcDdGMnVWVU5HNWVDOFJVS0ZfZXJZLUpjQmJweXdnSVhwSGRwS3FyaEE5VElkWVgycEUtSjI3elhGTFVmQkJ1aw?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-10",
+      "topics": [
+        "registration"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "d1ce5c72c333",
+      "title": "Comelec opens voter registration for 2028",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmJVOFBPNXFuaHdWYlBWYnBYajVwZjVGV2FxQXg2N0NYOVlwMVB6Y2twMnoyUFZSUmdwSUxuWkx0VkF3TXhhWlFEb2R5b2syNDJ3UUtyTjg0eVJxS1hla2ptTUJrUGViLVNveVBKYVFnMXAzY2RuTFAtd1d4Rjc0UDlZdFprUHp5NGdWaUZrU19zQzdVODJXZkpFTnpNS0l2TmJHZtIBqgFBVV95cUxQOEhBZDUxTkZxZHhpSlpwXzAxYktfdW40WlZHSDJDaFRXLUdnTjRuNlFQekJyUEZscnRpSjFtYmY2VG9iT1hWbEF0U3RzZDJyVGpzQTc2NklveVRUMFplUXRNMTlKS0ZJNklMSC1yM1BZdlZxSEg0Mk8zMnZPWlhCakJ5V0stMUFJNHY1THAwTVptbGZRa19Bbi1yVTY0MVZ1dFdjMmxRN0NfZw?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-10",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "c28b55b606cc",
+      "title": "Pangilinan hopes Robredo changes mind on 2028 presidential bid",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1ZzNXBTRTdkZkN0XzN2ZzF1U1BaclBobmFNaExzQ1E0Y0ZZbUs4RkVfemQtTktaUkh6bnB2dTY2U0pqNUNkR29JM2plNTM0U0s0anBaQU9pTXJTRHFiX1dhX2piY0hKRjNuN2lIWS1oSEhBMmhqa1J3R0pUY3U5WURkVDRjbFFWN3VsLWdCRXNHYnFFSHlTU1V4WQ?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "date": "2026-11-10",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-vp",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "2d6043b2abae",
+      "title": "WATCH: House prosecutor Terry Ridon weighs in on the testimonies of the defense witnesses, so far, after the 41st day of Vice President Sara Duterte's impeachment trial on Tuesday, November 10, 2026. Updates from Rappler app: https://rplr.co/FrontPage S",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ0dOcHNudlh2ZEdWalpweDk1aUdoNUxiVGc1cWM5VWF0N09NQzhxSXoxSWJacmRDU1RYOFRJaWhiTGo1bTNBS212Vjd6LXV3ZkhUb0wteV9fYzZnNTJBdE5UZ2VmbFZUMWEtUDc4ZEd1X0ktZHYwQ1o1UGgyMUw3RDlsQlZiRVZBUnJXZkVsMHZsR21pMUJFS2Znd1ZXXzJvVVhERFN5aWYtUWo0NE5mOWlzV1N3UDI3dWd3cXlFVnNRQUduU2RpQXM0Zm9CNEg4ZnRDaTdSVWY0Snc?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "4aaa4fee4ed1",
+      "title": "Rappler. . [ICYMI] Rappler Recap: Impeachment trial resumes, defense presents first witness After a weeks-long break, the Senate impeachment court resumes proceedings on Monday, November 9. The defense team of Vice President Sara Duterte presents it",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcDQxdjI3LVFFZGpGamYwS1ByLWN1QWxjbEl6MUNXMW41RWxsWHFvS3VoVTVfVkcxQmNFbmxPdEpReEdtT04zRnBHQUJQcWVuN2c3QzBTV1hiZF9wUmpGYnRjaGdoMmNURXRkbzd2V0Y3S0h3a2tNSGJUek1oTUk5TDZiVnFNQ1V6YkFnV0RtYmt6ZzhVVTBlekV5N09XYnVoMEpoVERiTUdyRDJjbkptN1dyakZaV202OGswODJibkl3N3FBWGxkNjE3bjBDeENEb21PS2dqQ20wZFNC?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "4f9c6dfac375",
+      "title": "Defense sees no need to change strategy, says it does not coach witnesses",
+      "url": "https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses",
+      "publisher": "Inquirer",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "3e1c707772fa",
+      "title": "Highlights: Day 41 of Sara Duterte impeachment trial | Nov. 10, 2026",
+      "url": "https://newsinfo.inquirer.net/2339398/highlights-day-41-of-sara-duterte-impeachment-trial-nov-10-2026",
+      "publisher": "Inquirer",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "bf626f3bd0fc",
+      "title": "Prosecution seeks sanctions vs. VP Sara, spokesperson over alleged sub judice violations",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009042/prosecution-seeks-sanctions-vs-vp-sara-spokesperson-over-alleged-sub-judice-violations/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "ccd6fcfa479c",
+      "title": "Poa: Is there something wrong with going to China?",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009021/poa-is-there-something-wrong-with-going-to-china/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-10",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
     {
       "id": "84df23f5a978",
       "title": "Voter registration for the 2028 national and local elections starts today, November 10, 2026, and runs until July 30, 2027, every Tuesday to Friday. Prospective voters can register, and registered voters can update their records ahead of the elections. For more",
@@ -636,6 +927,49 @@
       "feed": "seed"
     },
     {
+      "id": "05ebe39f5de8",
+      "title": "The House prosecution team holds a press conference after Day 40 of Vice President Sara Duterte's impeachment trial on Monday, November 9, 2026.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVk0zNWhYMElQalpkbnZ4ZVFKaTlueUxnRzRINlJBZ3JCcDNIYnB5U0RsM050eHR5d284OWRPU3dQNDZ4R3hkSWNVQVRaVDhyakxERkxVM3RSTzdwaW0wWFU1cTU5SUZrQTk1LXdtZng2ZW5rSWh6MGIxRHJiaHpVcTluNFU1cEs5MzR2bnUyeTZRbWRlZHdDOHhfMDVTeHBSalB4RVFFLUtPdmZfSzNHb0MxalAzOEtUcUo5T1RyZ1Q5elBidThSWDFRSi1TcE1pN0RqcC11Zkx0RXM?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-09",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "d5a6f3bb7685",
+      "title": "Mananalo ba sa isa? Koko Pimentel questions prosecution’s gamble in Sara Duterte impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVdrTXZ1OTVHQUpXQ0dQNVFlRzh1WkJHbmIxMVp5SVVMTHVIZk1kdEJHVjNmLUhfaDgyVWVkM2JnVWlHM3B4X3hnckJZN2prQi1BM2dJSnpkNHB5Y2Q4LVRYV1Z5amhxUjZmQml5d1l1d2VKWnp0SVdsWGo0ZUd0NGdvcVc3d3FEeS1WQ0pfT1dsZXF3UUZJSWh2LWE5TmdZaFd6NDFGdmZVa0JtaWJBNkJKVHN4c2xodGZWbnhn?oc=5",
+      "publisher": "Politiko.com.ph",
+      "date": "2026-11-09",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "45edc92b61aa",
+      "title": "'Ano namang gagawin niya dito?': VP Sara's attendance at impeachment trial remains uncertain",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0RVVUk4NXh3eGNRNmNSLU9aaGhCSWlnUklpYXBvd0NwOVZVb1YyTlFIZXpSNmFMWVloaTRfclQ5TmRCMEM0bGozc2x6WHozQzJQb0FPMjNTTWw0OGg2TVlzd0xYclhtbHhkSVE0Rk1tdVhSV2FSbjZPNjN4V3hDMmh4ZWR2Zm9iQmlrb3JPQ0VTc3VOQzNMem9ZWTlWNm05WmJZUU1QdWpFcUFyS0lKVUNneERiSW8?oc=5",
+      "publisher": "Manila Bulletin",
+      "date": "2026-11-09",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
       "id": "1513586b6546",
       "title": "COMELEC. . 📢 𝐍𝐀𝐆𝐁𝐀𝐆𝐎 𝐁𝐀 𝐀𝐍𝐆 𝐈𝐘𝐎𝐍𝐆 𝐏𝐈𝐑𝐌𝐀 𝐎 𝐈𝐓𝐒𝐔𝐑𝐀? 𝐈-𝐔𝐏𝐃𝐀𝐓𝐄 𝐀𝐍𝐆 𝐈𝐘𝐎𝐍𝐆 𝐕𝐎𝐓𝐄𝐑 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐓𝐈𝐎𝐍 𝐑𝐄𝐂𝐎𝐑𝐃𝐒! 𝐅𝐨𝐫 𝐭𝐡𝐞 𝟐𝟎𝟐𝟖 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐄𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 May pagbabago ba sa iyong pirma o sa iyong pisikal na a",
       "url": "https://news.google.com/rss/articles/CBMioAlBVV95cUxNZllCN3FWRlNZenN0RWpJbWJJTFRsc01zY0ZQQTN4YWxpbEloaUZlWWluZnVyWE5YUHFfZWgxdTFyX0pROHcxa2xpemI0VTdxM3duYnVLalk3RFhZZXNhRlAxeEFuTmZmQ0tPMkJmeVhoWDBqMVg2YVd2TUVMdWJvdU05ak9sVWlKTG8zYWV0QW1pNmg2STVZbE9ieXVDbnh0OGdVa3hvZE1nOGd0aU9CT1ZrLUNXUDJiam5WWE5CeW9YSFU4N0I4eFVSdGgzT3hIM29kSXBXVm52anB2dXB5V0UxdExQVXJyY1FMcHZRTHRSbUdzX3JKazdSSFNRYWlUeGxkRlcyd2lOS0dVNEVBMjVJcVhpa3FjZ2RVQVV2UndGVHo4c1BBNnhQV2U4bV9CbnlQeFl0dV9LQnhZQ3JvNC0tNlotT0lVWVFJMzA5ZEZITFdibXFGUTV2Y21lWllrbV9KR25HQ1p6TVd3Ri02NWxlcG9yaEEtai0yNGhBZzBOX1VkM1pMMUlfbU40aFVBYXZZZXhfYlZIM3dMSTF2aTlEQ05XMUZhTzI2YjZFSjJ1OXdab1YtRlUzdHJ5SFdVdW9oTWhpUGhQVEJHMXRiSnpNb29QMEJkOVNlaXBlWkEweW10QUVfNlhzM3FjdXhYV2Q4ZldxbWlORWJQM1l4aV9WTGQxY3F6dXlWSVdjaTg0Y0EwN1dSbDVESHF3VW42bXg0dU5Bc2RMMXhnNVA3QmV2ZkZ2RXNHNXFLeEFILU9jd2QtamdJN1VqTVVHb2tRTm9kUmw5LXRxeDBSNVZ6SVMyT3VVaUlVZ1phZzhVOXVmbl84WFZzZVl0bWJfNHpGbU96MmJYLU5pUi0yT0RlXzk0Rm81UV9ySTZGdjg3M1lXZWxHbU9oU3pTV0lENzNlMFE2YmVhRDdkcEZBRkJTUkhHU19BaXlkakRxbC1QVEZhVkRtNFExMWpQZWJZdEpIRXprM010RUpKVmNJRjhYYkxJVUFsc2tVSnc3OWF5RlBNWHVCNGxVUFdCWDRMMFVsUlA2c0k5bDlhZ0taMzlMNUNrVll5WEFEU3o0Z3R6Y0YzOEpqQ2VXWW1VT0dBazIzMkJLN3F3RkctSUZ3Nk0tNkVUWkhYSEFiQmN2R1VBNG9WZnI4MGZ1NnpVWnBFOTJXaHFZWDJDN3FSMFBpdXRZdWVwcHdycy1oZnVzS29aMDBwM3hHb3NyOXBQeVVtX2JyeEdlMXMtWTh0bkRDMkg4NDFmVFBfVS1COHlqaEpUdkF6NXdwUl90bFF3LVNYZGFnRVRBQnJza1hGMV9SV3k3MDYtNnRUSVNFMHpxV25HTHpFNzcyMkxONXQ1QWo1NF9jUmF0ZEZCNzBxVjdSR3BzQThMbEMzSVR1SmVNS3lnQzEyMWFPczZtNEhZUktLUHhYR2J4MUpGVEFUTWZWbk5XcnI3RnlLNldJdjJxdGUySTBOeUtSeFJ6MFlhdkFlUjdiUjV2RFI2WnZLc1FQMHVadjJtSm1ucFVERWtxZlpSc256eTR5dFM4aGdkT2F6OTFERUJsRFc3UDJwX2lmU3RwNQ?oc=5",
@@ -891,6 +1225,19 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "9d42e40f866e",
+      "title": "Finally, it's VP Sara defense's turn to present witnesses as impeachment trial resumes Nov 9",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWV9DX0xpaE14cy1FQWVOeUN0TXJoTGl2N1IwYkpYeEVCUzdoaWFGTHhxbmNNckZiTVdWZ3lqRmVVMHFldURzcjZSbEhFd2EyZ1FGVzlsZm16YXk4UjIwd0oxR2MwVnFjMmtxTVY2VW9nRENzclVISVJzSWY2Z2puZGEwLXAzRGtIZEV1R2x6MjJIeW52bGlNMWdqcFVpb1dyRXZZ?oc=5",
+      "publisher": "Manila Bulletin",
+      "date": "2026-11-07",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
       "id": "ff948decb4cc",
       "title": "COMELEC. . 📢 𝐍𝐀𝐆𝐁𝐀𝐆𝐎 𝐀𝐍𝐆 𝐈𝐘𝐎𝐍𝐆 𝐏𝐀𝐍𝐆𝐀𝐋𝐀𝐍? 𝐌𝐀𝐘 𝐌𝐀𝐋𝐈𝐍𝐆 𝐈𝐍𝐅𝐎 𝐒𝐀 𝐈𝐘𝐎𝐍𝐆 𝐕𝐎𝐓𝐄𝐑 𝐑𝐄𝐂𝐎𝐑𝐃? 𝐈-𝐔𝐏𝐃𝐀𝐓𝐄 𝐀𝐍𝐆 𝐈𝐘𝐎𝐍𝐆 𝐕𝐎𝐓𝐄𝐑 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐓𝐈𝐎𝐍 𝐑𝐄𝐂𝐎𝐑𝐃𝐒! 𝐅𝐨𝐫 𝐭𝐡𝐞 𝟐𝟎𝟐𝟖 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐄𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 Kung nagba",
       "url": "https://news.google.com/rss/articles/CBMikwlBVV95cUxNN1M0RVJ4NHBNVW9mRklTTjgtOUswZ2FKLXBZS082ZU1jbTVLVFF1S2t0ZzREVXpQd3VkUE5fYTJFNEpEc0VFME5VVURWN1ByODZxdVZTSW9ZaENTSHBIZ0lmZGU2eTdmQy1IWTFTaWI1SzlobWdMTHpyb1l5U1NNNlpobElJU3pNQ2xZVlRrQjloR2pzOUFlMVlTVnZaQ0xWNE1rdFRESnZkUE80SFdjU3dmU2RUcHVUZGpPdkpybXdjcnRYNVliQnNoVmZBaXlBdUxyMi1vRmYxNEg5TUlHQnczS1pEY21sS0ctcUZiVHZUWU9Kd0ZqMGdsRmZ4cUhZMmZQc1NiMlhWaXFwbXlsYnctMDJZZno3bHpySWJhZEhHcjgtTF9SS09VME5tbW9YTUZkc0c4Zl85bm5sd3NmSFZTRzJPblQ1UG1fYkFnQVVtSU9sVlVzOVB0TDFjMWMzYWllTWFTY0duT2dKNWc1VHNxYmR6UHlJaHE5TVlQakJ4Q01VbFItUi1yYVFqWllIQnZVTWhaZ1RNQWZDTXByTnZFRXR1MThrNjl4dk9nRFJsMFZaU0lZZXktRmo3Z00zSllIWmZGMTNaQTlxQWZlNTQ3UE1wSmhVOFVIN3ZEZmE1MjNUWXJNU216N2h6a01NZHJDY3RmSVNaVFRQbHlwaUZnWEVzbG42STRkNnA3SnRXUW9zZnVuUE1lQVdlcjlFWTVZVF9VWnRyN3c5elhqN3gtZGxxQ25SSkNTVzdfSDNGS2U4VmFxMkdBb3EzWkdVR2VMd2ltZjl5YTVhYUluT004dnVyZzZidXRfcjZVaVJMZXlDaGJDc1A5X3hhRXJMZHktX1NtTjlHbFBGb3Ezbk9jNnRaTVJZeFcxZ3RxNVgweHdLWFBTZ2NHZmRNVXdNZ0FpVUdmU2ZaSkl5UXdGbWJCaXNKZWpyRFVOQTFCbThRYzdnNU5VYUNpSFRhb0pDYWkxM2ZwT2JscG1qVWlscV9rRXhSdnRnSHNZeUFoZzFUcVdJWlNCWEYxc1NQZ3Jwdm9fZU5BcW52VUhJMlJjZk40dFE0RWYzemItejNabVBPclVxTnJzUzlDclk1cW8tTXpDS2lSLUw4MmZoWGVnUTU0QU9ER3kwSGppSERJRjZ0QnpPN3g1VXdFblQzdUJmNXMxWUJNYWFRaTNwUTBuRG51TlVja0FwLW1MdUxleDQ4Z0hwN1BkVGJzMXRRN1RJYjdTZ2hsamk3YkJTSmV2NV9XeGZyR25jQnBuTDM1QWJWVkhTWVVtVkVGeWtOUElnYjdUSTduYWRmZ1gtZ2NScGJBQklVZ2IzeDZYajlVOFU1d3AwUkxteFUxZ1VFLUI0VTZKM1FWb29pOHNfY054Vk85NnhCeFE1SWwzaWpiMEc1VHI5Rk0zQ2IyZ3R4R1VpTVVLQjlsVHNxcER3TXU1a21peU1FRWoyUVlpcENzMDNRdzVMNVFwaWp1ckRVQnluSDZPVzg4UmVLNWpyeEdOajhBSXhnZ0VtZ2pYelVBMTg2NGkyR0d5ZE9NOURYeGN4SlJ3?oc=5",
@@ -1010,6 +1357,21 @@
       ],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "be61705973de",
+      "title": "Daily Guardian. . WATCH: Law dean declines to testify in Sara Duterte impeachment Dean Ralph Sarmiento has declined to serve as a defense witness in the impeachment proceedings against Vice President Sara Duterte, requesting her legal team to withdra",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN0V3SDJORGZ5cEwyclZGb1BsbWFxY3NQYU1jOUc2WHZWalVvSm9Id0VrcXZhZE5GMEtLaXFCZVNKZlkyVmFta3RMakdFNkJhZnNHWjZTSjg0UDN2WWRQWV9vTUhiT3gta0RDeDVTSm9ia01fT0FsMGJxaS04bU41NjIzbm56YTlzdDRHUmIyallOeW05TDZ3b1hQeXNWdW94LTM3QzB3MWF4dnlOMzZ6Rko1OFg0ZEpIWmtQMGQtMkU1a3JDY252NTFaLXRENkdkQndyOFJ5RTZvT1RWemtV?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-05",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-11T01:58:44+00:00"
     },
     {
       "id": "8bfff7a231c4",
@@ -1264,6 +1626,19 @@
       "people": [],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "3579229cff55",
+      "title": "Blumenthal, 80, plans to run for reelection in 2028",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlphZWZVUzVaeEVtVVBZUGpJUjFjd1cyNVVfSWpfUHdpNzNuelZFc0VsaVpXd3RSenlwTFROY3B0Vm10amZ6Y2p6eGFMZ0pmd2JhazJKRGJGNXl4Q1pxcnhyU25sbExCdGp5TThTV3ZiQi1hMkt5Y0lrajVYZDBEWTdCQkxvVUFPci1KeVFhUDY1V2gydXc?oc=5",
+      "publisher": "Audacy",
+      "date": "2026-11-04",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-senate",
+      "found": "2026-11-11T01:58:44+00:00"
     },
     {
       "id": "96cc55891c01",
