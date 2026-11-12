@@ -2,7 +2,9 @@
 """Checks data.json before it is published. Exit 1 on errors.
 
 Errors: bad JSON, unknown status, a source id that does not exist, an aspirant
-id missing from `people`, a survey without fieldwork/n/moe.
+id missing from `people`, a survey without fieldwork/n/moe, a job description
+missing a field, an official ballot without a source or with bad numbers, a poll
+opened before the official ballot is in.
 Warnings: an entry with no source at all (every figure should have one).
 """
 import json
@@ -44,6 +46,41 @@ for e in d["timeline"]:
     for s in e.get("src", []):
         if s not in src:
             errors.append(f"timeline {e['label']}: unknown source id '{s}'")
+JOB_KEYS = ("id", "pos", "tl", "level", "seats", "term", "pick", "duties", "not", "quals", "ask", "src")
+job_ids = set()
+for j in d.get("jobs", []):
+    for k in JOB_KEYS:
+        if k not in j:
+            errors.append(f"jobs.{j.get('id')}: missing {k}")
+    if j.get("level") not in ("national", "local"):
+        errors.append(f"jobs.{j.get('id')}: level must be national or local")
+    job_ids.add(j.get("id"))
+    check_src(f"jobs.{j.get('id')}", j.get("src"))
+
+b = d.get("ballot", {})
+if b.get("official"):
+    if not b.get("released"):
+        errors.append("ballot: official list needs a released date")
+    if not b.get("src"):
+        errors.append("ballot: official list needs a source (COMELEC)")
+    if not b.get("positions"):
+        errors.append("ballot: official list has no positions")
+for s_ in b.get("src", []):
+    if s_ not in src:
+        errors.append(f"ballot: unknown source id '{s_}'")
+for p in b.get("positions", []):
+    if p.get("job") not in job_ids:
+        errors.append(f"ballot: position '{p.get('job')}' has no job description")
+    if not isinstance(p.get("max"), int) or p["max"] < 1:
+        errors.append(f"ballot.{p.get('job')}: max must be a positive integer")
+    nos = [c.get("no") for c in p.get("candidates", [])]
+    if any(not isinstance(n, int) for n in nos) or len(set(nos)) != len(nos):
+        errors.append(f"ballot.{p.get('job')}: candidate numbers must be unique integers")
+    if any(not c.get("name") for c in p.get("candidates", [])):
+        errors.append(f"ballot.{p.get('job')}: every candidate needs a name")
+if d.get("poll", {}).get("open") and not b.get("official"):
+    errors.append("poll: cannot open before ballot.official is true")
+
 for k, (t, u) in src.items():
     if not u.startswith("https://"):
         errors.append(f"sources.{k}: url must be https")

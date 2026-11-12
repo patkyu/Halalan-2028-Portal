@@ -11,6 +11,7 @@ GitHub Actions job that keeps its news feed current.
 | `data.json` | Curated facts: voter counts, aspirants and statuses, surveys, timeline, sources. | **You, by hand** |
 | `news.json` | Headlines about the 2028 elections, each linked to the article. | The daily job |
 | `photos.json` | Freely licensed Wikimedia Commons photos, with author and licence. | The daily job |
+| `api/poll.js` | Visitor poll for the practice ballot (Vercel function, Upstash Redis). Closed until the official list is in. | |
 | `scraper/scrape.py` | The scraper (Python standard library only). | |
 | `scraper/config.json` | Feeds, keywords and the rules for flagging articles. | You |
 | `scraper/validate.py` | Checks `data.json` (statuses, source ids, survey fields). | |
@@ -53,3 +54,27 @@ python3 scraper/scrape.py --root /tmp/h28test --fixtures scraper/fixtures --toda
 ```
 
 (copy `data.json` into `/tmp/h28test` first).
+
+## Official ballot and visitor poll
+
+The **practice ballot** uses placeholder names until COMELEC releases the official list of
+candidates. Then, in `data.json`:
+
+1. Fill `ballot.positions` with the national posts in ballot order:
+   `{"job": "pres", "max": 1, "candidates": [{"no": 1, "name": "...", "party": "..."}]}`
+   (`job` matches an id in `jobs`; `sen` has `max: 12`, `pl` has `max: 1`).
+2. Set `ballot.released` (YYYY-MM-DD), add COMELEC's list to `sources` and to `ballot.src`,
+   and set `ballot.official` to `true`. Run `python3 scraper/validate.py`.
+
+The **visitor poll** (`Botohan ng mga bisita`) lets people send their practice ballot and then
+see how other visitors voted. It is opt-in and is labelled *Hindi ito survey*: it never appears
+with the surveys. To open it:
+
+1. In Vercel: **Storage → Marketplace → Upstash Redis**, connect it to the project
+   (this sets `KV_REST_API_URL` and `KV_REST_API_TOKEN`). Add an env var `POLL_SALT` with a long random string.
+2. In `data.json` set `poll.open` to `true` and `poll.closes` to the last day (before election day).
+3. Push. The validator refuses `poll.open: true` while `ballot.official` is false.
+
+The poll stores only tallies, a random device cookie and an hourly per-network counter
+(a salted hash of the IP, kept for one hour). It limits repeat voting but cannot stop a
+determined person, which is one more reason it is not a survey.

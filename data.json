@@ -1143,6 +1143,363 @@
     "sunstar-resume": [
       "Voter registration resumes in November — SunStar",
       "https://www.sunstar.com.ph/manila/voter-registration-resumes-in-november-says-comelec"
+    ],
+    "const-1987": [
+      "1987 Constitution of the Philippines — Official Gazette",
+      "https://www.officialgazette.gov.ph/constitutions/1987-constitution/"
+    ],
+    "ra-7160": [
+      "Republic Act 7160, Local Government Code of 1991 — Lawphil",
+      "https://lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html"
+    ],
+    "ra-7941": [
+      "Republic Act 7941, Party-List System Act — Lawphil",
+      "https://lawphil.net/statutes/repacts/ra1995/ra_7941_1995.html"
+    ],
+    "belgica-2013": [
+      "Belgica v. Ochoa, G.R. No. 208566 (2013) — Lawphil",
+      "https://lawphil.net/judjuris/juri2013/nov2013/gr_208566_2013.html"
+    ],
+    "ra-6975": [
+      "Republic Act 6975, DILG Act of 1990 — Lawphil",
+      "https://lawphil.net/statutes/repacts/ra1990/ra_6975_1990.html"
     ]
+  },
+  "jobs": [
+    {
+      "id": "pres",
+      "pos": "President",
+      "tl": "Pangulo",
+      "level": "national",
+      "seats": "1 seat",
+      "term": "6 years, cannot run again",
+      "pick": "Vote for 1",
+      "duties": [
+        "Heads the government and runs all executive departments, bureaus and offices",
+        "Commander-in-chief of the Armed Forces",
+        "Appoints Cabinet secretaries, ambassadors and senior military officers (many need Commission on Appointments consent), and judges from Judicial and Bar Council lists",
+        "Proposes the national budget to Congress each year and can veto bills or budget items",
+        "Negotiates treaties (the Senate must approve them) and leads foreign policy",
+        "Grants pardons and, with Congress, amnesty",
+        "Delivers the State of the Nation Address"
+      ],
+      "not": [
+        "Cannot pass laws alone: Congress makes laws",
+        "Cannot spend money Congress has not approved in the budget"
+      ],
+      "quals": [
+        "Natural-born citizen",
+        "Registered voter, able to read and write",
+        "At least 40 years old on election day",
+        "Lived in the Philippines for 10 years before the election"
+      ],
+      "ask": [
+        "What will they prioritise in the national budget, and how will it be paid for?",
+        "Who would they appoint to run key departments?",
+        "What did they do in past executive or management posts?"
+      ],
+      "src": [
+        "const-1987"
+      ]
+    },
+    {
+      "id": "vp",
+      "pos": "Vice President",
+      "tl": "Pangalawang Pangulo",
+      "level": "national",
+      "seats": "1 seat",
+      "term": "6 years, at most 2 terms in a row",
+      "pick": "Vote for 1 (elected separately from the President)",
+      "duties": [
+        "Takes over if the President dies, is removed, resigns or is permanently disabled",
+        "May be appointed to the Cabinet by the President (no confirmation needed)",
+        "Runs the Office of the Vice President and the programmes Congress funds in its budget"
+      ],
+      "not": [
+        "The Constitution gives the VP no other fixed powers: most of the job depends on what the President assigns"
+      ],
+      "quals": [
+        "Same as President: natural-born citizen, registered voter, able to read and write",
+        "At least 40 years old on election day",
+        "Lived in the Philippines for 10 years before the election"
+      ],
+      "ask": [
+        "Are they ready to take over as President if needed?",
+        "What would they do with the Office of the Vice President's budget?"
+      ],
+      "src": [
+        "const-1987"
+      ]
+    },
+    {
+      "id": "sen",
+      "pos": "Senator",
+      "tl": "Senador",
+      "level": "national",
+      "seats": "12 of 24 elected in 2028",
+      "term": "6 years, at most 2 terms in a row",
+      "pick": "Vote for up to 12",
+      "duties": [
+        "Writes, debates and votes on national laws",
+        "Reviews and approves the national budget with the House",
+        "Approves or rejects treaties (two-thirds of senators must agree)",
+        "Acts as judge in impeachment trials",
+        "Holds hearings (inquiries in aid of legislation) to look into issues and problems in government",
+        "Some senators sit on the Commission on Appointments, which confirms Cabinet members and other officials"
+      ],
+      "not": [
+        "Does not build roads or hand out aid: government agencies carry out projects. Since 2013 the Supreme Court has barred legislators from choosing or releasing project funds after the budget is passed"
+      ],
+      "quals": [
+        "Natural-born citizen",
+        "At least 35 years old on election day",
+        "Registered voter, able to read and write",
+        "Lived in the Philippines for 2 years before the election"
+      ],
+      "ask": [
+        "What laws have they written or pushed, and what happened to them?",
+        "How did they vote on major bills or on the budget?",
+        "Which committee work or hearings have they led?"
+      ],
+      "src": [
+        "const-1987",
+        "belgica-2013"
+      ]
+    },
+    {
+      "id": "rep",
+      "pos": "District Representative",
+      "tl": "Kinatawan ng distrito",
+      "level": "national",
+      "seats": "1 per legislative district",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1",
+      "duties": [
+        "Writes and votes on national laws, including bills for their district",
+        "Budget, tax and tariff bills must start in the House",
+        "Only the House can start an impeachment case",
+        "Represents the district's needs in Congress"
+      ],
+      "not": [
+        "Does not carry out projects or release funds: agencies and local governments do. The Supreme Court barred legislators from choosing or releasing project funds after the budget is passed (2013)"
+      ],
+      "quals": [
+        "Natural-born citizen",
+        "At least 25 years old on election day",
+        "Registered voter in the district, able to read and write",
+        "Lived in the district for at least 1 year before the election"
+      ],
+      "ask": [
+        "Which bills have they filed or passed, and did they help the district?",
+        "Do they show up for sessions and votes?"
+      ],
+      "src": [
+        "const-1987",
+        "belgica-2013"
+      ]
+    },
+    {
+      "id": "pl",
+      "pos": "Party-list",
+      "tl": "Party-list",
+      "level": "national",
+      "seats": "Up to 20% of the House",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1 party, not a person",
+      "duties": [
+        "Party-list groups win House seats according to their share of the national party-list vote",
+        "Their nominees serve as House members, with the same law-making work as district representatives",
+        "Meant to give a voice to sectors and groups that may not win district seats"
+      ],
+      "not": [
+        "You vote for the group, and the group's list decides who sits in the House: check who its nominees are"
+      ],
+      "quals": [
+        "Nominees: natural-born citizen, registered voter, able to read and write",
+        "At least 25 years old on election day (youth-sector nominees: 25 to 30)",
+        "Bona fide member of the party for at least 90 days before the election",
+        "Lived in the Philippines for at least 1 year before the election"
+      ],
+      "ask": [
+        "Who are the group's nominees, and what is their connection to the sector?",
+        "What has the group done in the House?"
+      ],
+      "src": [
+        "const-1987",
+        "ra-7941"
+      ]
+    },
+    {
+      "id": "gov",
+      "pos": "Governor",
+      "tl": "Gobernador",
+      "level": "local",
+      "seats": "1 per province",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1",
+      "duties": [
+        "Chief executive of the province: carries out provincial laws (ordinances) and programmes",
+        "Prepares the provincial budget and can veto ordinances",
+        "Appoints provincial officials and employees",
+        "Runs services handed to provinces, such as provincial hospitals, agricultural support and roads linking towns"
+      ],
+      "not": [
+        "Does not run towns and cities: their mayors do"
+      ],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 23 years old on election day"
+      ],
+      "ask": [
+        "How has the provincial budget been spent, and on what?",
+        "What is their plan for provincial hospitals, farm support and roads?"
+      ],
+      "src": [
+        "ra-7160"
+      ]
+    },
+    {
+      "id": "vgov",
+      "pos": "Vice Governor",
+      "tl": "Bise Gobernador",
+      "level": "local",
+      "seats": "1 per province",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1",
+      "duties": [
+        "Presides over the provincial board (Sangguniang Panlalawigan) and votes only to break a tie",
+        "Approves the board's own spending",
+        "Takes over as Governor if the post becomes vacant"
+      ],
+      "not": [],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 23 years old on election day"
+      ],
+      "ask": [
+        "How do they run board sessions, and what ordinances have they moved?"
+      ],
+      "src": [
+        "ra-7160"
+      ]
+    },
+    {
+      "id": "sp",
+      "pos": "Provincial Board Member",
+      "tl": "Bokal (Sangguniang Panlalawigan)",
+      "level": "local",
+      "seats": "Varies by province and district",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for the number shown on your ballot",
+      "duties": [
+        "Passes provincial ordinances and resolutions",
+        "Approves the provincial budget",
+        "Sets provincial taxes, fees and charges within the limits of law"
+      ],
+      "not": [],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 23 years old on election day"
+      ],
+      "ask": [
+        "Which ordinances have they written, and how did they vote on the budget?"
+      ],
+      "src": [
+        "ra-7160"
+      ]
+    },
+    {
+      "id": "mayor",
+      "pos": "Mayor",
+      "tl": "Alkalde",
+      "level": "local",
+      "seats": "1 per city or municipality",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1",
+      "duties": [
+        "Chief executive of the city or town: carries out ordinances and runs local offices",
+        "Prepares the local budget and can veto ordinances",
+        "Appoints city or municipal officials and employees",
+        "Oversees local police operations and leads disaster response",
+        "Issues business permits and licences",
+        "Runs basic services such as health centres, garbage collection, public markets and day care"
+      ],
+      "not": [],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 21 years old on election day (23 in highly urbanized cities)"
+      ],
+      "ask": [
+        "How has the city or town budget been spent?",
+        "What is their plan for health, garbage, traffic or flooding?",
+        "How do they handle permits and disaster response?"
+      ],
+      "src": [
+        "ra-7160",
+        "ra-6975"
+      ]
+    },
+    {
+      "id": "vmayor",
+      "pos": "Vice Mayor",
+      "tl": "Bise Alkalde",
+      "level": "local",
+      "seats": "1 per city or municipality",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for 1",
+      "duties": [
+        "Presides over the city or municipal council (Sangguniang Panlungsod or Bayan) and votes only to break a tie",
+        "Approves the council's own spending",
+        "Takes over as Mayor if the post becomes vacant"
+      ],
+      "not": [],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 21 years old on election day (23 in highly urbanized cities)"
+      ],
+      "ask": [
+        "How do they run council sessions, and what ordinances have they moved?"
+      ],
+      "src": [
+        "ra-7160"
+      ]
+    },
+    {
+      "id": "council",
+      "pos": "Councilor",
+      "tl": "Konsehal",
+      "level": "local",
+      "seats": "Varies by city or municipality",
+      "term": "3 years, at most 3 terms in a row",
+      "pick": "Vote for the number shown on your ballot",
+      "duties": [
+        "Passes city or municipal ordinances and resolutions",
+        "Approves the local budget",
+        "Sets local taxes, fees and charges within the limits of law",
+        "Approves zoning and land-use plans and franchises such as for tricycles"
+      ],
+      "not": [],
+      "quals": [
+        "Filipino citizen, registered voter in the area, resident there at least 1 year before election day, able to read and write Filipino or a local language",
+        "At least 18 years old on election day (23 in highly urbanized cities)"
+      ],
+      "ask": [
+        "Which ordinances have they written, and do they attend sessions?"
+      ],
+      "src": [
+        "ra-7160"
+      ]
+    }
+  ],
+  "ballot": {
+    "official": false,
+    "released": null,
+    "note": "COMELEC releases the official list of candidates after certificates of candidacy are filed (planned Sept 20–27, 2027) and petitions are resolved.",
+    "src": [],
+    "positions": []
+  },
+  "poll": {
+    "open": false,
+    "closes": null
   }
 }

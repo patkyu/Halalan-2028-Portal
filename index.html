@@ -271,6 +271,35 @@ svg g.tlev:hover .tl-dot,svg g.tlev.sel .tl-dot{stroke:var(--violet);stroke-widt
 .bopt[aria-pressed="true"] .oval{background:var(--ink)}
 .bopt[aria-pressed="true"]{color:var(--ink)}
 
+/* job descriptions */
+.jobpick{display:grid;gap:8px}
+.jobpick .chips{gap:6px}
+.jobcard{border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:14px;background:var(--paper)}
+.jobcard h3{font-size:1.3rem}
+.jobmeta{display:flex;flex-wrap:wrap;gap:6px}
+.jobmeta span{font:600 .74rem var(--f-mono);border:1px solid var(--line);background:var(--sheet);border-radius:6px;padding:3px 8px}
+.jobcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:14px 22px}
+.jobcols ul{margin:4px 0 0;padding-left:1.1rem;display:grid;gap:5px;font-size:.92rem}
+.jobnot{border-left:3px solid var(--no);padding:6px 12px;background:var(--no-soft);border-radius:0 6px 6px 0;font-size:.9rem}
+.jobask{border-left:3px solid var(--violet);padding:6px 12px;background:var(--violet-soft);border-radius:0 6px 6px 0;font-size:.9rem}
+.jobask ul,.jobnot ul{margin:4px 0 0;padding-left:1.1rem;display:grid;gap:4px}
+.joblink{font:600 .72rem var(--f-mono);background:none;border:0;color:var(--violet);cursor:pointer;padding:0;text-decoration:underline;text-transform:none;letter-spacing:0}
+.bsec-h .bmeta{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.bopt .bno{font:600 .74rem var(--f-mono);color:var(--muted);min-width:1.6em}
+.bopt .bparty{display:block;font-size:.72rem;color:var(--muted)}
+
+/* visitor poll */
+.pollstate{display:grid;gap:10px}
+.pollrules{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:10px}
+.pollrules div{border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:.86rem;display:grid;gap:2px;background:var(--paper)}
+.pollrules b{font-family:var(--f-display)}
+.pollbadge{font:700 .7rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--warn);color:var(--warn);background:var(--warn-soft);border-radius:999px;padding:2px 9px;justify-self:start}
+.pollres{display:grid;gap:14px}
+.pollres .mini{display:grid;grid-template-columns:minmax(0,11rem) 1fr 3.4rem;gap:8px;align-items:center;font-size:.86rem}
+.pollres .t{height:10px;background:var(--line);border-radius:5px;overflow:hidden}
+.pollres .t span{display:block;height:100%;background:var(--gray)}
+.pollres .pct{font-family:var(--f-mono);text-align:right}
+
 /* news */
 .news{list-style:none;margin:0;padding:0;display:grid;gap:0}
 .news li{display:grid;grid-template-columns:6.5rem 1fr;gap:4px 14px;padding:12px 0;border-top:1px solid var(--line)}
@@ -415,6 +444,7 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
         <div class="legend" id="legend"></div>
         <div class="overview" id="overview"></div>
         <p class="caveat">No one is an official candidate until certificates of candidacy are filed, planned for September 20–27, 2027. Statuses reflect what each person has said publicly, and can change.</p>
+        <p class="src">Not sure what each post actually does? <a href="#halalan" data-gojob>Basahin ang job description ng bawat puwesto</a>.</p>
       </div>
 
       <div class="sheet controls">
@@ -448,11 +478,22 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
         <ol class="timeline" id="timeline"></ol>
       </div>
 
+      <div class="sheet" id="trabaho">
+        <div class="row spread"><h2>Ano ang trabaho ng bawat puwesto?</h2><span class="src">Based on the Constitution and the law</span></div>
+        <p class="src">The job description for each post on your ballot: what the law says the official must do, what is not part of the job, and who can run. Use it as a baseline when you compare candidates.</p>
+        <div class="jobpick">
+          <div class="chips" id="jobsNat" role="group" aria-label="National posts"></div>
+          <div class="chips" id="jobsLoc" role="group" aria-label="Local posts"></div>
+        </div>
+        <div id="jobcard" aria-live="polite"></div>
+      </div>
+
       <div class="grid2">
         <div class="sheet">
           <div class="row spread"><h2>Subukan ang balota</h2><button class="btn" type="button" id="ballotReset">Clear</button></div>
-          <p class="src">A practice ballot showing what you will vote for in 2028. Shade ovals to try it. Names are placeholders: the real list comes after COC filing. If you shade more ovals than allowed, none of your votes for that position count.</p>
+          <p class="src" id="ballotnote"></p>
           <div class="ballot" id="ballot"></div>
+          <div id="pollsend"></div>
         </div>
         <div class="grid2" style="grid-template-columns:1fr;align-content:start">
           <div class="sheet">
@@ -479,6 +520,11 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
             <p class="src">Gatchalian, Hontiveros, Villanueva and Zubiri are term-limited as senators in 2028.</p>
           </div>
         </div>
+      </div>
+
+      <div class="sheet" id="botohan">
+        <div class="row spread"><h2>Botohan ng mga bisita</h2><span class="pollbadge">Hindi ito survey</span></div>
+        <div id="poll" class="pollstate"></div>
       </div>
 
       <div class="grid2">
@@ -855,16 +901,53 @@ function renderTimeline(){
   });
 }
 
+/* ---------- job descriptions ---------- */
+let jobOn = "pres";
+function renderJobs(){
+  const chip = j => `<button type="button" class="chip" data-job="${j.id}" aria-pressed="${jobOn === j.id}">${esc(j.tl)}</button>`;
+  $("#jobsNat").innerHTML = `<span class="eyebrow" style="align-self:center">National</span>` + D.jobs.filter(j => j.level === "national").map(chip).join("");
+  $("#jobsLoc").innerHTML = `<span class="eyebrow" style="align-self:center">Local</span>` + D.jobs.filter(j => j.level === "local").map(chip).join("");
+  $$("#trabaho .chip").forEach(c => c.addEventListener("click", () => showJob(c.dataset.job)));
+  const j = D.jobs.find(x => x.id === jobOn) || D.jobs[0];
+  const list = a => `<ul>${a.map(x => `<li>${esc(x)}</li>`).join("")}</ul>`;
+  $("#jobcard").innerHTML = `<article class="jobcard">
+    <div><span class="eyebrow">${esc(j.pos)}</span><h3>${esc(j.tl)}</h3></div>
+    <div class="jobmeta"><span>${esc(j.seats)}</span><span>Term: ${esc(j.term)}</span><span>${esc(j.pick)}</span></div>
+    <div class="jobcols"><div><b>Trabaho niya</b>${list(j.duties)}</div><div><b>Sino ang pwedeng tumakbo</b>${list(j.quals)}</div></div>
+    ${j.not.length ? `<div class="jobnot"><b>Hindi niya trabaho</b>${list(j.not)}</div>` : ""}
+    <div class="jobask"><b>Mga pwedeng itanong sa kandidato</b>${list(j.ask)}</div>
+    <p class="src">Sources: ${j.src.map(id => D.sources[id] ? `<a href="${esc(D.sources[id][1])}" target="_blank" rel="noopener">${esc(D.sources[id][0])}</a>` : "").join(" · ")}</p>
+  </article>`;
+}
+function showJob(id, scroll){
+  jobOn = id; renderJobs();
+  if (scroll) $("#trabaho").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
 /* ---------- practice ballot ---------- */
+// Placeholder ballot used until COMELEC releases the official list (D.ballot.official).
 const BALLOT = [
-  ["President", 1, 4], ["Vice President", 1, 4], ["Senator", 12, 16], ["Party-list", 1, 6],
-  ["Member, House of Representatives", 1, 3], ["Mayor", 1, 3], ["Vice Mayor", 1, 3]
+  ["pres", "President", 1, 4], ["vp", "Vice President", 1, 4], ["sen", "Senator", 12, 16], ["pl", "Party-list", 1, 6],
+  ["rep", "Member, House of Representatives", 1, 3], ["mayor", "Mayor", 1, 3], ["vmayor", "Vice Mayor", 1, 3]
 ];
+const official = () => !!(D.ballot && D.ballot.official && D.ballot.positions.length);
+function ballotSections(){
+  if (official()) return D.ballot.positions.map(p => ({ job: p.job, title: (D.jobs.find(j => j.id === p.job) || {}).pos || p.job, max: p.max,
+    opts: p.candidates.map(c => ({ no: c.no, label: c.name, party: c.party })) }));
+  return BALLOT.map(([job, title, max, c]) => ({ job, title, max,
+    opts: Array.from({ length: c }, (_, i) => ({ label: `${job === "pl" ? "Party" : "Candidate"} ${String.fromCharCode(65 + i)}` })) }));
+}
 function renderBallot(){
-  $("#ballot").innerHTML = `<div class="ballot-top"><span>Practice ballot · Halalan 2028</span><span>Mayo 8, 2028</span></div>` +
-    BALLOT.map(([pos, n, c], si) => `<div class="bsec" data-max="${n}"><div class="bsec-h"><b>${pos}</b><span data-count>Vote for ${n}</span></div>
-      <div class="bopts">${Array.from({ length: c }, (_, i) => `<button type="button" class="bopt" aria-pressed="false" aria-label="${pos}, ${pos === "Party-list" ? "Party" : "Candidate"} ${i+1}"><span class="oval"></span>${pos === "Party-list" ? "Party" : "Candidate"} ${String.fromCharCode(65 + (i % 26))}</button>`).join("")}</div></div>`).join("") +
-    `<div class="bsec"><div class="bsec-h"><b>Councilors, provincial board</b><span>Number varies by city or province</span></div></div>`;
+  const B = D.ballot || {};
+  $("#ballotnote").innerHTML = official()
+    ? `The official list of candidates from COMELEC${B.released ? `, released ${esc(fmtDate(toDate(B.released)))}` : ""}, in ballot order. Shade ovals to practise. If you shade more ovals than allowed, none of your votes for that position count.${(B.src || []).length ? ` Source: ${B.src.map(id => D.sources[id] ? `<a href="${esc(D.sources[id][1])}" target="_blank" rel="noopener">${esc(D.sources[id][0])}</a>` : "").join(", ")}` : ""}`
+    : `A practice ballot showing what you will vote for in 2028. Shade ovals to try it. Names are placeholders: ${esc(B.note || "the real list comes after COC filing.")} If you shade more ovals than allowed, none of your votes for that position count.`;
+  const secs = ballotSections();
+  $("#ballot").innerHTML = `<div class="ballot-top"><span>${official() ? "Official list" : "Practice ballot"} · Halalan 2028</span><span>Mayo 8, 2028</span></div>` +
+    secs.map(s => `<div class="bsec" data-max="${s.max}" data-job="${s.job}"><div class="bsec-h"><b>${esc(s.title)}</b><span class="bmeta"><span data-count>Vote for ${s.max}</span><button type="button" class="joblink" data-showjob="${s.job}">Ano ang trabaho?</button></span></div>
+      <div class="bopts">${s.opts.map(o => `<button type="button" class="bopt" aria-pressed="false" ${o.no != null ? `data-no="${o.no}"` : ""} aria-label="${esc(s.title)}, ${esc(o.label)}"><span class="oval"></span>${o.no != null ? `<span class="bno">${o.no}.</span>` : ""}<span>${esc(o.label)}${o.party ? `<span class="bparty">${esc(o.party)}</span>` : ""}</span></button>`).join("")}</div></div>`).join("") +
+    (official() ? `<div class="bsec"><div class="bsec-h"><b>Local posts</b><span class="bmeta"><span>Names differ by city or province</span><button type="button" class="joblink" data-showjob="mayor">Ano ang trabaho?</button></span></div></div>`
+      : `<div class="bsec"><div class="bsec-h"><b>Councilors, provincial board</b><span class="bmeta"><span>Number varies by city or province</span><button type="button" class="joblink" data-showjob="council">Ano ang trabaho?</button></span></div></div>`);
   $$("#ballot .bsec[data-max]").forEach(sec => sec.addEventListener("click", e => {
     const b = e.target.closest(".bopt"); if (!b) return;
     b.setAttribute("aria-pressed", String(b.getAttribute("aria-pressed") !== "true"));
@@ -872,8 +955,67 @@ function renderBallot(){
     sec.classList.toggle("over", n > max);
     sec.querySelector("[data-count]").textContent = n > max ? `Over-vote: ${n} of ${max}. None of these count` : `Vote for ${max} · ${n} shaded`;
   }));
+  $$("#ballot [data-showjob]").forEach(b => b.addEventListener("click", () => showJob(b.dataset.showjob, true)));
+  renderPollSend();
 }
 $("#ballotReset").addEventListener("click", renderBallot);
+document.addEventListener("click", e => { if (e.target.closest("[data-gojob]")) setTimeout(() => $("#trabaho").scrollIntoView({ behavior: "smooth", block: "start" }), 50); });
+
+/* ---------- visitor poll (opt-in, not a survey) ---------- */
+// Opens only when D.ballot.official and D.poll.open are both true. Votes go to /api/poll (Vercel function).
+const pollOpen = () => official() && D.poll && D.poll.open && (!D.poll.closes || today <= toDate(D.poll.closes));
+const POLL_RULES = `<div class="pollrules">
+  <div><b>Hindi survey</b><span class="src">Only people who visit this site and choose to vote. It does not represent all voters, so it is never shown with the surveys.</span></div>
+  <div><b>Official names only</b><span class="src">Uses COMELEC's official list of candidates, in ballot order.</span></div>
+  <div><b>Results after you vote</b><span class="src">You see the tally only after sending your ballot, so it does not sway your choice.</span></div>
+  <div><b>One ballot per device</b><span class="src">Basic limits against repeat voting. It can still be gamed, which is another reason it is not a survey.</span></div>
+</div>`;
+function renderPollSend(){
+  const el = $("#pollsend"); if (!el) return;
+  el.innerHTML = pollOpen()
+    ? `<div class="row spread" style="margin-top:10px"><span class="src">Done? Send this ballot to the visitor poll. Over-voted positions are not counted, like on the real ballot.</span><button class="btn" type="button" id="pollSubmit">Ipadala sa botohan</button></div>`
+    : "";
+  if (pollOpen()) $("#pollSubmit").addEventListener("click", submitPoll);
+}
+async function submitPoll(){
+  const votes = {};
+  $$("#ballot .bsec[data-max]").forEach(sec => { votes[sec.dataset.job] = [...sec.querySelectorAll('.bopt[aria-pressed="true"]')].map(b => +b.dataset.no); });
+  if (!Object.values(votes).some(v => v.length)) { $("#poll").insertAdjacentHTML("afterbegin", `<p class="caveat">Shade at least one oval first.</p>`); $("#botohan").scrollIntoView({ behavior: "smooth" }); return; }
+  $("#pollSubmit").disabled = true;
+  try {
+    const r = await fetch("api/poll", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ votes }) });
+    const j = await r.json().catch(() => ({}));
+    if (r.status === 409) store.set("h28-voted", "1");
+    else if (!r.ok) throw new Error(j.error || r.status);
+    else store.set("h28-voted", "1");
+    await renderPoll(j.error && r.status !== 409 ? j.error : r.status === 409 ? "You already sent a ballot from this device." : "Salamat! Your ballot was counted.");
+  } catch (e) { await renderPoll(`Could not send your ballot (${esc(e.message)}). Try again later.`); $("#pollSubmit").disabled = false; }
+  $("#botohan").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+async function renderPoll(msg){
+  const el = $("#poll");
+  if (!pollOpen()) {
+    el.innerHTML = `<p>Once COMELEC releases the official list of candidates, you can send your practice ballot here and see how other visitors voted.</p>${POLL_RULES}
+      <p class="caveat">Not open yet. Opens after COMELEC publishes the official list of candidates (certificates of candidacy are planned for September 20–27, 2027).</p>`;
+    return;
+  }
+  let data = null;
+  try { const r = await fetch("api/poll", { cache: "no-store" }); if (r.ok) data = await r.json(); } catch (e) {}
+  const voted = store.get("h28-voted") === "1" || (data && data.voted);
+  const secs = ballotSections(), name = (s, no) => (s.opts.find(o => o.no === +no) || {}).label || `#${no}`;
+  const results = voted && data && data.results ? secs.map(s => {
+    const r = data.results[s.job] || {}, valid = data.valid && data.valid[s.job] || 0;
+    // Ballot order, not ranked: this is a tally of site visitors, not a race standing.
+    const rows = s.opts.map(o => [o.no, r[o.no] || 0]);
+    return `<div><span class="eyebrow">${esc(s.title)} · ${valid.toLocaleString()} valid ballot${valid === 1 ? "" : "s"}</span>
+      ${rows.length ? rows.map(([no, c]) => { const v = valid ? Math.round(c / valid * 1000) / 10 : 0; return `<div class="mini"><span>${esc(name(s, no))}</span><span class="t"><span style="width:${v}%"></span></span><span class="pct">${v}%</span></div>`; }).join("") : `<p class="src">No votes yet.</p>`}</div>`;
+  }).join("") : "";
+  el.innerHTML = `${msg ? `<p><b>${esc(msg)}</b></p>` : ""}
+    <p>${voted ? "How visitors to this site voted. These are not survey results and do not show how the country will vote." : "Shade your practice ballot above, then tap <b>Ipadala sa botohan</b>. You will see the tally after you vote."}</p>
+    ${data ? `<p class="src">${(data.ballots || 0).toLocaleString()} ballot${data.ballots === 1 ? "" : "s"} sent so far${D.poll.closes ? ` · closes ${esc(fmtDate(toDate(D.poll.closes)))}` : ""}.</p>` : `<p class="src">Poll results could not be loaded right now.</p>`}
+    ${results ? `<div class="pollres">${results}</div>` : ""}
+    ${POLL_RULES}`;
+}
 
 /* ---------- news ---------- */
 let topicOn = "all";
@@ -935,7 +1077,7 @@ async function getJSON(url, fallback){
   Object.entries(D.people).forEach(([id, p]) => NAME2ID[p.name] = id);
   renderHeader(); renderVoters(); renderChecker(); renderOverview();
   const s = store.get("h28-pos"); setPos(s && D.aspirants[s] ? s : "pres");
-  renderTimeline(); renderBallot(); renderNews(); renderSources();
+  renderTimeline(); renderJobs(); renderBallot(); renderPoll(); renderNews(); renderSources();
   ["bday", "c-cit", "c-res"].forEach(id => $("#" + id).addEventListener("input", () => { if (id === "bday") $("#bdayhint").textContent = "Age is counted as of May 8, 2028."; renderChecker(); }));
   $("#checker").addEventListener("submit", e => e.preventDefault());
   $$(".subtabs [data-pos]").forEach(b => b.addEventListener("click", () => setPos(b.dataset.pos)));
