@@ -4,8 +4,8 @@ A single-page web app for Filipino voters ahead of the May 8, 2028 national and 
 
 ## What's here
 - `index.html` — the page (HTML + CSS + JS, no build step). Google Fonts is the only external dependency. It fetches `data.json`, `news.json` and `photos.json`, so preview it through a server (`python3 -m http.server`).
-- `data.json` — curated facts, edited by hand: `people` (id → name, Wikipedia title), `aspirants` (pres / vp / sen, each `{id, role, status, note, date, src: [source ids]}`), `voterCounts`, `overseas`, `notes`, `surveys` (`pollster, fieldwork, n, moe, src, rows`), `timeline`, `jobs` (job description per post: duties, what is not the job, qualifications, questions to ask, from the Constitution, RA 7160, RA 7941), `ballot` (official COMELEC list; `official: false` until released), `poll` (`open`, `closes`), `sources` (id → [title, url]).
-- `api/poll.js` — Vercel function for the visitor poll (Upstash Redis). Accepts ballots only when `ballot.official` and `poll.open` are both true.
+- `data.json` — curated facts, edited by hand: `people` (id → name, Wikipedia title), `aspirants` (pres / vp / sen, each `{id, role, status, note, date, src: [source ids]}`), `voterCounts`, `overseas`, `notes`, `surveys` (`pollster, fieldwork, n, moe, src, rows`), `timeline`, `jobs` (job description per post: duties, what is not the job, qualifications, questions to ask, from the Constitution, RA 7160, RA 7941), `ballot` (official COMELEC list; `official: false` until released), `poll` (`open`, `closes`, `positions`, `aliases` id → nicknames, `extra` for names not in `people`), `sources` (id → [title, url]).
+- `api/poll.js` — Vercel function for the write-in visitor poll (Upstash Redis). `namematch.js` (shared by page and API) matches typed names to people, forgiving typos and nicknames.
 - `news.json`, `photos.json` — written by `scraper/scrape.py`; do not hand-edit.
 - Four views routed by URL hash: `#botante` (eligibility checker, registration, voter counts), `#kandidato` (status overview, aspirants, surveys, profiles), `#halalan` (timeline, job descriptions, practice ballot, visitor poll, rules, sources), `#balita` (news feed).
 - `scraper/validate.py` must pass before publishing; it warns on entries with no source.
@@ -24,9 +24,9 @@ A single-page web app for Filipino voters ahead of the May 8, 2028 national and 
 - No declared VP candidate yet.
 
 ## Official ballot and visitor poll
-- When COMELEC publishes the official list: fill `ballot.positions` (`{job, max, candidates: [{no, name, party}]}` in ballot order, national posts only), set `released`, add the COMELEC source to `src`, set `official: true`. The practice ballot switches to real names.
-- Then, if the owner decides, set `poll.open: true` and `poll.closes` (before election day; check COMELEC rules for the campaign period first). Needs Upstash Redis env vars and `POLL_SALT` on Vercel.
-- The poll is opt-in and **not a survey**: never show it with or as survey data. Results show in ballot order, only after the visitor votes.
+- Practice ballot: placeholder names until COMELEC publishes the official list. Then fill `ballot.positions` (`{job, max, candidates: [{no, name, party}]}` in ballot order, national posts only), set `released`, add the COMELEC source to `src`, set `official: true`. The ballot is not connected to the poll.
+- Visitor poll (`Botohan ng mga bisita`): open now. Visitors type who they want for President and VP; `namematch.js` matches typos and nicknames ("Sarah Dturete" → Sara Duterte), asks "Ibig mo bang sabihin…" when unsure (e.g. just "Duterte"), and counts unknown names under "Iba pa". Raw unknown names are kept in Redis `poll:other:pres` / `poll:other:vp` for review: add a nickname to `poll.aliases`, or a new person to `poll.extra`. Matching new aliases applies to future votes only.
+- The poll is opt-in and **not a survey**: never show it with or as survey data. Results show only after the visitor votes.
 
 ## Automation (done)
 - `.github/workflows/daily-update.yml` runs daily at 06:17 PHT: validate → scrape → commit `news.json`/`photos.json` → open a `needs-review` issue when an article may change a fact.

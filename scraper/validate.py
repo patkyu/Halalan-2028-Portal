@@ -3,8 +3,8 @@
 
 Errors: bad JSON, unknown status, a source id that does not exist, an aspirant
 id missing from `people`, a survey without fieldwork/n/moe, a job description
-missing a field, an official ballot without a source or with bad numbers, a poll
-opened before the official ballot is in.
+missing a field, an official ballot without a source or with bad numbers, a poll alias
+for an unknown person.
 Warnings: an entry with no source at all (every figure should have one).
 """
 import json
@@ -78,8 +78,18 @@ for p in b.get("positions", []):
         errors.append(f"ballot.{p.get('job')}: candidate numbers must be unique integers")
     if any(not c.get("name") for c in p.get("candidates", [])):
         errors.append(f"ballot.{p.get('job')}: every candidate needs a name")
-if d.get("poll", {}).get("open") and not b.get("official"):
-    errors.append("poll: cannot open before ballot.official is true")
+poll = d.get("poll", {})
+known = set(d["people"]) | {e.get("id") for e in poll.get("extra", [])}
+for pid in poll.get("aliases", {}):
+    if pid not in known:
+        errors.append(f"poll.aliases: '{pid}' is not in people or poll.extra")
+for e in poll.get("extra", []):
+    if not e.get("id") or not e.get("name"):
+        errors.append("poll.extra: every entry needs an id and a name")
+    if e.get("id") in d["people"] or e.get("id") == "other":
+        errors.append(f"poll.extra: id '{e.get('id')}' clashes with an existing id")
+if poll.get("open") and not poll.get("positions"):
+    errors.append("poll: open but has no positions")
 
 for k, (t, u) in src.items():
     if not u.startswith("https://"):

@@ -1499,7 +1499,112 @@
     "positions": []
   },
   "poll": {
-    "open": false,
-    "closes": null
+    "open": true,
+    "closes": null,
+    "positions": {
+      "pres": "Pangulo",
+      "vp": "Pangalawang Pangulo"
+    },
+    "extra": [],
+    "aliases": {
+      "sara-duterte": [
+        "Inday Sara",
+        "VP Sara",
+        "Sara Z. Duterte",
+        "Sara Zimmerman Duterte"
+      ],
+      "risa-hontiveros": [
+        "Risa",
+        "Ana Theresia Hontiveros"
+      ],
+      "jonvic-remulla": [
+        "Jonvic",
+        "Juanito Victor Remulla"
+      ],
+      "bam-aquino": [
+        "Bam",
+        "Paolo Benigno Aquino"
+      ],
+      "gibo-teodoro": [
+        "Gibo",
+        "Gilberto Teodoro"
+      ],
+      "vince-dizon": [
+        "Vivencio Dizon"
+      ],
+      "baste-duterte": [
+        "Baste",
+        "Sebastian Duterte"
+      ],
+      "leni-robredo": [
+        "Leni",
+        "Maria Leonor Robredo",
+        "Leonor Robredo"
+      ],
+      "benjamin-magalong": [
+        "Benjie Magalong"
+      ],
+      "isko-moreno": [
+        "Isko",
+        "Francisco Domagoso",
+        "Isko Moreno Domagoso"
+      ],
+      "vico-sotto": [
+        "Vico"
+      ],
+      "robin-padilla": [
+        "Binoe"
+      ],
+      "bong-go": [
+        "Christopher Go",
+        "Christopher Lawrence Go",
+        "Bonggo"
+      ],
+      "grace-poe": [
+        "Mary Grace Poe",
+        "Grace Poe Llamanzares"
+      ],
+      "win-gatchalian": [
+        "Sherwin Gatchalian"
+      ],
+      "kiko-pangilinan": [
+        "Kiko",
+        "Francis Pangilinan"
+      ],
+      "imee-marcos": [
+        "Imee",
+        "Maria Imelda Marcos"
+      ],
+      "manny-pacquiao": [
+        "Pacman",
+        "Emmanuel Pacquiao"
+      ],
+      "chiz-escudero": [
+        "Chiz",
+        "Francis Escudero"
+      ],
+      "alan-peter-cayetano": [
+        "Alan Cayetano"
+      ],
+      "jinggoy-estrada": [
+        "Jinggoy"
+      ],
+      "jv-ejercito": [
+        "Joseph Victor Ejercito"
+      ],
+      "sonny-angara": [
+        "Juan Edgardo Angara"
+      ],
+      "migz-zubiri": [
+        "Migz",
+        "Juan Miguel Zubiri"
+      ],
+      "antonio-trillanes": [
+        "Sonny Trillanes"
+      ],
+      "willie-revillame": [
+        "Willie"
+      ]
+    }
   }
 }

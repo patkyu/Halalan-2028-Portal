@@ -295,6 +295,9 @@ svg g.tlev:hover .tl-dot,svg g.tlev.sel .tl-dot{stroke:var(--violet);stroke-widt
 .pollrules b{font-family:var(--f-display)}
 .pollbadge{font:700 .7rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--warn);color:var(--warn);background:var(--warn-soft);border-radius:999px;padding:2px 9px;justify-self:start}
 .pollres{display:grid;gap:14px}
+.pollfield{display:grid;gap:6px}
+.pollfield input{font:1rem var(--f-body);padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--sheet);color:var(--ink)}
+.pollhint{display:flex;flex-wrap:wrap;gap:6px;align-items:center;min-height:1.4em}
 .pollres .mini{display:grid;grid-template-columns:minmax(0,11rem) 1fr 3.4rem;gap:8px;align-items:center;font-size:.86rem}
 .pollres .t{height:10px;background:var(--line);border-radius:5px;overflow:hidden}
 .pollres .t span{display:block;height:100%;background:var(--gray)}
@@ -493,7 +496,6 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
           <div class="row spread"><h2>Subukan ang balota</h2><button class="btn" type="button" id="ballotReset">Clear</button></div>
           <p class="src" id="ballotnote"></p>
           <div class="ballot" id="ballot"></div>
-          <div id="pollsend"></div>
         </div>
         <div class="grid2" style="grid-template-columns:1fr;align-content:start">
           <div class="sheet">
@@ -572,6 +574,7 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
 <div id="tip" role="tooltip"></div>
 <dialog id="dlg" aria-labelledby="dlgname"><div class="dlg" id="dlgbody"></div></dialog>
 
+<script src="namematch.js"></script>
 <script>
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
@@ -956,66 +959,99 @@ function renderBallot(){
     sec.querySelector("[data-count]").textContent = n > max ? `Over-vote: ${n} of ${max}. None of these count` : `Vote for ${max} · ${n} shaded`;
   }));
   $$("#ballot [data-showjob]").forEach(b => b.addEventListener("click", () => showJob(b.dataset.showjob, true)));
-  renderPollSend();
 }
 $("#ballotReset").addEventListener("click", renderBallot);
 document.addEventListener("click", e => { if (e.target.closest("[data-gojob]")) setTimeout(() => $("#trabaho").scrollIntoView({ behavior: "smooth", block: "start" }), 50); });
 
-/* ---------- visitor poll (opt-in, not a survey) ---------- */
-// Opens only when D.ballot.official and D.poll.open are both true. Votes go to /api/poll (Vercel function).
-const pollOpen = () => official() && D.poll && D.poll.open && (!D.poll.closes || today <= toDate(D.poll.closes));
+/* ---------- visitor poll (opt-in write-in, not a survey) ---------- */
+// Visitors type who they want for President and VP. namematch.js fixes typos and nicknames
+// ("Sarah Dturete" → Sara Duterte); the API (api/poll.js) runs the same matcher before counting.
+let PIDX = null;
+const POOL = {};
+const pollOpen = () => !!(D.poll && D.poll.open && (!D.poll.closes || today <= toDate(D.poll.closes)));
+const pollPos = () => Object.entries((D.poll && D.poll.positions) || {});
+const pick = {}; // pos → {text, id, state, sugg}
 const POLL_RULES = `<div class="pollrules">
   <div><b>Hindi survey</b><span class="src">Only people who visit this site and choose to vote. It does not represent all voters, so it is never shown with the surveys.</span></div>
-  <div><b>Official names only</b><span class="src">Uses COMELEC's official list of candidates, in ballot order.</span></div>
-  <div><b>Results after you vote</b><span class="src">You see the tally only after sending your ballot, so it does not sway your choice.</span></div>
-  <div><b>One ballot per device</b><span class="src">Basic limits against repeat voting. It can still be gamed, which is another reason it is not a survey.</span></div>
+  <div><b>Typo-proof</b><span class="src">Misspelled names and nicknames are matched to the right person, so "Sarah Dturete" counts as Sara Duterte.</span></div>
+  <div><b>Results after you vote</b><span class="src">You see the tally only after voting, so it does not sway your choice.</span></div>
+  <div><b>One vote per device</b><span class="src">Basic limits against repeat voting. It can still be gamed, which is another reason it is not a survey.</span></div>
 </div>`;
-function renderPollSend(){
-  const el = $("#pollsend"); if (!el) return;
-  el.innerHTML = pollOpen()
-    ? `<div class="row spread" style="margin-top:10px"><span class="src">Done? Send this ballot to the visitor poll. Over-voted positions are not counted, like on the real ballot.</span><button class="btn" type="button" id="pollSubmit">Ipadala sa botohan</button></div>`
-    : "";
-  if (pollOpen()) $("#pollSubmit").addEventListener("click", submitPoll);
+function pollIndex(){
+  if (PIDX) return PIDX;
+  const al = D.poll.aliases || {};
+  const people = Object.entries(D.people).map(([id, p]) => ({ id, name: p.name, aliases: al[id] }))
+    .concat((D.poll.extra || []).map(e => ({ id: e.id, name: e.name, aliases: e.aliases })));
+  people.forEach(p => POOL[p.id] = p.name);
+  return PIDX = NameMatch.build(people);
+}
+function pollHint(pos){
+  const k = pick[pos] || {}, el = $(`#ph-${pos}`); if (!el) return;
+  if (!k.text) { el.innerHTML = ""; return; }
+  if (k.id && k.id !== "other") el.innerHTML = `Bibilangin bilang: <b>${esc(POOL[k.id])}</b> ✓${k.state === "picked" ? ` <button type="button" class="joblink" data-undo="${pos}">palitan</button>` : ""}`;
+  else if (k.id === "other" && k.state === "picked") el.innerHTML = `Bibilangin sa <b>Iba pa</b>. A person will review new names. <button type="button" class="joblink" data-undo="${pos}">palitan</button>`;
+  else if (k.state === "suggest") el.innerHTML = `Ibig mo bang sabihin: ${k.sugg.map(x => `<button type="button" class="chip" data-pickpos="${pos}" data-pickid="${x.id}">${esc(x.name)}</button>`).join(" ")} <button type="button" class="chip" data-pickpos="${pos}" data-pickid="other">Wala, iba ito</button>`;
+  else el.innerHTML = `Bagong pangalan: bibilangin sa <b>Iba pa</b> at ire-review ng tao.`;
+}
+function pollType(pos, text){
+  const r = NameMatch.match(text, pollIndex());
+  pick[pos] = r.status === "empty" ? {} : { text, id: r.status === "match" ? r.id : r.status === "none" ? "other" : null, state: r.status, sugg: r.suggestions };
+  pollHint(pos); pollReady();
+}
+function pollReady(){
+  const b = $("#pollSubmit"); if (!b) return;
+  const filled = pollPos().filter(([p]) => (pick[p] || {}).text);
+  b.disabled = !filled.length || filled.some(([p]) => !pick[p].id);
 }
 async function submitPoll(){
-  const votes = {};
-  $$("#ballot .bsec[data-max]").forEach(sec => { votes[sec.dataset.job] = [...sec.querySelectorAll('.bopt[aria-pressed="true"]')].map(b => +b.dataset.no); });
-  if (!Object.values(votes).some(v => v.length)) { $("#poll").insertAdjacentHTML("afterbegin", `<p class="caveat">Shade at least one oval first.</p>`); $("#botohan").scrollIntoView({ behavior: "smooth" }); return; }
+  const body = {};
+  pollPos().forEach(([p]) => { const k = pick[p]; if (k && k.text && k.id) body[p] = { text: k.text, id: k.id }; });
   $("#pollSubmit").disabled = true;
   try {
-    const r = await fetch("api/poll", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ votes }) });
+    const r = await fetch("api/poll", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const j = await r.json().catch(() => ({}));
-    if (r.status === 409) store.set("h28-voted", "1");
-    else if (!r.ok) throw new Error(j.error || r.status);
-    else store.set("h28-voted", "1");
-    await renderPoll(j.error && r.status !== 409 ? j.error : r.status === 409 ? "You already sent a ballot from this device." : "Salamat! Your ballot was counted.");
-  } catch (e) { await renderPoll(`Could not send your ballot (${esc(e.message)}). Try again later.`); $("#pollSubmit").disabled = false; }
-  $("#botohan").scrollIntoView({ behavior: "smooth", block: "start" });
+    if (r.ok || r.status === 409) { store.set("h28-voted", "1"); return renderPoll(r.ok ? "Salamat! Nabilang ang boto mo." : "You already voted from this device.", j.results ? j : null); }
+    throw new Error(j.error || r.status);
+  } catch (e) { $("#pollmsg").innerHTML = `<p class="caveat">Could not send your vote (${esc(e.message)}). Try again later.</p>`; pollReady(); }
 }
-async function renderPoll(msg){
+async function renderPoll(msg, fresh){
   const el = $("#poll");
-  if (!pollOpen()) {
-    el.innerHTML = `<p>Once COMELEC releases the official list of candidates, you can send your practice ballot here and see how other visitors voted.</p>${POLL_RULES}
-      <p class="caveat">Not open yet. Opens after COMELEC publishes the official list of candidates (certificates of candidacy are planned for September 20–27, 2027).</p>`;
+  if (!pollOpen()) { el.innerHTML = `<p class="caveat">The visitor poll is closed.</p>${POLL_RULES}`; return; }
+  pollIndex();
+  let data = fresh || null;
+  if (!data) try { const r = await fetch("api/poll", { cache: "no-store" }); if (r.ok) data = await r.json(); } catch (e) {}
+  const voted = store.get("h28-voted") === "1" || !!(data && data.voted);
+  if (!voted) {
+    el.innerHTML = `<p>Sino ang gusto mong maging Pangulo at Pangalawang Pangulo? I-type ang pangalan. Okay lang kahit mali ang spelling.</p>
+      ${pollPos().map(([p, label]) => `<label class="pollfield"><span class="eyebrow">${esc(label)}</span>
+        <input type="text" id="pi-${p}" maxlength="60" autocomplete="off" placeholder="Pangalan" aria-describedby="ph-${p}"><span class="src pollhint" id="ph-${p}" aria-live="polite"></span></label>`).join("")}
+      <div class="row spread"><span class="src">${data ? `${(data.ballots || 0).toLocaleString()} vote${data.ballots === 1 ? "" : "s"} so far.` : "Poll results could not be loaded right now."}</span><button class="btn" type="button" id="pollSubmit" disabled>Iboto</button></div>
+      <div id="pollmsg"></div>${POLL_RULES}`;
+    const tmr = {};
+    pollPos().forEach(([p]) => $(`#pi-${p}`).addEventListener("input", e => { clearTimeout(tmr[p]); tmr[p] = setTimeout(() => pollType(p, e.target.value), 150); }));
+    $("#pollSubmit").addEventListener("click", submitPoll);
     return;
   }
-  let data = null;
-  try { const r = await fetch("api/poll", { cache: "no-store" }); if (r.ok) data = await r.json(); } catch (e) {}
-  const voted = store.get("h28-voted") === "1" || (data && data.voted);
-  const secs = ballotSections(), name = (s, no) => (s.opts.find(o => o.no === +no) || {}).label || `#${no}`;
-  const results = voted && data && data.results ? secs.map(s => {
-    const r = data.results[s.job] || {}, valid = data.valid && data.valid[s.job] || 0;
-    // Ballot order, not ranked: this is a tally of site visitors, not a race standing.
-    const rows = s.opts.map(o => [o.no, r[o.no] || 0]);
-    return `<div><span class="eyebrow">${esc(s.title)} · ${valid.toLocaleString()} valid ballot${valid === 1 ? "" : "s"}</span>
-      ${rows.length ? rows.map(([no, c]) => { const v = valid ? Math.round(c / valid * 1000) / 10 : 0; return `<div class="mini"><span>${esc(name(s, no))}</span><span class="t"><span style="width:${v}%"></span></span><span class="pct">${v}%</span></div>`; }).join("") : `<p class="src">No votes yet.</p>`}</div>`;
+  const res = data && data.results ? pollPos().map(([p, label]) => {
+    const r = data.results[p] || {}, total = Object.values(r).reduce((a, b) => a + b, 0);
+    const named = Object.entries(r).filter(([id]) => id !== "other" && POOL[id]).sort((a, b) => b[1] - a[1]).slice(0, 10);
+    const rest = total - named.reduce((a, [, c]) => a + c, 0);
+    const pct = c => total ? Math.round(c / total * 1000) / 10 : 0;
+    const bar = (n, c) => `<div class="mini"><span>${n}</span><span class="t"><span style="width:${pct(c)}%"></span></span><span class="pct">${pct(c)}%</span></div>`;
+    return `<div><span class="eyebrow">${esc(label)} · ${total.toLocaleString()} vote${total === 1 ? "" : "s"}</span>
+      ${named.length || rest ? named.map(([id, c]) => bar(esc(POOL[id]), c)).join("") + (rest ? bar("Iba pa", rest) : "") : `<p class="src">No votes yet.</p>`}</div>`;
   }).join("") : "";
   el.innerHTML = `${msg ? `<p><b>${esc(msg)}</b></p>` : ""}
-    <p>${voted ? "How visitors to this site voted. These are not survey results and do not show how the country will vote." : "Shade your practice ballot above, then tap <b>Ipadala sa botohan</b>. You will see the tally after you vote."}</p>
-    ${data ? `<p class="src">${(data.ballots || 0).toLocaleString()} ballot${data.ballots === 1 ? "" : "s"} sent so far${D.poll.closes ? ` · closes ${esc(fmtDate(toDate(D.poll.closes)))}` : ""}.</p>` : `<p class="src">Poll results could not be loaded right now.</p>`}
-    ${results ? `<div class="pollres">${results}</div>` : ""}
-    ${POLL_RULES}`;
+    <p>How visitors to this site voted. These are not survey results and do not show how the country will vote.</p>
+    ${data ? `<p class="src">${(data.ballots || 0).toLocaleString()} vote${data.ballots === 1 ? "" : "s"} so far${D.poll.closes ? ` · closes ${esc(fmtDate(toDate(D.poll.closes)))}` : ""}.</p>` : `<p class="src">Poll results could not be loaded right now.</p>`}
+    ${res ? `<div class="pollres">${res}</div>` : ""}${POLL_RULES}`;
 }
+document.addEventListener("click", e => {
+  const c = e.target.closest("[data-pickid]");
+  if (c) { const k = pick[c.dataset.pickpos]; k.id = c.dataset.pickid; k.state = "picked"; pollHint(c.dataset.pickpos); pollReady(); return; }
+  const u = e.target.closest("[data-undo]");
+  if (u) { const inp = $(`#pi-${u.dataset.undo}`); inp.value = ""; pick[u.dataset.undo] = {}; pollHint(u.dataset.undo); pollReady(); inp.focus(); }
+});
 
 /* ---------- news ---------- */
 let topicOn = "all";
