@@ -25,7 +25,7 @@ A single-page web app for Filipino voters ahead of the May 8, 2028 national and 
 
 ## Official ballot and visitor poll
 - Practice ballot: placeholder names until COMELEC publishes the official list. Then fill `ballot.positions` (`{job, max, candidates: [{no, name, party}]}` in ballot order, national posts only), set `released`, add the COMELEC source to `src`, set `official: true`. The ballot is not connected to the poll.
-- Visitor poll (`Botohan ng mga bisita`): open now. Visitors type who they want for President and VP; `namematch.js` matches typos and nicknames ("Sarah Dturete" → Sara Duterte), asks "Ibig mo bang sabihin…" when unsure (e.g. just "Duterte"), and counts unknown names under "Iba pa". Raw unknown names are kept in Redis `poll:other:pres` / `poll:other:vp` for review: add a nickname to `poll.aliases`, or a new person to `poll.extra`. Matching new aliases applies to future votes only.
+- Visitor poll (`Botohan ng Bayan`): open now. Visitors type who they want for President and VP; `namematch.js` matches typos and nicknames ("Sarah Dturete" → Sara Duterte), asks "Ibig mo bang sabihin…" when unsure (e.g. just "Duterte"), and counts unknown names under "Iba pa". Raw unknown names are kept in Redis `poll:other:pres` / `poll:other:vp` for review: add a nickname to `poll.aliases`, or a new person to `poll.extra`. Matching new aliases applies to future votes only.
 - The poll is opt-in and **not a survey**: never show it with or as survey data. Results show only after the visitor votes.
 
 ## Automation (done)

@@ -67,7 +67,7 @@ candidates. Then, in `data.json`:
 2. Set `ballot.released` (YYYY-MM-DD), add COMELEC's list to `sources` and to `ballot.src`,
    and set `ballot.official` to `true`. Run `python3 scraper/validate.py`.
 
-The **visitor poll** (*Botohan ng mga bisita*) asks who visitors want for President and Vice
+The **visitor poll** (*Botohan ng Bayan*) asks who visitors want for President and Vice
 President. They type a name; `namematch.js` matches it to a known person even with typos,
 swapped words, titles or nicknames ("Sarah Dturete", "Inday Sara", "VP Sara" → Sara Duterte).
 When a name is unclear (just "Duterte" or "Tulfo") it asks *Ibig mo bang sabihin…* with the
