@@ -72,7 +72,7 @@ President. They type a name; `namematch.js` matches it to a known person even wi
 swapped words, titles or nicknames ("Sarah Dturete", "Inday Sara", "VP Sara" → Sara Duterte).
 When a name is unclear (just "Duterte" or "Tulfo") it asks *Ibig mo bang sabihin…* with the
 options. Names it does not know count under **Iba pa**. It is opt-in and labelled
-*Hindi ito survey*: it never appears with the surveys, and results show only after voting.
+*Hindi ito Official Survey*: it never appears with the surveys, and results show only after voting.
 
 Setup (one time):
 

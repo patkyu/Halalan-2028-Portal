@@ -525,7 +525,7 @@ footer{padding-block:24px;color:var(--muted);font-size:.85rem;border-top:1px sol
       </div>
 
       <div class="sheet" id="botohan">
-        <div class="row spread"><h2>Botohan ng Bayan</h2><span class="pollbadge">Hindi ito survey</span></div>
+        <div class="row spread"><h2>Botohan ng Bayan</h2><span class="pollbadge">Hindi ito Official Survey</span></div>
         <div id="poll" class="pollstate"></div>
       </div>
 
@@ -972,7 +972,7 @@ const pollOpen = () => !!(D.poll && D.poll.open && (!D.poll.closes || today <= t
 const pollPos = () => Object.entries((D.poll && D.poll.positions) || {});
 const pick = {}; // pos → {text, id, state, sugg}
 const POLL_RULES = `<div class="pollrules">
-  <div><b>Hindi survey</b><span class="src">Only people who visit this site and choose to vote. It does not represent all voters, so it is never shown with the surveys.</span></div>
+  <div><b>Hindi official survey</b><span class="src">Only people who visit this site and choose to vote. It does not represent all voters, so it is never shown with the surveys.</span></div>
   <div><b>Typo-proof</b><span class="src">Misspelled names and nicknames are matched to the right person, so "Sarah Dturete" counts as Sara Duterte.</span></div>
   <div><b>Results after you vote</b><span class="src">You see the tally only after voting, so it does not sway your choice.</span></div>
   <div><b>One vote per device</b><span class="src">Basic limits against repeat voting. It can still be gamed, which is another reason it is not a survey.</span></div>
