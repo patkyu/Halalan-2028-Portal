@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-12T03:08:20+00:00",
+  "checked": "2026-11-13T02:40:43+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
@@ -7,19 +7,19 @@
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 10
+      "entries": 9
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 26
+      "entries": 29
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 7
+      "entries": 8
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 31
+      "entries": 34
     },
     "gn-surveys": {
       "ok": true,
@@ -47,10 +47,224 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 3
+      "entries": 0
     }
   },
   "items": [
+    {
+      "id": "bb4ba1aa0529",
+      "title": "VP team drops 16 bank execs from witness list",
+      "url": "https://newsinfo.inquirer.net/2340553/vp-team-drops-16-bank-execs-from-witness-list",
+      "publisher": "Inquirer",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "0d5f93d223fe",
+      "title": "Padilla dares impeachment trial prosecutors to investigate his expenses",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009342/padilla-dares-impeachment-trial-prosecutors-to-investigate-his-expenses/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "robin-padilla"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "6d7b8bd1dd1e",
+      "title": "Sara Duterte impeachment trial Day 43: Mans Carpio's spending scrutinized, 'BP Inday' shows up",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009341/sara-duterte-impeachment-trial-day-42-mans-carpio-s-spending-scrutinized-bp-inday-shows-up/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "e3aaf436f5c1",
+      "title": "‘Resetting BSKE no longer in Comelec’s hands’",
+      "url": "https://www.philstar.com/headlines/2026/11/13/2569805/resetting-bske-no-longer-comelecs-hands",
+      "publisher": "Philstar",
+      "date": "2026-11-13",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "philstar-headlines",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "c44cb429b445",
+      "title": "Comelec eyes exceeding 3-million voter registration target",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFQ2Sk1WOWRPbFYwOUtaUml4emQ0N210RXl2N1luYnhxbEJObFZxdTZHMGV3S1VQUzFfd2NyUVpHaXdwcVRkdVBYd2JkZjVtU0YtZ21VUXFKdzZoTVZ1XzZtN1M1TUdCdlZPVFVWcENUb1VqYV91dUZEcmtUX2FhM3RYZEc2ZnpDVWhnV2pmR0NFT3RNd2c?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-12",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "77fde87b20d7",
+      "title": "COMELEC records 37,000 voter registrants on first day of registration for 2028 polls",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3RNY296UTlyTHA1NWozX3pVRVNPVjZVX0V1NFdkLVgyTU01STN1OG1JR2F6WE5nSDAwd3h2RkZRb2dNTUZVbE90SGtUTVl5Qk1kNjZGT1dKNURSOWRzUXNhTDZ4b3I3T01lcS0zYUxGd2VEbTdMYldMaHpaWlJPcGs0WkgtcHUyc0JyaVFNS3ZkNEFfSk9CMkFZVm1KY1BSWVNGMnkyVGhmOUJKS3k1dHBB?oc=5",
+      "publisher": "DZRH",
+      "date": "2026-11-12",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "b2cd37e432c2",
+      "title": "Comelec chair: Put voter registration machines on ground floor for accessibility",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkdsa2tTVFJZN2wtYlVfeGJGQ3l0aU5EdmZVdzBOc2NGVHg3bHd0c2h2OVNSdU1XSzljTEdwZWVZdDBGUTByUmFkcXdONC0wZGlZZEJEdmw2OTRZMGppVlVhTkZ3TUQwN3dPT1JSSGVDamw2eG9LYVpBcDlDR01WRWNGQm55UndPa3BZcXRYMnh0UmVrRV9aQWkwOUVnYTZmWi01eS1ROTFJaEg0WDFRaFdCc0pDMTN3ZUNzQzlyZUxRZmxrZEV1YWdhVQ?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-12",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "bbcb33b926c3",
+      "title": "Comelec expects 5% increase in Negros Island Region voters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2RpZno2OXpaczEwcVZ3czZNQV9Jb0RsUUQ5VHFva0RDeDV4SFBxeVF6V0tGX0lfWVlpWGdEalIwRFYybHBHVzRLYnc4U25lcjNiRjVvaEZQN3hNVlVmQ1kxMGsxSTVlMmdFblAzRDhQQXlBMVR6WWdpbWlsaDF6emZGOWNDUWxiQTQ1eGZpcUZ5VXd3?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-12",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "4335a389fed3",
+      "title": "Voter registration program eyed for expansion to more municipalities",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2JleTJOemg5U0xVQ09rMUltdkgyMDE2UTRFVzJGZWxkQWF0OFpUMzUzeC1MRW1LSjRWOG1NUWcweUIwWlEzRGZBZjgtUFR2LVJ3T3Q2eHk1aWMxb3ZJNnpYTXZrSG5OSTRCc3hpa0JycVpJYXVzVERDcHhlVTU5eE5SbVlMX0lfejdia2N4N2Z0UElfSXo0OTc1R01VQUVtbkVj?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-12",
+      "topics": [
+        "registration"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "483c65fec083",
+      "title": "DAY 43 HIGHLIGHTS: VP SARA DUTERTE'S IMPEACHMENT TRIAL The 43rd day of the impeachment trial of Vice President Sara Duterte lasted less than three hours, but it did not make the proceedings any less intense. Senate impeachment court presiding",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3MtcS1iSktXeEhJSXNSVXM2ZU9zYWJybS1PQVVxLVZEaGZRZUxfVUNyQldkSUsxcW1EWFJDdmpnZ3hvLXdnTzBIRGI4RlU3V1lWR3BlOUhSM2VlUmZId18zZjc0N1B3bHRJcFl3Sk1UcERXR0h6OW9GQjlFNTZudTZuQUJnQ05FTnFLS3ctVlJ1SGhtY1pXQ1dNX3BDY016Q2JFdlotQnZlVkY1Ni1hY094enhnQjJQV01zemJnajZsak5WNUFOQ2M4R3htZWJySnk4?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "2941fb9263c9",
+      "title": "Defense panel holds a press briefing after Day 43 of Vice President Sara Duterte's impeachment trial on Thursday, November 12, 2026. LIVE: https://youtube.com/live/ptFmrGmJOVM?feature=share",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWxSSnJpdGw3X1cxYWtjN3VTU1NNeHhmbVRPUHZkUFlSYml2VzRxQnprenVhQXM0TVBfcmFfNG9VQlhIdE0wWGxEcTE5b0w0bWhvazFCLWJTUlRubHd2bzBJODB0QTZ1ME9IZ0F1OEVFbDlZZlgtYmRUS1J0QlhfRE5OVTdFVjA2OXNaRXhJemRNQzRHQkQ2TUxucmc2U2xtb0QzbXRWQmpWWUkzYmlUM0h0QlFSY1JVZVl6dVRmaXJBNmx0NlNTWVoyOVhmNkpDR2pja2N2d2ZEUGdJ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "6219defd173d",
+      "title": "Garcia: Poll converting Naga into HUC ‘will not be a walk in the park’",
+      "url": "https://newsinfo.inquirer.net/2340508/garcia-poll-converting-naga-into-huc-will-not-be-a-walk-in-the-park",
+      "publisher": "Inquirer",
+      "date": "2026-11-12",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "inquirer",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "997c7777f686",
+      "title": "Highlights: Day 43 of Sara Duterte impeachment trial | Nov. 12, 2026",
+      "url": "https://newsinfo.inquirer.net/2340500/highlights-day-43-of-sara-duterte-impeachment-trial-nov-12-2026",
+      "publisher": "Inquirer",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "77bd8c022f89",
+      "title": "Kakampink defense lawyer? Poa says nothing wrong with that",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009312/kakampink-defense-lawyer-poa-says-nothing-wrong-with-that/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "leni-robredo"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "543295ff4782",
+      "title": "Zubiri urges: Move on, tackle other issues on Sara Duterte's 'unexplained wealth'",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009300/zubiri-urges-move-on-tackle-other-issues-on-sara-duterte-s-unexplained-wealth/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
     {
       "id": "6e731cab5d2f",
       "title": "Comelec targets 1M registered voters in Negros Oriental",
@@ -239,6 +453,19 @@
       ],
       "feed": "philstar-headlines",
       "found": "2026-11-12T03:08:20+00:00"
+    },
+    {
+      "id": "b01571e9431c",
+      "title": "Wes Moore announces new book ‘Repair: Healing a Divided Nation’ amid 2028 buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYm5VMHpCaFBrR0EteTByT1ZNWDRXeWRBa0JNM1RKR0ZfMTB3UkFHWXo3THA1Tk1MZm43dnluZno4Sno4UHBpalVRZUJvZU5zYU1JX1c3THMtTUMxaDhfNENTYWdCTkstc0VxeXlfRVhmNE5id0VKbWhfRzNNTFhNeUc5NHVLSkpod2Yw?oc=5",
+      "publisher": "Baltimore Sun",
+      "date": "2026-11-11",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-13T02:40:43+00:00"
     },
     {
       "id": "9b3a6de70033",
@@ -638,6 +865,20 @@
       "people": [],
       "feed": "rappler",
       "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "e8b8497a95f5",
+      "title": "Robredo-Tulfo tandem tops Baste-Padilla in OCTA's hypothetical 2028 matchup",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQl83MzA2NUxraGRUY1VwLXl5Zy1Gdy1XUi1wM014VG02Z3BNZThDVnZIR2tUVlowbGhxZnZsUzZvaVh3V3BHVFZESzdUWS1QVmNMXzNvYnFRWDRiekU3SWF4WGZKdUhTTF9oa0pHeDRlTjViMndsSklPUUJCRkZ4UHd6akM0VUlJbUc4MHY4bXhJRjVWTk5pRGpNMk4tVWpzdC1naVRsWWkxZVhMQzBnREswNENOZjBWaHcxR1kxdDFGTzBGTVE?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-10",
+      "topics": [
+        "survey",
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-surveys",
+      "found": "2026-11-13T02:40:43+00:00"
     },
     {
       "id": "96d3664bcd06",
@@ -1694,6 +1935,19 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "b1700081d691",
+      "title": "𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 | 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐨𝐫𝐮𝐦 𝐚𝐭 𝐭𝐡𝐞 𝐕𝐢𝐥𝐥𝐚𝐦𝐨𝐫 𝐀𝐢𝐫𝐛𝐚𝐬𝐞 COMELEC Spokesperson and Director IV of the Education and Information Department Atty. John Rex C. Laudiangco joined Member of the House of Representatives for B",
+      "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxQVk9veDh1eEItTW5IZ0RUNmJBbTE5RnViczVMU2VCei1VUGJWTm1XN3dJaEV3QTM5RFFGR2doZF9uSE9rRDNNdndoUWw3eUxnY1phajZ0STRPWm45OG5sYnFPaTQ0bkV2NzF0M1BGUXlMOXRVZ1BjbUZYc0Z1aXFCYjNCRmZYdkI0VXV1QWloYnRCY1VBVG4ydlVtNUVGaGF1LTJzNGlRaklna1FfaThhdTJVNHVkVjdWemFSUUwtMnk3aldMMjRscVNLSC0weGxhYk1xRGdtTm56NmlGbmdWQVFnRnpUVG81MzVSTmJmX05MdUJ3TEdZYk83UURVS2pjcDZLSG9jQ3RTZXBNS3Q2UTF6Yk1FT1BWUjRZVFhvNWItSUNTb1dIazZkQlJlejNnSDI3LTlxa0I4LTBWZGt6d250THNLUmdiZVJrd0pmWEFIY1A5c0s2amdpSzN0czdkLXFfNVlFTDY0V2tTZ256cVFlanVXV1I3aVNDUERySnpYYWVnVjFGaHNYQTlzTE1tbk1LYVRmSzU2YzZoQ1FCaGU2a3ZSVGREQ0hnMzBrSXBNdVJHTlMxYWJhUlNLaUxGYjJSUlRDdDZSTkxrZEY2QVVtUndCby05dEozRENucGw5d2g1bW5yWnpIQ3N1dUVuRUFrU3FuTVd5NzliLVdaOXNiVlNPeURaUWNXY2RYYXVoc20zOGx3a1dkT1k2Q1dmUElVLVFobWdEdTBuRVk2RTZaSlRBVERLRWFGRUhPVXloM09oTnQzT2k3bU1mSE1VYnVwUDNMa2pRalFlVlBEbEJjb3BjcVk0RmU0UVc0akpselhuX2VCbHF2UklESEMyUXZMOTY4VVZQNEQ0TmIyZTVCVjNwMElweV9vUnZvb0V5R3lqME9KV1lzZTE0dTJqWEJQS25nQVBLOW4tT2w3enRRRnRPMmZzM0o5Zjk4QzdEcU02MHloVkpiNEpKcnZYOWEtNnpYd2dpNDZ0cFJkZFE1TGJLWDA0ZExnVWRpY3UtUm9vbWE2MUt5b3g5aDB0NEFpbl9KMjBTcXRkbnFTaGs2XzEtVkVJS3JEVDY4Y3FQRFJoZzB1QUFIVXM3UEhoOXFUd0lkRnJhV1BwTk5WOC1DeDQ4TUV3dHktYUlOWU14RXpYeVpLajdDOTMwQjZQUTBHMjhwX0xlSXVQOGxDUzVsUTZlMEY5T2pmbTR2TDZ5YkZ0RGdYc00wZ0s0eHpvWnU3eFF3?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-07",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
       "id": "9d42e40f866e",
       "title": "Finally, it's VP Sara defense's turn to present witnesses as impeachment trial resumes Nov 9",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWV9DX0xpaE14cy1FQWVOeUN0TXJoTGl2N1IwYkpYeEVCUzdoaWFGTHhxbmNNckZiTVdWZ3lqRmVVMHFldURzcjZSbEhFd2EyZ1FGVzlsZm16YXk4UjIwd0oxR2MwVnFjMmtxTVY2VW9nRENzclVISVJzSWY2Z2puZGEwLXAzRGtIZEV1R2x6MjJIeW52bGlNMWdqcFVpb1dyRXZZ?oc=5",
@@ -2121,6 +2375,37 @@
       "people": [],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "0cf0c2b49fb8",
+      "title": "The gap between Vice President Sara Duterte and Naga City Mayor Leni Robredo in a hypothetical presidential matchup in 2028 has narrowed to its closest in the latest OCTA Research group poll. https://tinyurl.com/48z4jxrh | via ONE News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHl1WnFzWi1rT2pfcnEtWTBKYTI1NXduTlB6b09XZkc1dEJuNGU5b0VleTB4TWJOeDRadE9PTFFSUzQ1azNUY3NTb1ZYQlYwRk1zSnVSQ1FrRkJtSms0ZXdzYnpBaTczVnY4T044dDNfcl9hNjVSNkdOYkwwVURRaUQyejA5SFBBampDRk5lTVBlTmYzZTRWN2Z3ZElKREtnakhQbWRsalUzVEQyOC1leHMyc0RyYWJadkc4VHZnN0QyMXU0ZUVOZUhIdVpCTzJRUlVlajVRZUNDUG1k?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-04",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "sara-duterte",
+        "leni-robredo"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "76e24e3b34a8",
+      "title": "The Senate impeachment court called on the Supreme Court (SC) to throw out the petition from two senators who challenged an earlier ruling to lower the voting threshold to convict Vice President Sara Duterte. https://tinyurl.com/2wx3k2px",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzJpYjNZWVJUQTBQdnpmajhZVVZRMWtvUVRBRXNnOUlTZmllSGY5dkk4cUtUcW05V2x5NnJFckpFbWdkRzdDckdObHdJVHpOTHBwVFUzRlBPTHRmeEs3d0FrMnNkZUs4eEkxUkxWS2pGVDdiTDFsV1pjOFc0RGJpNDBPZlh0WHAtWF8xX0JBQ0tCb0VzNG82N0hpX1JGa0VrVmduUzJaVGEzR25UcXVHSWdfTWRPdlBzU0lDVjR1QVlwdHI1Y1RHWlJ1Sml3ajJtOFBfVzhRV1pGdkVF?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-04",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-13T02:40:43+00:00"
     },
     {
       "id": "3579229cff55",
