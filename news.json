@@ -1,9 +1,9 @@
 {
-  "checked": "2026-11-13T02:40:43+00:00",
+  "checked": "2026-11-14T02:30:02+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 59
+      "entries": 62
     },
     "gn-registered-voters": {
       "ok": true,
@@ -11,23 +11,23 @@
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 29
+      "entries": 32
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 8
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 34
+      "entries": 29
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 13
+      "entries": 19
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 26
+      "entries": 27
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,122 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 0
+      "entries": 1
     }
   },
   "items": [
+    {
+      "id": "f66c9acebad0",
+      "title": "‘Comelec can set new BSKE date without new law’",
+      "url": "https://www.philstar.com/headlines/2026/11/14/2570004/comelec-can-set-new-bske-date-without-new-law",
+      "publisher": "Philstar",
+      "date": "2026-11-14",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "philstar-headlines",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "b7e09da971fa",
+      "title": "Luistro: Defense testimony ‘self-destructive’ on VP investments",
+      "url": "https://www.philstar.com/headlines/2026/11/14/2570005/luistro-defense-testimony-self-destructive-vp-investments",
+      "publisher": "Philstar",
+      "date": "2026-11-14",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "f3949cc1f274",
+      "title": "Prosecution miss? Pia Cayetano hits questioning on support for sports",
+      "url": "https://www.rappler.com/newsbreak/inside-track/prosecution-miss-pia-cayetano-hits-questioning-support-sports/",
+      "publisher": "Rappler",
+      "date": "2026-11-14",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "rappler",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "d193fadc00fe",
+      "title": "Comelec targets 150K new voters in NIR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fMDVBd3NjZU9oR05XVmcwYzNfXzA5c3p2cVdUd0RlY0NfS3JQaEVrV29pQW5yVUdEelRPdzMxdlJINzdhSkxrQTVvWXA2ZXRqcllBdzk4cW5CNGhKYkVJM3puTWtzem5aeUZFc192OWlTVFZE?oc=5",
+      "publisher": "Negros Now Daily",
+      "date": "2026-11-13",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "4a9984b45657",
+      "title": "Philippine VP Duterte Drops Bank Witnesses for Impeachment Trial",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGZlakE3QjNURHEyYlNnOTYxenRhSGM4N3VDZ1QxamJiUEg4SzRDMXhJWEpDWTZPNzVmZ2szUnc1dHdNR1doU1VPM3MxWndVQXFzanljbmhGUktRVmpGWVhKcjI4YTUxSUNJRGg5d3UtRzJOa2VtVjNISWE3ZjRtZHpXYWtVaFhJUl9ka1pCU01FNHdCOTJZaTM1NWh3MThTUlRIQWItUGN4eG9mcGFBd3BsbEJQTnFPY1E?oc=5",
+      "publisher": "Bloomberg",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "6d8f8afe3e2e",
+      "title": "Luistro hopes Duterte impeachment trial ends with a verdict before Christmas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejZ3TEpIU2gxUC1vOWhwS2c0Z2lzNEg2QjVTb1RrYUxNWVI3RUphY1ZKTnBseUJPOVhidHAtdGtwYzVwWHFILTVwcElVODZ0WjJHRWRqdGZjc3Z6SGc5dWx1QnMxcXdmQ1JOSmNuZjRCbVlPNUU3d3ZRbzFSelVRdENfcE9wekN3ai1zTnJReF8wM1RPZnhfQ1FndXdoWlRHWmk4ejFRVlNzb3BzUzY4ZTBRV3dlQQ?oc=5",
+      "publisher": "The Global Filipino Magazine",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "c64ce9af615c",
+      "title": "Sara Duterte defense seen to end presentation within November: What's next?",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009433/sara-duterte-defense-seen-to-end-presentation-within-november-what-next/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "0bd0e87df098",
+      "title": "House prosecutors dismiss Sara Duterte defense evidence as 'watusi,' not 'kwitis'",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009416/house-prosecutors-dismiss-sara-duterte-defense-evidence-as-watusi-not-kwitis/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
     {
       "id": "bb4ba1aa0529",
       "title": "VP team drops 16 bank execs from witness list",
@@ -108,6 +220,19 @@
       "people": [],
       "feed": "philstar-headlines",
       "found": "2026-11-13T02:40:43+00:00"
+    },
+    {
+      "id": "b5e948cf40f9",
+      "title": "Escudero cautions senator-judges against intimidating witnesses By Wilnard Bacelonia MANILA – Senate impeachment court Presiding Officer Francis Escudero on Thursday reminded senator-judges and lawyers to exercise restraint in questioning witnesses,",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdWlFQVVvaWVfZ0pJVE9ZeXFlbXBiWjJKZDFzdk9KcW1jSmQ5Vlp2a09ZV2N6aW91ejktdElwWWtGXzU1M3FaalNOeHlDVmI3RXFsMW9acGoyZlhhZ3AwYlVWdXFra3g5UDMxS3ZIWFh0YzlvTFdtdXNYdTJRc3FaUXRiUWZBeTQ5LS1WY1FMVWZfMXlwT083Q3dnb0liWWJpem1rbTRjYm9zZ21GRVMxZ2dkOHpNR1hxZEZ3cC1CQ0t6a2swblk5WDNpSDZ6UUFUOUs0eQ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-12",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-14T02:30:02+00:00"
     },
     {
       "id": "c44cb429b445",
@@ -453,6 +578,20 @@
       ],
       "feed": "philstar-headlines",
       "found": "2026-11-12T03:08:20+00:00"
+    },
+    {
+      "id": "74fbc10f833b",
+      "title": "Comelec logs 36,124 voter registrants on first day",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGxqbmJYa0x6c1pJN21MZkVPQkItRkkySEFPWVFsZVB4TmZ2SlJpMXBrR09lLUFLeGxBZDNuUWZoVzV6MFg0YkwyVEpfbkFIOHRlLVlYSUFUVWJoSjlOT05XNEQxX01SLWhPMnN5QUZPb215WDNYbEJ2R1RMSXdkVU9tcUpwSGcyZW5N?oc=5",
+      "publisher": "Daily Tribune",
+      "date": "2026-11-11",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-14T02:30:02+00:00"
     },
     {
       "id": "b01571e9431c",
@@ -865,6 +1004,21 @@
       "people": [],
       "feed": "rappler",
       "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "d11024775577",
+      "title": "Baste Duterte is Gen Z’s top pick for senator in early 2028 survey",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlZFaDNsRHo4SGFwbE9IaFB5X2VWR3Y4WDZxYkNoUGxUdnB5TklscEtRY3hGTEFfZXZmeVhCYkpFel9ZTENRZDZnaEZXWFQxX2Zwb2JsX0ZzWFFPMjYzc3o2b1NwT1pEd2pxRy1CVjc0N0pXRGRneW51VkdpcndyMm55dnE3ZFE1ZXJBaEtZZjd1OUZsMnBwNG02RkVSNFlZNjdVN2xnSQ?oc=5",
+      "publisher": "The Global Filipino Magazine",
+      "date": "2026-11-10",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "baste-duterte"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-14T02:30:02+00:00"
     },
     {
       "id": "e8b8497a95f5",
@@ -1637,6 +1791,21 @@
       "feed": "seed"
     },
     {
+      "id": "8e4d0bc65b77",
+      "title": "Leni Robredo won't run for president in 2028, will support 'deserving' candidate",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONmJ0Tl9xaHB5Q2RqUmtNZ3FSa3VHLVNSS1hzeUk1SGU2cGxyZkhhZDVYeE9PeDl0SU50UVVrd0ZaaHRWY21GUDZJQUNEV0l5djRUZDdLNFZxclRRMVNLTHNKSldoTVpEYmlfbFYzR0hNSjI1MDRDR2JyM2JMdEFNZU12ZWFnd3dkR0VFdGRiUk1hMk5JY0pXMFpTVW5SMl9xSk44Y2lic0dxWmh6SnhpLVBYaXBBMlJvZ3pLem0xZmVsaEZrZnlfczJpQnJWQXVuamx3ZUZIaWdRUdIB3wFBVV95cUxON3BMR0piS0hnOWZ6OE5jS0tZdzhTRU9KOWxTb0ZDRzNfamNpZ1h2N3BEMngySGp0WEZDdzFkNWlHZDdBcm56SjNXaXhmNHNMVEU0S3FwM2h3Wm9GTDdNWU5HZVk4T3Ztd1I5blE2Q0RJMGZabklNY0QtWkF4WXJ5MHhSTWJ4VE4zMEMtRzZOWVpqUnFaVlljUmk4TndUUHhPeWE3ZlNhNFBZbFloLXB3Y2RQOHVKTjl6RjBRbU5WVy1CUXlaTVNZQlhNbjN5T3JHS05ULTd1eVk2eVEwWDB3?oc=5",
+      "publisher": "GMA Network",
+      "date": "2026-11-09",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [
+        "leni-robredo"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
       "id": "05ebe39f5de8",
       "title": "The House prosecution team holds a press conference after Day 40 of Vice President Sara Duterte's impeachment trial on Monday, November 9, 2026.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVk0zNWhYMElQalpkbnZ4ZVFKaTlueUxnRzRINlJBZ3JCcDNIYnB5U0RsM050eHR5d284OWRPU3dQNDZ4R3hkSWNVQVRaVDhyakxERkxVM3RSTzdwaW0wWFU1cTU5SUZrQTk1LXdtZng2ZW5rSWh6MGIxRHJiaHpVcTluNFU1cEs5MzR2bnUyeTZRbWRlZHdDOHhfMDVTeHBSalB4RVFFLUtPdmZfSzNHb0MxalAzOEtUcUo5T1RyZ1Q5elBidThSWDFRSi1TcE1pN0RqcC11Zkx0RXM?oc=5",
@@ -1935,6 +2104,19 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "c34b1421ef51",
+      "title": "COMELEC welcomes SC ruling upholding 5-year term law for barangay and SK official",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemFDU1psSUdlQ3UwcUZGYkExMmVjVnV3N3NYZVVRS1J6WU5mcGRpSzZxQTNuWm9OLUM3TDh6NXBTV05ROEFiVVJXTHRxUWpqZFY4RWltd0N4Z2JfY3ltaWZQdGI5TXdUR2lWVXhVUkMzSlBvVGREUC1HQ1NTODZyOWRnVXVxdmFEYTRpRkJvV1pGTTNDQ1k5U2YwaDZuRkJpYXJ3ZUE0OG04c0ZoSnA5dUpWRHBhZw?oc=5",
+      "publisher": "Daily Tribune",
+      "date": "2026-11-07",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
       "id": "b1700081d691",
       "title": "𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒 | 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐨𝐫𝐮𝐦 𝐚𝐭 𝐭𝐡𝐞 𝐕𝐢𝐥𝐥𝐚𝐦𝐨𝐫 𝐀𝐢𝐫𝐛𝐚𝐬𝐞 COMELEC Spokesperson and Director IV of the Education and Information Department Atty. John Rex C. Laudiangco joined Member of the House of Representatives for B",
       "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxQVk9veDh1eEItTW5IZ0RUNmJBbTE5RnViczVMU2VCei1VUGJWTm1XN3dJaEV3QTM5RFFGR2doZF9uSE9rRDNNdndoUWw3eUxnY1phajZ0STRPWm45OG5sYnFPaTQ0bkV2NzF0M1BGUXlMOXRVZ1BjbUZYc0Z1aXFCYjNCRmZYdkI0VXV1QWloYnRCY1VBVG4ydlVtNUVGaGF1LTJzNGlRaklna1FfaThhdTJVNHVkVjdWemFSUUwtMnk3aldMMjRscVNLSC0weGxhYk1xRGdtTm56NmlGbmdWQVFnRnpUVG81MzVSTmJmX05MdUJ3TEdZYk83UURVS2pjcDZLSG9jQ3RTZXBNS3Q2UTF6Yk1FT1BWUjRZVFhvNWItSUNTb1dIazZkQlJlejNnSDI3LTlxa0I4LTBWZGt6d250THNLUmdiZVJrd0pmWEFIY1A5c0s2amdpSzN0czdkLXFfNVlFTDY0V2tTZ256cVFlanVXV1I3aVNDUERySnpYYWVnVjFGaHNYQTlzTE1tbk1LYVRmSzU2YzZoQ1FCaGU2a3ZSVGREQ0hnMzBrSXBNdVJHTlMxYWJhUlNLaUxGYjJSUlRDdDZSTkxrZEY2QVVtUndCby05dEozRENucGw5d2g1bW5yWnpIQ3N1dUVuRUFrU3FuTVd5NzliLVdaOXNiVlNPeURaUWNXY2RYYXVoc20zOGx3a1dkT1k2Q1dmUElVLVFobWdEdTBuRVk2RTZaSlRBVERLRWFGRUhPVXloM09oTnQzT2k3bU1mSE1VYnVwUDNMa2pRalFlVlBEbEJjb3BjcVk0RmU0UVc0akpselhuX2VCbHF2UklESEMyUXZMOTY4VVZQNEQ0TmIyZTVCVjNwMElweV9vUnZvb0V5R3lqME9KV1lzZTE0dTJqWEJQS25nQVBLOW4tT2w3enRRRnRPMmZzM0o5Zjk4QzdEcU02MHloVkpiNEpKcnZYOWEtNnpYd2dpNDZ0cFJkZFE1TGJLWDA0ZExnVWRpY3UtUm9vbWE2MUt5b3g5aDB0NEFpbl9KMjBTcXRkbnFTaGs2XzEtVkVJS3JEVDY4Y3FQRFJoZzB1QUFIVXM3UEhoOXFUd0lkRnJhV1BwTk5WOC1DeDQ4TUV3dHktYUlOWU14RXpYeVpLajdDOTMwQjZQUTBHMjhwX0xlSXVQOGxDUzVsUTZlMEY5T2pmbTR2TDZ5YkZ0RGdYc00wZ0s0eHpvWnU3eFF3?oc=5",
@@ -2093,6 +2275,19 @@
       ],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "83ef277a2792",
+      "title": "Ro Khanna supporters reportedly working on 2028 presidential bid",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU43OTRIQ05WaHNyOER0SDdkRzh2bEZJbWczaDJhdjk0U2hpTEFmb25HNm8tT0Vfdzc3NXNpTm5pMjhjV2V0UUx5cTJyMFFsM1h2S0dqUjd0M1ZXYnd6dnR1NHlsYi1wSThpOWFWTjNSeGcyOHFnSzNyWGJsSzRsY1hLc19kUHVweUlxTFRyQmtTTE9ieFZUWWxDSlZpVnBL?oc=5",
+      "publisher": "Yahoo",
+      "date": "2026-11-05",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-14T02:30:02+00:00"
     },
     {
       "id": "c4ec1c2dfdb5",
