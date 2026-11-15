@@ -1,21 +1,21 @@
 {
-  "checked": "2026-11-14T02:30:02+00:00",
+  "checked": "2026-11-15T01:58:53+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 62
+      "entries": 66
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 9
+      "entries": 10
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 32
+      "entries": 33
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 6
+      "entries": 7
     },
     "gn-2028-senate": {
       "ok": true,
@@ -23,11 +23,11 @@
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 19
+      "entries": 23
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 27
+      "entries": 21
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,90 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 1
+      "entries": 0
     }
   },
   "items": [
+    {
+      "id": "8222150c4977",
+      "title": "Comelec: Political parties’ registration for 2028 polls deadline set Dec. 18 By Ferdinand Patinio MANILA – The Commission on Elections (Comelec) on Saturday said political parties have more than a month to file their petition for registration for the May 2028",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTHNSYTRVYlllVkR5VWxUU1RhUHF6SW1QMW13VTZQQk1HelEtVHJfUEh4Yk94WEZvSE9WeU90V0NYNFladC1ZRWxsLUdQS1NDYmtWRUx2cnJMZ3VkUzJScWtCNkNFbDZrbERTdV9xYWx2X3pzVmxJSUpaaEhaNTByandJUFhkSVloeHhuSWt5Nk92cDJhMFE1WlN1Q0lRTmVpdmFleVljam8xcWRIVTh5ZEJJOFlTRnk1YU9oX1R1QjdEb0RobS1RTE5ndWVjUWhyMjNBaA?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-14",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "004a5f718f24",
+      "title": "COMELEC. The_Mountain · Drill Season. 📢 𝟐𝟎𝟐𝟖 𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐀𝐍𝐃 𝐋𝐎𝐂𝐀𝐋 𝐄𝐋𝐄𝐂𝐓𝐈𝐎𝐍𝐒 | 𝟑𝟒 𝐝𝐚𝐲𝐬 𝐭𝐨 𝐠𝐨 𝐛𝐞𝐟𝐨𝐫𝐞 𝐭𝐡𝐞 𝐝𝐞𝐚𝐝𝐥𝐢𝐧𝐞 𝐭𝐨 𝐟𝐢𝐥𝐞 𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐫𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐩𝐨𝐥𝐢𝐭𝐢𝐜𝐚𝐥 𝐩𝐚𝐫𝐭𝐢𝐞𝐬 The Commission on Elections",
+      "url": "https://news.google.com/rss/articles/CBMikglBVV95cUxOZzJOS29heXdTenhPWERzSTdaOVdLU3dVWDhfX1J6QnBmRHZYMmNoSnlvbDJHZU1LbjRGdktHSXRvdzBRT3J2ODh3eUF6SlYzQmVCXzhRYjg2aXdWVnJkT1ZHY0JhY1Q3ZlhVM1JjUkQtQ3p5RHExem53YWdBc1IzVUNQeEM1N0NsdVdsLXBQYTYyYmdYaE54dXJlOGNpYkp1azZDbTZKT1VsaFp2LWlyQlZFdEFpSWZSZnBfWXVscW5TeTY4ZkpRY0RXVHNfcnFkZnA4bVY0Um9VT3ZESlNUQndMYWpjNU12blFVZlA2eFpFT1c2c2NrckMyVk10U3RYS2YtdGZtRUFTQUxIalNGWVFpc0NaUWRHd2M5MlE0YmhUYWdUV1Nta2VWRExIdDBOYzZLU1pVRUNFQmlWdHA3NFFodkxfczduX1R5cWNKMnZ1QjlGMHRCRXV0TU5pcnpBU2xKYlNoRXIwbnhzUUFSMlhvNEZ1V1FJZHZtUGFmWEg0LUY1T3V6UDRSaUxmME5sNVpubEh4WlpVSGc1TFdJVmVqNTFBQmtva29rc2xTYUl2bjZ0ZEttb21ITS1FRW5kMkRkam1GVll3TU1ZVHlyWHFFMGZzUUNHYjNfMUxXQTB6VXFCUUVaWjBSTzVNT1B0MHJVd2JFdjZ4QUhrQXFXUmhkNm9SeUlKNE5oRzlDUmpDQmN6UWN3bG1vTTVxRlVVbzM2SkFEZEVuVmp2cHI0bTNWYkp4SlVLcl9RMzVnQjV4dkI5MUUxcm9NSVdXR3lYcGVteWRpVkhoX3lTT2VsMHlPeXMtVFRUWGtIZTNkVkRyTGVxWEkzTGprQUxRVEYtR190Y2ptTDdaMGZ2S3MySWdGdHh1NTJUOFFUTk9uZVN5cVhVYnNTVU50Zm5NS3dKbWZPMFpad2Fna1RLOTlnZHMyWjlQWXZFOFFPLXdwa21XdmU0Q0Rfb0MwNnU2U0NuN0RhSEFRTDVWMUFqRkdPMzg0dmdIQmJmU0lXN0JacUNEZ0lpMHdhV1pEN2dXLW5fZG5aVm9HZjNKQ0dnem5BWHVYSkNhZ0dVVVFvS2dwUXB2QzQxbVJSNzBjcGpTUm9tbzhoZVg2X1JlNTNkNk11VDZKV29NbkhkTDFjTmZ4Wm5QSXlVSUJ6ZnJ4NlV1clpPeDlSOEs4N2tjSHUtSHA1bnlDczRiajExLVZ1YnRIaldjb0w1b1pPZm81R1VBYzRKU3AxSHBWWVVlWnNqdkllMlVVOTZOSkxfdGtwSllkQlhSb1RBaUY1emZndFhtNnNoNHNid2lkaFBydUhXazVoSUJkSUJjZ2ZpSHprR1BJQ1U3Z0dVekNGMWFLZllxMkdyOTdVQXFxaDZmZUVxejJRb0d4N0UxOW9sSzJQeEI3dHg3MHZna3M3RDgtSG9jMVdqa1M4N1RHRzY3SWpFNXl5b1hCTENYWTRiOTY3QzR4Q3NnYTI0dWduZjA2OHhZQ3J2SlEtSHluUmtHbnAweVpRUzBVdXVyU1oyUWI5TFY4XzNMejdFUEJnLTlVM2hheHZpYVE?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-14",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "bef995a85a6f",
+      "title": "Comelec: Political parties’ registration for 2028 polls deadline set Dec. 18",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTBmcUpNV045Ry1SamFJWmhIckprN1YxNUdCZFhqdXhlcjJKQ1RzenR4amIwVl9NZ2l2b0VjM04wWUV6YkFsRi1ySlZBckdfQ0dTOENMMGZpaXJUcWZNVGZTSkhQanc1RU15a2RsVnJpc2FGNE0tcEYxZUNxX3M2T2VOQjRESHA3TnNMQkFkYV9OSmNpZmdWaEwzc04waEszYXA3LQ?oc=5",
+      "publisher": "thechronicle.com.ph",
+      "date": "2026-11-14",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "4eaac5322ca6",
+      "title": "JD Vance weighs dropping 2028 presidential bid after GOP midterm losses: Report",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnFMbklnaVpQbVpqTkVxMjR4U0tsNmVXN3NkMWllSXdjU1FyekpTUjdiUjBXQlltR0lFZUdtMWNnbWpZSm5ZYzJhbWdiMmEzRWZFdzdORWVFcUluUi1nVFZTNjlSbVZINXpxOUIwNjI1cm5FOGJLS1pGRW40Znphdm1hMTVTTmtHQ3AtVjY1bjdXS1dqYWo4RnBMcHBzbHBsZ3ltcUJWeDJoMTI3NThIM25sUnp0dDNZa3MzMDFvcDFLZw?oc=5",
+      "publisher": "Big News Network.com",
+      "date": "2026-11-14",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "5cf142cc9e58",
+      "title": "'Parang hindi na talaga!' Trillanes believes Leni Robredo serious about skipping 2028 presidential race",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEtzNmlLU2M5NVl2T0lUZkE1MHd3STB6OGFLY3ZuM1dRWFZLeUEzTWlITVQyWVFmWS1RRFlyZnhRT2w3bFRyMjdNa2tLNU5iSnBIT3U0RUhHaUJBWTJvdFhXaFliblRJYzd2MG5RWV9OSVAwOFhNMncxckdjcC1MekZpQUtUYzVrM21MbDRtbzExd29MdEVEaWo2clREazJ5YmhIWVRmNTlCZWVmaWRfaGh0WVB1bk84Yk1rdWRlTzZrUlU?oc=5",
+      "publisher": "Politiko.com.ph",
+      "date": "2026-11-14",
+      "topics": [],
+      "people": [
+        "leni-robredo"
+      ],
+      "feed": "gn-2028-senate",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "e53b89fb5afb",
+      "title": "OCTA Research denies its 2028 election surveys were rigged to favor Leni Robredo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1c1U1ZSTk1UQTVWQk9EdGZpbjQ5NUZmZm1EdHJ1OXBRMlBnN1JBRXVwaF9NY21UdUg2WDA0RnNaUkt6eXBZZGlJS3BFQ216cEN3MWprSjhVaXp5bVdJNWw5SXdHNWRUNXhOLURXelVSNG9RY2hqTFJSUmRteks0b2k4NGVZZ21lUmJNTDM2WThrNHVUWlJOMjk5RVJNUHpmbGZySXFtQ3pvbGloVzNURWlXUjJTLVA3Z0Jz?oc=5",
+      "publisher": "The Global Filipino Magazine",
+      "date": "2026-11-14",
+      "topics": [
+        "survey"
+      ],
+      "people": [
+        "leni-robredo"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
     {
       "id": "f66c9acebad0",
       "title": "‘Comelec can set new BSKE date without new law’",
@@ -93,6 +173,19 @@
       ],
       "feed": "rappler",
       "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "369c6a8a3421",
+      "title": "Van Hollen drops presidential ambition: ‘I’m not running in 2028’",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQWN4T0VrZTN3cGJGdjZHYlBobEpKWHBHb2g3S3ROUkdlMWdRQ1FOdU5OXzgxVTFsQ3VyaTVodTV6ZVRybVFESTB2dDlRNGNWVjJBMi1uYjZFd1htaGhwNG5ORTlGcWpoMFNob0E2SE5GLWJBMXJXR1RGN3d0NGpqRzVjZ0tRNVNVOGc?oc=5",
+      "publisher": "Baltimore Sun",
+      "date": "2026-11-13",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-15T01:58:53+00:00"
     },
     {
       "id": "d193fadc00fe",
@@ -1004,6 +1097,22 @@
       "people": [],
       "feed": "rappler",
       "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "a90798b6e348",
+      "title": "Robredo-Tulfo tandem edges past Baste Duterte-Padilla in early OCTA 2028 poll",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3VDd3YxbS1FckdLTjhZUFdVQ1FaNVhzbmc4a2tYZ19yVWxhVzhzUkVrVEJRU3llcnVLVUQ5dnBEb21NX0RSZjhlNHVuaXhVeUJ6Vm5LeFgxVHJ5aHhGUnFWRVRIYUtfWmcwWFJDVm83ckJEMUdHdkp2VmRnTFphbVJkdVZaZWNvRGZBOF85djMzZGp5Ym9FSTZ2bWVITVhVQzVEajA1TkZsVWt1XzhiQVk4d2ltQzA3SmtqTGlCRdIBxwFBVV95cUxPdzhJTWxzLVpmeGRaeFNtYjFVcUdNaU42NHYwa2gtSDB5YnhXWkZiN05tWUdEcmpwM2I0d2RCLWd2eWxVa3YybGxISnd6UWhVSnRWXzdwV1Z1UEVSVjVKdUwyNm55TlFycTc0Ukx5V1JnMU9QdjRteHJaWkpqRnEyMjFNTm92SGlmZDVyYmtYWm5NMlZRRzR4VnIyUVpyMHhIdjRoNlFZcWFDWkp4b3ltUzBLN013cWlwVDZMMW1ldmV1ZU1xX1RV?oc=5",
+      "publisher": "BRABO News",
+      "date": "2026-11-10",
+      "topics": [
+        "survey",
+        "candidacy"
+      ],
+      "people": [
+        "baste-duterte"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-15T01:58:53+00:00"
     },
     {
       "id": "d11024775577",
@@ -2196,6 +2305,36 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "ae8be18ecbb8",
+      "title": "Leni Robredo urged to decide on 2028 presidential bid by January",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWpjLVJ5bmQ5VWxOSjJjUlZydnFwZGhCd2RGR3JkZUYwLWRWZ2lCdFNoUU92VmZURF8zOTEwaVFBZWlhWkhmOGJRLVU5LXFBYVFWREJlMzV2Z3hNai1sS2NmUHI0Nk80ck9ad192aWNqZzlEQW1qdVN3bFUxMDdLMnlBTWdMOU9zV3RTampwc0VoWVJ2bjBXSTBMME4tZlpMMmZERdIBqgFBVV95cUxPNjJseVRWV1ZockhuWTJ1WjRuaVdJYTVyQjZEZGJ0d1ZDd01Fdi03Zlp2cDhWcFNFLV9wUXpwZ2xCcHVMclJIRGVDb2tzdXp5UHBkc19MRmlPSGp1V0VlaFdYTWlpUDhKcGRfNGZvbkdVUUlPUUtIZ2c2Y2RNZXVXVGJpZEtZSVNBMUlpbm95MDlQRU16UjBXV2tCMks4cGNralN5Q1JQYV9SZw?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-06",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [
+        "leni-robredo"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
+      "id": "ca665fc6a78d",
+      "title": "Senate impeachment court admits prosecution evidence in Sara Duterte trial The Senate impeachment court overrules the defense’s objections to the documentary evidence presented by the prosecution in Vice President Sara Duterte’s impeachment trial. Full",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObkJPTHBQR2gzX0lxNFM0OTVoQmplNDR0czJzdExxMVE1SVZRNnZhay05M2MwY0I0R3kweVJMa0lNOW15dTItYkcwcm95c3ZvMnkwdkM0ZEd1d0RjTFRMTVcwM0czRUl2aTNvR0t1SXhyaTk2SlpBWEdNdllxMXd2UGdzNXR4UHBLdHhWbXYzanM5RzZlQWNrWlBXb0tjN2VYT01OWllrZlJvUlEyaU9KOFBtRkExODNza3ptdHU0eS1uSk9QV05CRmVUVHdpeEpjUEU0T0t0VGNUVklS?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-06",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
       "id": "2cf94d1e287d",
       "title": "Impeachment court reinstates sub judice rule on all VP articles",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0dTV1Mxb2VuOC13M1RUOFhlSW9ESEkyNm5ZdkhzWDBwa2ItS2ZnWmh3UHRNX29xTmdDeEVaTVhDYlNsM0Y0bzNfXzZOWC1zUUp6LWp0bnljZm96VklFX2YxT2ctQzE0OVYtRjY5WkI3RXdUV2xDaUp5MWxOWFNLVWxJdDdxY0hNQ1g4X1lLVzBjNHZ3QWtoREhITXo0bWY5TnlPR0ZR0gGrAUFVX3lxTFBvclk5VE5vOVA5Qmx5X3IxRG9mRTBkM3Bqa3RxQjg3ZktlbTlETXdsa1ZrRWtNU1k3M05nbmp6VUlBM3FHeDF3X3htN3lCc0pXaFFMMHFtbU1vNWM4N0xEOE9pTlRGRGtfZjkyYU9fWmZTUkhiM1FZdUlacXhIeFg3X0VhQ0R1cU51SUg2dHZLNUwxRllzTjRfSEFteFNHaGl4RGpBWm1BaHBpSQ?oc=5",
@@ -2572,6 +2711,22 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "820c665d051e",
+      "title": "ABS-CBN News. . Solicitor General Darlene Berberabe has asked the Supreme Court to dismiss the petition filed by Senators Robin Padilla and Bong Go against the decision of the Senate Impeachment Court on the voting threshold to convict Vice President",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWl0OUlHN1dxeVJWbHdOU01wc19wWjVaQnpVd3p6Q1J3TGFJTnB3RlNjRmVwaUdpbzlmbjZRclRDTFQyQUhKbTdDdVlwbENTRkF2X3VQUjhPdFhtelpZclFqZXlObDBZOUxRQkZKeDdyd2J6Y1FoWUdTMU9WVVRtTHJJYzRRbGN3a00xMFBCS1JBdm9ockx1LW1sU245dGtzVV9QUWFiaUdoczlzblhQTnZDdGV2V2FmbllybG1pSmRBcmVoU1RNNTJlVVJpcWExcURfZmE3aDM?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-04",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "robin-padilla",
+        "bong-go"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-15T01:58:53+00:00"
+    },
+    {
       "id": "0cf0c2b49fb8",
       "title": "The gap between Vice President Sara Duterte and Naga City Mayor Leni Robredo in a hypothetical presidential matchup in 2028 has narrowed to its closest in the latest OCTA Research group poll. https://tinyurl.com/48z4jxrh | via ONE News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHl1WnFzWi1rT2pfcnEtWTBKYTI1NXduTlB6b09XZkc1dEJuNGU5b0VleTB4TWJOeDRadE9PTFFSUzQ1azNUY3NTb1ZYQlYwRk1zSnVSQ1FrRkJtSms0ZXdzYnpBaTczVnY4T044dDNfcl9hNjVSNkdOYkwwVURRaUQyejA5SFBBampDRk5lTVBlTmYzZTRWN2Z3ZElKREtnakhQbWRsalUzVEQyOC1leHMyc0RyYWJadkc4VHZnN0QyMXU0ZUVOZUhIdVpCTzJRUlVlajVRZUNDUG1k?oc=5",
@@ -2738,6 +2893,20 @@
       "people": [],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "cb428f9c41aa",
+      "title": "📢 ANNOUNCEMENT: VOTER REGISTRATION REOPENS! The Commission on Elections (COMELEC) will resume voter registration from November 10, 2026, to July 30, 2027! 🇵🇭 📍 Visit COMELEC Bacoor City at 3rd Floor Bacoor Government Center Bayana",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTRoR1ZKNjJmOE9lUUxiQ282bXRlV01RRVo2Rm92NTlDVXcwbDJTbFRIX00tOThGME9QRXQ5WFY1OE96b2UySnFRaWhPTHd6UlRERVp0aFVqRGduV2RWV3hkLTR6NUhWa0MxSW5kdzFrMWhLQk5fUnBCM0ZacVBYNmIxT2tQejJuV0JJS1VxcS1NRk41T0xoOGtQZjVoSERnZExWUWVQYkVfVFhVUjBuSm94QWYxV2ZZWU0zV193Yzk3MFdONGxKVlZINnhOaDM3Q3VDQjZwdmt0b0lN?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-02",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-15T01:58:53+00:00"
     },
     {
       "id": "5ff77ce405d3",
