@@ -1,9 +1,9 @@
 {
-  "checked": "2026-11-15T01:58:53+00:00",
+  "checked": "2026-11-16T02:14:41+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 66
+      "entries": 64
     },
     "gn-registered-voters": {
       "ok": true,
@@ -11,23 +11,23 @@
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 33
+      "entries": 32
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 7
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 29
+      "entries": 31
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 23
+      "entries": 17
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 21
+      "entries": 19
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,66 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 0
+      "entries": 1
     }
   },
   "items": [
+    {
+      "id": "25e43691021d",
+      "title": "Defense witnesses’ ties to Dutertes questioned",
+      "url": "https://www.philstar.com/headlines/2026/11/16/2570384/defense-witnesses-ties-dutertes-questioned",
+      "publisher": "Philstar",
+      "date": "2026-11-16",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
+      "id": "55be1d193cfb",
+      "title": "New York socialists urge Ocasio-Cortez 2028 presidential bid: What to know",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGozUzRCamM0eWJyRlprUVQ3TzhkaEJGYUcyYWlPcXdlOFpHU3Y4TU56NWl2TVFwX043Z0l4QzZRenJUb05mZVBuQTZzYzllemx0MzBBUmlmVHQ1ekRSMUJ0Uk9GUjN1bEFoTWRrU1RDUWd0enJiNWY3YWI3M1dVTkRiYjFGMlJBOWo5aFhXVktCUzRpU0lPdWUwUXlqNGhaQzEwWU0xd2JwWnpRa1hMNndZdktVQdIBsgFBVV95cUxObEtfRUN6X0pSMzVuX25rQkU1ZUN5TTB6d3pGbjlmVFlyWmpyZjdYN1NXUERZa1htU1J5ekRfOWFqUHBxbVg5U0NQOEtEdlhZYW5EamFqb1Vyd2N1RlZPSHotYmoxVHBRcG1DQW9IWkNGUm1tYi1RM09sZmtxaXc2aE9TNlR5RFA4VFE2dTVVTXcyV1B5dHl6dFpDdldmNkVMZUJmRDBKNTRMbjhOc1FrT0Fn?oc=5",
+      "publisher": "The News International",
+      "date": "2026-11-15",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
+      "id": "c3ae52c869a0",
+      "title": "VP Sara impeachment: Defense seeks subpoenas for 4 witnesses on Cale88 issue",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009602/defense-team-seeks-subpoenas-for-4-witnesses-in-vp-sara-trial-prosecution-says/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-15",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
+      "id": "02d5c18d195c",
+      "title": "Senate Democrat teases possible 2028 presidential bid, slams D.C. ‘bulls---’",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMExpT2xfMC1pSDg2eE5HcWFhZlVWbUR5aGJGblAtMnJaQnctSnhmcUVhaXBjWXZhbkw1VUxHRmFMaHlZT0dIdG9rUTUwRUhGSmJUeVlWY3VLTGZKNzZNcFZNTU1YVXI4QzRGSmkxaDZnc3hBR3R6Y0RWdktLeDhJVkRTcExNVDg2Z0ZNQjlUTlNuOWlZSFdxVlpBLUQ?oc=5",
+      "publisher": "Yahoo",
+      "date": "2026-11-14",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-senate",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
     {
       "id": "8222150c4977",
       "title": "Comelec: Political parties’ registration for 2028 polls deadline set Dec. 18 By Ferdinand Patinio MANILA – The Commission on Elections (Comelec) on Saturday said political parties have more than a month to file their petition for registration for the May 2028",
@@ -173,6 +229,19 @@
       ],
       "feed": "rappler",
       "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "72c302fab104",
+      "title": "📢 𝟐𝟎𝟐𝟖 𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐀𝐍𝐃 𝐋𝐎𝐂𝐀𝐋 𝐄𝐋𝐄𝐂𝐓𝐈𝐎𝐍𝐒 | 𝟑𝟓 𝐝𝐚𝐲𝐬 𝐭𝐨 𝐠𝐨 𝐛𝐞𝐟𝐨𝐫𝐞 𝐭𝐡𝐞 𝐝𝐞𝐚𝐝𝐥𝐢𝐧𝐞 𝐭𝐨 𝐟𝐢𝐥𝐞 𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐫𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐩𝐨𝐥𝐢𝐭𝐢𝐜𝐚𝐥 𝐩𝐚𝐫𝐭𝐢𝐞𝐬 The Commission on Elections (COMELEC) reminds all concerned politic",
+      "url": "https://news.google.com/rss/articles/CBMikglBVV95cUxNaTNBcnNVbEhZQ3AyNlRMYnV2R2RJZjVMYVZuVnQ3Vy0zREQ3QmFjRE1qOC1KZ0RaLUFBQmMxMjNvbUxvNlZaVlNpdTNHVzlOR2ROdm1reE1ORUc0ZnlMT2preEdFQ1EwOW9Dbks1bGE2a2wxWWFQRHVqTUxwdl85bnhCTFFKWlpMVU1weDVpZGhkYUNmWWJjaHVNYTM2dWU4TUhXNXZSMmVPVlNCNEV6NUxpQ2ZTeXdldlppMnNqTjBNUFVFdmhBN25CYzVDbGdqNHVfNWpCNWY3QkF2TGV3Y3BveTluWVFZZk51MWU5N2c1dWU3c2pWbjB0c0FOUkRuQU14M0VXQnRyam9sbHhLcVplYU9QUW1GbDdJdHZ1QVV1UHJTclk3OE52by00aG5TNy1nSnBDdWg1S3BPTUtjMk1LWk1QQ0pBRm5tbTB0dUhVRkxHaUJ5ajRwQTRsX3NTUVNJWGl4OTRvWWR5LXl0YTdjeEplNnAxTEJJY1AxLVF3M0ZuSE1GaWVXR3l5a3cxX3lLNEpfUHJnVkpqc0JnNFduZkpFY3hPc3ZOekROZFdZdzRCRTd6eGRaZzBObk9NV3pDczRNdlJPYVhlc3dTNXVuTDdvZ09zdmJmTXhXTkk5QUFUaHFZWnE2V1FQcWlYSTBfaDlZQ2pfb1pINl91VFBwUHBucmxxZUFBZGU3WWU3VDlRdzNSWkE0bk5BRkR4SWVDNGo5c0NaNkNFbkRsLUtkb0xuUEJWVTJoVFpEYXJFWnh4QWtDMnU4d3JNV2ttVzVuV1NrTDcxUTBKYldZRmo5M0RDSkdVdjZCc005R1ZqQUk5SHNRRnYxc05YUjlZX2hMUDBtamdvLWJRUHJxV1NjcWtwelhxeVJEMDN2QklTbzE0UW5nQ1dZcTF3ZXltekJBYXAwQW5JeUpKdGVSY1RHeFBLdjU1M1AtMlRDSU05dVM1Q1JUd2VZNlJxWWdreEh4ajdOSXA1TmhRLXRrcFBxSEpjbEdvR1IzZXlYV3VkOVFBbl9KczVxWF9ZT1dQY1pKV3U1M2lPZHRKdmpKQ0NIeG1wNjNhSnZjSGtWRV9CTllTZW02azZtc3lZbjVDMk94UHg4YWRNMFJCQkMtQUgwYTVmMy1GbzRucG9PN2xZNDRVcDBzLXF0b0VoWDVmMUstR09mX2pLRHlndS1tTlR1cVVsTUJNeE1wM3ZqcHRXZTA3Z2xsWnVnb2tHOGdZaWxDQ19iRW1oV2twUHUyZThxN3FFYVVjOFdtMkhMbS1NVWdkcHA5Y1hyNi1BXzVsSzRGeUhtYjUzTV9LN1diZXRpemw1STNHNVRuM0FyYXhEUE9TRm5MZXFYamNEQkVhSXhqMFRkeGxISThOSkMxQlk3OXNVOEw1c0puZUVfTUhrSlUxaDNwZldEVlc0WVpfQWdPc2JtZVYyTV83eFFCMDFUMS1hRzJIaGgyRThkcDMwRUlUQkdoSXI0OGNaZ2FLNVJMMkJYekFKbnNkWWx1OWtyWUNqN29sWmkzZDdhVWdVSEg1UlktQ2VtZDJZRUt6b0E?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-13",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-16T02:14:41+00:00"
     },
     {
       "id": "369c6a8a3421",
@@ -1097,6 +1166,19 @@
       "people": [],
       "feed": "rappler",
       "found": "2026-11-11T01:58:44+00:00"
+    },
+    {
+      "id": "a2f5c058907d",
+      "title": "AOC dismisses speculation over 2028 presidential bid, says Democrats must focus on voters’ mandate",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXZ1Mkk5eHhrdy00emw5X2NwYTlBZTdNLXUybjhlbVZsODhXbmU2OVNoSmtJWGw5V0NLVVhSQmR0amhhci1EQUg3ak1OWXdLWVc2aGpaLWNEb3AySHJDSkJSM1ZGRm5MYzNTSE8xM3JhM3NpX25pSXZOQmxBaHBHdldwNC0taGtKWjRDVjhJZFlsWkw4QlFpWEYtZTJJMjgya2ZxbjA2TkVHRmVDclQ0YjdTVGF3eEVDMjBPckRDczllbUVQeEpnb2JReWU3TFpqejFHV3VKS09ad1F3ZnpWaU9FbVgyUQ?oc=5",
+      "publisher": "ANI News",
+      "date": "2026-11-10",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-16T02:14:41+00:00"
     },
     {
       "id": "a90798b6e348",
@@ -2416,6 +2498,19 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "89b6f5ad3d46",
+      "title": "2028 presidential survey",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeUpZaEkxcUVrU3F1amc0ck1tWGVsdFVLZTM3azV2NnlhQjRXX0NIS2d6SXlXOHhfZm9kTEpDN05KWTRNWE9Qb00xYWpZdGxjUlFwN1RvVzVrQjZIaHBZUFR1NGQ5aDBnYnRqMUx3Yw?oc=5",
+      "publisher": "Mindanao Times",
+      "date": "2026-11-05",
+      "topics": [
+        "survey"
+      ],
+      "people": [],
+      "feed": "gn-surveys",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
       "id": "83ef277a2792",
       "title": "Ro Khanna supporters reportedly working on 2028 presidential bid",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU43OTRIQ05WaHNyOER0SDdkRzh2bEZJbWczaDJhdjk0U2hpTEFmb25HNm8tT0Vfdzc3NXNpTm5pMjhjV2V0UUx5cTJyMFFsM1h2S0dqUjd0M1ZXYnd6dnR1NHlsYi1wSThpOWFWTjNSeGcyOHFnSzNyWGJsSzRsY1hLc19kUHVweUlxTFRyQmtTTE9ieFZUWWxDSlZpVnBL?oc=5",
@@ -2711,6 +2806,33 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "0a8c793152b3",
+      "title": "COMELEC sets nationwide voter registration to resume on November 10",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWdqM0JwZlNwRmxLdVZsRVJpLWpoWTZfdGo5Q2dSNlNFTmcySEtEeVpVSkxtNkN5Y2pjVDg1QUVCMUpBSkN2ZVRqY1IwUlpEWmJsdl9hdGMtRnFUTV9GZlBXUzdMbG9yMDlGYmJiSlRQeFRjSVZ4aFU4MFZZQmJveWFjTnhzTWJhVGttRkZuWFcwNXRYblphTlZDOFE?oc=5",
+      "publisher": "DZRH",
+      "date": "2026-11-04",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
+      "id": "4fe5dcd824d2",
+      "title": "Senate impeachment court asks SC to dismiss Go, Padilla voting threshold petition",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdEhuUnl0TTZGWVdaQlE5Nm1RSnpuRlpCN3J1NTJDYmEzTThlb1FCLU9vN1FiUHE5bjNoRnZrTFM3Mkhta1lZMjJGUjR4MkpjSTBIZmsyVHVxcmplSWd5aTFDRUVLcnIzX2ZFQWVBSW9FcS1Fb3c3VkctRjExbkJJUzEwY1ZYSFRzRTF3V3I2Z0tKOEdPNGFiWUl2TVFoSnVoTVFCX0QtMEQ2NktaLWZJVnlrcXpRZDNKXzBXRHhOMWdHMXpONlhIZFluLU5CTEhnZVBiOGpvSjVRMTBOZlHSAeMBQVVfeXFMTS1BRm5MNTJyWWg0UWJ6a0ZMU2dwUXBRLVdyM3NJRk1nTmUzLUJfZGFUNXkwcGFxLXNKVVMzSTIxdnJ0QmZxVkRaZWRyTXF1Nm9TbU9XbmlQbzRBdktfRFEtQmNQTzJRQ2pVb3NrYXE3ZzNWdkVuZzh1dGdMTTRjdnJlbHVsZ1RPM2hiS2phLTJiczVTUUc1YjZqOVFIZk9qbzJTUUJTSDllSkZxeUdFajl1TGloRXZ4NFZPdnpkQTJPalNYNHdOQTNRYjFsTFJSdHdOWm5tdlRuRzNPVVYzVjlEbEU?oc=5",
+      "publisher": "GMA Network",
+      "date": "2026-11-04",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-16T02:14:41+00:00"
+    },
+    {
       "id": "820c665d051e",
       "title": "ABS-CBN News. . Solicitor General Darlene Berberabe has asked the Supreme Court to dismiss the petition filed by Senators Robin Padilla and Bong Go against the decision of the Senate Impeachment Court on the voting threshold to convict Vice President",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWl0OUlHN1dxeVJWbHdOU01wc19wWjVaQnpVd3p6Q1J3TGFJTnB3RlNjRmVwaUdpbzlmbjZRclRDTFQyQUhKbTdDdVlwbENTRkF2X3VQUjhPdFhtelpZclFqZXlObDBZOUxRQkZKeDdyd2J6Y1FoWUdTMU9WVVRtTHJJYzRRbGN3a00xMFBCS1JBdm9ockx1LW1sU245dGtzVV9QUWFiaUdoczlzblhQTnZDdGV2V2FmbllybG1pSmRBcmVoU1RNNTJlVVJpcWExcURfZmE3aDM?oc=5",
@@ -2864,6 +2986,19 @@
       "people": [],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "2b42c72fee7c",
+      "title": "The Democrats surged toward control of the U.S. Congress. Meanwhile, Baste Duterte emerged as a formidable force in the 2028 presidential elections. #ANCHeadlines #ABSCBNNews",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWGR6X180YXIwUU9wWTF6QkFLOVhUMFRia29HYnA1MFlWUEtsZjhyYjJxdmdMaHdiRkVsWXNzRmhnQ2VFWWJEZEc5TjcwMEY3VlBEVkVfZWR6SmNtZXVLWTFKQk9uYWR6Z2lIdFZGRW1JVlVuRmx0XzJjZGpjQ01fSDVXQklXckpZSlRmV0JSSlAyUlpaMnBSbkFMVXN6aGRyRmFXMlBxVW9McWxYUTBHRUtiVDFobmc3MjlYaXBUQUdEMll2Q21FNE15ZFlkeTZLQldySG5EQQ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-03",
+      "topics": [],
+      "people": [
+        "baste-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-16T02:14:41+00:00"
     },
     {
       "id": "71735a9d978d",
