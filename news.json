@@ -1,33 +1,33 @@
 {
-  "checked": "2026-11-16T02:14:41+00:00",
+  "checked": "2026-11-17T04:35:15+00:00",
   "feeds": {
     "gn-comelec-registration": {
-      "ok": true,
-      "entries": 64
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 10
+      "entries": 9
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 32
+      "entries": 33
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 6
+      "entries": 7
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 31
+      "entries": 28
     },
     "gn-surveys": {
       "ok": true,
       "entries": 17
     },
     "gn-impeachment": {
-      "ok": true,
-      "entries": 19
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,51 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 1
+      "entries": 6
     }
   },
   "items": [
+    {
+      "id": "96ab3cac36c8",
+      "title": "VP defense turns to gov’t witnesses over P817-M wealth",
+      "url": "https://newsinfo.inquirer.net/2342413/vp-defense-turns-to-govt-witnesses-over-p817-m-wealth",
+      "publisher": "Inquirer",
+      "date": "2026-11-17",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-17T04:35:15+00:00"
+    },
+    {
+      "id": "24f2e6efe6c1",
+      "title": "Gov. Wes Moore Still Weighing 2028 Presidential Bid",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWi0xcHlRQUV6NHJPUHd2SGpBQkZ5Q3pqUVJWcGxINUFNUnlFd0RFSVE2QWVDdDZoTnNfVVNiNU5UaUxzMjRwcDBWSHAxMm1yeUpKU2s3MjJ4V1cwM1pOQVlXY21iaHZMQ0Y3NEtzMkhoWGc5NC1HQmQ0T0hUS3ZubFFtTWpKR28zdm5z?oc=5",
+      "publisher": "Newsmax",
+      "date": "2026-11-16",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-17T04:35:15+00:00"
+    },
+    {
+      "id": "309cca0b02d7",
+      "title": "VP Sara leads survey on May 2028 presidential elections",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdV9jWlkxQTJIXzJnTHNhXzVzOHUwQW1WLXhfVE1QQzdhenlVZFFSTkREdkwtZnhZNWZ3RnRFY05QMXRpYWFGS1loa3A5VTdJNkNSRkNYaXN6cDV3WGwtYV9tbWs3NDdHV0hJUjJUWERmSVcwNGVvcUNBbE1Pemx0bXFlMkV1cnhQNnE1NXlaSHZSN2JBdWNtRVJFV043Zms?oc=5",
+      "publisher": "MindaNews",
+      "date": "2026-11-16",
+      "topics": [
+        "survey"
+      ],
+      "people": [],
+      "feed": "gn-surveys",
+      "found": "2026-11-17T04:35:15+00:00"
+    },
     {
       "id": "25e43691021d",
       "title": "Defense witnesses’ ties to Dutertes questioned",
