@@ -1,33 +1,33 @@
 {
-  "checked": "2026-11-17T04:35:15+00:00",
+  "checked": "2026-11-18T03:44:28+00:00",
   "feeds": {
     "gn-comelec-registration": {
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "entries": 62
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 9
+      "entries": 8
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 33
+      "entries": 32
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 7
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 28
+      "entries": 27
     },
     "gn-surveys": {
       "ok": true,
       "entries": 17
     },
     "gn-impeachment": {
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "entries": 27
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,75 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 6
+      "entries": 4
     }
   },
   "items": [
+    {
+      "id": "1966acf1aab2",
+      "title": "No brakes: Cielo Magno vows candor in 2028 Senate bid",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmJRbU9scHhpcDR1THZKZXVDbGZWZVZOTGg2cDJnMXRoaFV6YV9aemJuWTc5WG05dHRHRDdwRW04MmVGMlJaQllLdURzeU02SGdiaWJMNGxZMXgtWHpHaVUzWmJ0NExtZFR1MkhYRWpwLVo0a2ZycnFIWkNVaGhXMnJiLWRYRXNRNnY5b09DbmxUcGdm?oc=5",
+      "publisher": "Daily Guardian",
+      "date": "2026-11-17",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "dc72bec826d1",
+      "title": "Rep. Jamie Raskin won’t rule out 2028 presidential bid",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTF9JeWlzT2NNTElYVjh2TG9yRlVxc0dDaFVvU2xjVFVWVE1EUDQxWlBIRUFCM21YX1lqNGRZRWZFTGZRNkFZbzJLUGVDbXE2U1J4dkw4TW00c09RbG96bE5vZF9NZU5RV1VBdEFPMjdxdmxDcWhSVHhnZTdKejJDTmV4SnY4UkhtTE5US0l3TUlfUTV2dkFVWXhvZ0tiR19idXFqbFVjNDJ6U1pDRzNObXdZOUxrNFhKalBwTW5QU2U1T1UwTFA4bVdYS3hjZGFDX0x6OVdBSVlUaExteWM2empmT3FfWV9zN3J3T1Q2a0hYcjVVQVZwZmZpeklndDRMZWVWRUVWVkwya2R3OFY1ZW9YSkUxdXptWk9LcjczU3pXNDd0eV91MA?oc=5",
+      "publisher": "The Frederick News-Post",
+      "date": "2026-11-17",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "76ce8e0e280d",
+      "title": "Verdict in VP’s impeachment trial expected next month",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjMzV3ZZc3ZQb2dGVE90VDVYcVJuM3BsTDZhaXNyNXU2eWhTMFVhOVYzOGRuVzJYb3BKTGVXVWRFcTVpTFRpbm80bXVidERyZ0FHT1ZzWmlqbkJBVXVMYkRNX0ZPWHdMMUVZSnV5U3Q0d2w1Z1lUcFEtT2U0Vk5ZSlh5M25PQ0Z0a0pMOEFTWGRKeEJOT1NtRzVhaDJJNVZuWUlkU3o2QdIBrAFBVV95cUxQNXFLSUxDZ3p6YzJpQmZKaVhZZk9pM0lOdzMxRHhiSkUxUS1xdDhMRmZlMmNDVUZTaTIxdTd4RHY5ejhPMURCbThKanFHUVNWY2JOcm1VdGlMb3hlQzdaUUVhUWNlQkpVd1B1YjVBMDhMaW11QUxTaWhkbmVUZjJwS3BNdlNrLVdXN0xXNGY0SUxoQ3lkdjQ0RnRkNUw3Y1RxR3VVS0RCTV9mSEYw?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-17",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "bb9cfaa0119d",
+      "title": "December verdict on Sara impeachment likely, says lawmaker",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1hjZllFOXZPbnEtTnZpc3A0MjRwbGdyUXpHdmctSUFPV0FPQjJoeFEwRFVWeHZlTFhJVU9uMmNfekt3eG5PbllNOUNZWkFUblpCX05XX0FhT0d4cjhzVi1hbkFOaUx2YVdHZXY3WVVSeEN3UTBBQ3FuUHBaQ1B6QkFMUFlvWlZLR3ZZdkptMHFnSEZHVFh4b0YyNXUxNlNVUkNkWUdqXzUwcU9jRlHSAbMBQVVfeXFMTTVSeGh3OGkzSnZHT0s2dkFzckRvMm1jUUhNX0NKbkpCelFVeWNZSC1CR0pOWF9IY25jdm9RNFB5b0JmQjlod3p6UkpkTWZtZ2hvYkdIWkctek1iN3lxNmxvVTNGMHZVQ2VYanlWWTVBSWRqb2RwRi1xZ3NzRHBwSFdqdG9QWG5nOFRtTlhGYUVkX0tSUHJFODdyUkxKX25rY3VQQy1EQTZORjMxNlZuejU4bDQ?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-17",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "69f497dd9fa7",
+      "title": "Watch : December verdict on VP Sara impeachment likely – Ridon",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSk8yN2MxaUY1UXpqT053ejd6TDZTaHItVkI0VXVxVzZzTjItSGVFZl9fRHctSlNpOWhBN1c0a1NFekNFcTdoSEwxd3dGNDVrRWRKeVBNZzZPVkFnclE4SmY2OE9CZzc0MXdXUDU4YVJsbVJfaFE4VzRyOTQ4c3VfMV9FcWsxNFpfWUVBSVdkbXdOMGpmZHZLMGhuR0c1eFRQRzRzcGtwWDdtdVEtNFZqYnd30gG3AUFVX3lxTE4zVGhoYUJqMlltV3NnRl82WVVVbUNjeE81cXZmZXpRdzNqeXU0TkpMZFZTOVo3UUdzSTEzdmRKOHNma0lyOHRvMHdYWXZFR1VDV1NLdGVDMGpNbkswUGhBYnVOWVc4RWJOeG01bFFobDdKN3RZZDdtMVZlSENqbUZxbmJZSnViVGM0NUZsOHZzT2tMdXl0VDBfZ2E3bVk2OVpZTGU5V0VZZFl3QVdiS2Yxbmt5YndjQQ?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-17",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
     {
       "id": "96ab3cac36c8",
       "title": "VP defense turns to gov’t witnesses over P817-M wealth",
@@ -65,6 +130,32 @@
       ],
       "feed": "inquirer",
       "found": "2026-11-17T04:35:15+00:00"
+    },
+    {
+      "id": "25cae28af58d",
+      "title": "Over 5,200 applied in Negros during 1st week of voter registration",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGhhcnNXNk1FQ3RLdm05QVRXLTIyUTg0VXVVdEhNbjJOOXNKVDBnT3BBdDN6OVdrRUNpWGhVLUl4WXB4RlVTQ3FIV1ZsNzdDYnNjZnh5V3BGMzZyLUpIQmlEb0ZIV2duMW9CNU83NTVjUmVqaVNRZ1hYaV8zckpFSjFTSmxaYlhodDdTeTNWV2tsN0Z6bGE2QVNsMkJHQVk?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-16",
+      "topics": [
+        "registration"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "4c1b0df46bc0",
+      "title": "Ridon sees impeachment trial verdict by mid-December",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXoxbzhFWElaWG14UmFnT3ZvcUU5MDNoSjNOWEpPR2xvTk5IUWUybUxIelZGY1NhWk1jUENLWmZRRklMdHlSWURGTWFWQXJQU0E3ZGxsdlRScFdyS0JsUEdvS244aS1pcGxaMWtkeUlmTFYxcmloVV9OYW5iRlV0Yms5bkpTMHlXcTFTMzlfXzd1cVV0eGcxTzMxOG1xdXdndHZmZGhDQktXOUE?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-16",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-18T03:44:28+00:00"
     },
     {
       "id": "24f2e6efe6c1",
@@ -270,6 +361,21 @@
       ],
       "feed": "rappler",
       "found": "2026-11-14T02:30:02+00:00"
+    },
+    {
+      "id": "d0b35e8688f1",
+      "title": "Prosecution hopes for Sara Duterte impeachment verdict before Christmas",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeS1LWGtKSmkxTGZVVEpjQlpxRk5KX2ZIQmZmd1BHMnVtdEduZU9UVEdZRldkMzhWV2V1NFB6aDN3d3BJVS11RlQ1dG9UQmxFakpLWjZnZ2I5MmVuTmpZWjRpUzVnTm5zd016T1BSVkNuTnNNdEFsdVptcThFdjV4b3BTVHIwTXExUlFlY2R0WHpyWFhjR1BaSmk1bTlSWmtoWHlqUFBHdjdYSjlzQWdVNEh1Q0xRdnFZdEdyMWZRVzFvZmxxZkxUVUktVzPSAdIBQVVfeXFMTmJXaVRBOW9rT1g0ZmxEWTBtdDczM3R5Q1BCQmxHWWNmeHpXQzR3VmFSLTNEeF82eDVxeEhZLVItSmFfUTBjN1FqVlRqV0o5c1lJaXYzZzVTa1JCVF8wbURXZ1Q3U3FfRlJoNUplVlZfam1fV1dTQ2wtV1J0WDJZWXh6X2dJU1NwbnY3Y1h4MTVzRGlibldCSzYwc2ZDVXV1bUM3Q0pNc1F5N1BNc1Q4SXBlcXlQWDhLRnp3ZS1USEhGd3g5bV9kWnFnWFdKQ29IREZ3?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-13",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-18T03:44:28+00:00"
     },
     {
       "id": "72c302fab104",
@@ -2023,6 +2129,19 @@
       "feed": "seed"
     },
     {
+      "id": "ea20f9c4e77f",
+      "title": "Voter registration for 2028 polls resumes Nov. 10",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2tXcVczSzFpQ2JfTkxaejBMb1ozRTlWUUE3NjYxWUNDamlfLU9rWEVxQ0VHVlQ2cndjcTVmNGIzRS1YYUFOZlZGVThfcUEyODFuaS1SdDZlYnBoX2E3NmN4NzRqNFhTcXBET1ZTelpYRGJLLTVQODJCYVdmRVJPZEd6SGJ3Zw?oc=5",
+      "publisher": "Philippine News Agency",
+      "date": "2026-11-09",
+      "topics": [
+        "registration"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
       "id": "8e4d0bc65b77",
       "title": "Leni Robredo won't run for president in 2028, will support 'deserving' candidate",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONmJ0Tl9xaHB5Q2RqUmtNZ3FSa3VHLVNSS1hzeUk1SGU2cGxyZkhhZDVYeE9PeDl0SU50UVVrd0ZaaHRWY21GUDZJQUNEV0l5djRUZDdLNFZxclRRMVNLTHNKSldoTVpEYmlfbFYzR0hNSjI1MDRDR2JyM2JMdEFNZU12ZWFnd3dkR0VFdGRiUk1hMk5JY0pXMFpTVW5SMl9xSk44Y2lic0dxWmh6SnhpLVBYaXBBMlJvZ3pLem0xZmVsaEZrZnlfczJpQnJWQXVuamx3ZUZIaWdRUdIB3wFBVV95cUxON3BMR0piS0hnOWZ6OE5jS0tZdzhTRU9KOWxTb0ZDRzNfamNpZ1h2N3BEMngySGp0WEZDdzFkNWlHZDdBcm56SjNXaXhmNHNMVEU0S3FwM2h3Wm9GTDdNWU5HZVk4T3Ztd1I5blE2Q0RJMGZabklNY0QtWkF4WXJ5MHhSTWJ4VE4zMEMtRzZOWVpqUnFaVlljUmk4TndUUHhPeWE3ZlNhNFBZbFloLXB3Y2RQOHVKTjl6RjBRbU5WVy1CUXlaTVNZQlhNbjN5T3JHS05ULTd1eVk2eVEwWDB3?oc=5",
@@ -2428,6 +2547,32 @@
       "found": "2026-11-10T12:57:57+00:00"
     },
     {
+      "id": "2c4533aa461f",
+      "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVNURVNzSzFBbXg5Zm5GSXdKcG9JSEFoRWVtTzFfMXZCS2RDSFlKb3VHdEE1MmxZUjFBX3JUa2lMQVpxeENhbF94NENWay13VXR0QUFKcnFsTnBNSmhOS0xaeC0wcmQ4YWxZUUxIcFJrN2hjNHVvVkI3NmJQaWJ3eVQ4aTZ2TGNzRGFPOFREWUVqN0xTWWRaOE1NVkM?oc=5",
+      "publisher": "Yahoo",
+      "date": "2026-11-06",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
+      "id": "4c8a051a081a",
+      "title": "More Senate seats will be up for re-election in 2028. What are the predictions?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjNUT2dXck81Y2VrRGZ0WkMwSUtubjJ2VG5CNVkwR0tlNDUzODJaUmppaTlOTDdRRHpaSW9qWmlwWmtlWmtZa2swT2pkNV9ZeGN5cWcxaHlONGZGNk1uNDctd0pSdVJPd1VUOTNVUEFZdTZpSGNGa2IwMXozODA1UG5CUUtQN1pCWGlPWlJsSG5JcnJ2aENDY2JYTGpuUE42WXhDd0pVdF9vNm9xWWlIQUtxa1ZwQdIBuwFBVV95cUxQZGQtYjNOVmtfMV9hanNpRjlRa18yc1NyQU85a0J2aUlfZHRBNFNjSWxRc0gtcEF0eFVuVzdoT19UOVdfaEp4Ym93dTVTamF5dzlJRGlDQVJ6U1VsMmN0bUNEVUhYSGlWbXRxYjdCOVAtZjE2dkU0dHcya2pWdkQyZG9wSWRMc29kVndCSkVhTGV0SlhZMDViQ1lRU3V0Z3o5UEtmYlE2N1A0M2NXMDBSamlpUGF1MF94dnNv?oc=5",
+      "publisher": "Texomashomepage.com",
+      "date": "2026-11-06",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-senate",
+      "found": "2026-11-18T03:44:28+00:00"
+    },
+    {
       "id": "ae8be18ecbb8",
       "title": "Leni Robredo urged to decide on 2028 presidential bid by January",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWpjLVJ5bmQ5VWxOSjJjUlZydnFwZGhCd2RGR3JkZUYwLWRWZ2lCdFNoUU92VmZURF8zOTEwaVFBZWlhWkhmOGJRLVU5LXFBYVFWREJlMzV2Z3hNai1sS2NmUHI0Nk80ck9ad192aWNqZzlEQW1qdVN3bFUxMDdLMnlBTWdMOU9zV3RTampwc0VoWVJ2bjBXSTBMME4tZlpMMmZERdIBqgFBVV95cUxPNjJseVRWV1ZockhuWTJ1WjRuaVdJYTVyQjZEZGJ0d1ZDd01Fdi03Zlp2cDhWcFNFLV9wUXpwZ2xCcHVMclJIRGVDb2tzdXp5UHBkc19MRmlPSGp1V0VlaFdYTWlpUDhKcGRfNGZvbkdVUUlPUUtIZ2c2Y2RNZXVXVGJpZEtZSVNBMUlpbm95MDlQRU16UjBXV2tCMks4cGNralN5Q1JQYV9SZw?oc=5",
@@ -2537,6 +2682,19 @@
       ],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
+    },
+    {
+      "id": "409b886e6c91",
+      "title": "📣 𝐓𝐞𝐦𝐩𝐨𝐫𝐚𝐫𝐲 𝐒𝐮𝐬𝐩𝐞𝐧𝐬𝐢𝐨𝐧 𝐨𝐟 𝐕𝐨𝐭𝐞𝐫 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐁𝐚𝐭𝐚𝐧𝐞𝐬 𝐚𝐧𝐝 𝐍𝐚𝐠𝐚 𝐂𝐢𝐭𝐲, 𝐂𝐚𝐦𝐚𝐫𝐢𝐧𝐞𝐬 𝐒𝐮𝐫 Voter registration in the Province of Batanes and City of Naga in Camarines Sur will be temporarily suspended on November 10, 202",
+      "url": "https://news.google.com/rss/articles/CBMivAlBVV95cUxOeFNoc0dCVU4xZ1RPTlFQNXh2RWg4eHdwa1FWbW5KZEJwQTRiOXRJSlllOTlKTF95ZzRIT00yWE8zeEtQMWNUTGVPdDdCZHJWYTlBdmRIRlRLSUFlUlFoM0dYM1d4WnBvOEdMX3VyY0M3bkJxWUNsdUtHbm5HTE5YZ2xfRlM0V19PTnlTNjhTZWdBNHo1YU5Lc2dlb3RhdDBEY1lweHlCRV85eXIyZjZFQm1Bam5rOWJVMFh4QnlwRVNkSm91RFpIWkExWFNYN3dwdHItdzdyeGVpeWdCSXJJSXg4YXpIMURJQjdGNDlOdzg5QVBERGJ6ajlBaHBZaFFoUE15NDEtNzRrQ2Uwd2ZRa01BNkt5ZUpFaEZJYzBBdG43VW9DMFFHRlZKNF8wR2psaVhJVlRwVjBDeWc5WXhsMXVYWExXZUd5UXd2azlCRlg1SjdGYnV1RURfS0RkdC1HTHdMN1pldUZFLV90a05oMW5uSlp6eEdSUk11YVFzcEFjaGtRY2k4RkM3aWVUWjBNRTJ3S3l4NzNFc3o1LUlUSEVxZFhmOFpDUU5yQjdmcGw2aXZZeUZVVDhZOWxqSXBWdjd2VWZ0OVZTY1hoWThtdEcySURlX2c5TVowMllTSF84R0tULWMzWFp4UEJJZWl0cVBZcW1FVW1RdWJHSzYxTlBhXy1SZmZzUkMtN0dnb05LOGlyY2lQQlNZc0xhbnY3VXd2Si1PZERrLVZEVFlTMWxnUE1zWWYxYjdNdE53ZzB6TjRKcGdzOXp6RGNrbUNoYm1LZ1RFQjZOQzl4eU1ST1F5bm5GRjhIWE4wTEFDVlBtS2pwX0dZS09TdFZOMjRwcGNOSzdsMlBHYjk0b3JEakVHZll0RW16SnRIZ0ZaVWwzRW9oR19CRUcyXy15X042X0dmZnVhX0xuNmxfa3dqcVNHcXNPekV2SUJBd3NIVW0tOUttd25QVUJIVTZyNkh0TEx6X05HcjN0aC1zU210d1JIZDdGMExBaEpaRnotbk5wVWkxWDhIZUJtbUxSb1pyYnNHVlNNbHlPOXlwVnl0ZTgzckU0TlJWRzVBakxRWlNpaVh5RERrclZCdmJ1QWYtOFpqdWxURnBxQVJWaGdJYlFabXU5bFRjS0FSbEFhNW9VX0plR2tuT0kwSmtteEllbkg3cmJsUVhCOENRYzZrdk05RTZQUERfY3F3X1d2UE1BWHQ2YWhINEo0b3d6YldQMGFCX3Q2cHk0VUZyOF8wS09Zd1VLS25yV29XZHB5YVltYWZFSzQ0N2FMNjdIdDY2aklyM3NTZDBBT29LQmpPZkxVM1FqbXFVUXh6RkJUREh5WXFQaGtHUWRsUHlzN0J6M0VJSVBiaXF6RjNBSDRiWFNXR0pnSEpZdGYyUVRqTDQ4dzRNOG85RWhkRXg3NlFrUFZfdklzcjFOOVZqNjFLWnVSRTVZX180b1c4WnFaMF9zZkl5UXRFVlZ3SDNycVczQnQ1TTktaG05LXZ6ZFBIOWsyQTR6X01VT0hjZmx3UWVnSWRqTnJwcURqY002ZG5GSlBnenl3aXcxYmZfaWdoVXFXUTl4ZWxRX0k4VWRrU1lYOURsR3hfdUZwbmQ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-05",
+      "topics": [
+        "registration"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-18T03:44:28+00:00"
     },
     {
       "id": "89b6f5ad3d46",
