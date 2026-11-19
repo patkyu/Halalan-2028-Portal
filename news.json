@@ -1,9 +1,9 @@
 {
-  "checked": "2026-11-18T03:44:28+00:00",
+  "checked": "2026-11-19T03:38:58+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 62
+      "entries": 57
     },
     "gn-registered-voters": {
       "ok": true,
@@ -11,23 +11,23 @@
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 32
+      "entries": 34
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 6
+      "entries": 7
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 27
+      "entries": 28
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 17
+      "entries": 9
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 27
+      "entries": 22
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,287 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 4
+      "entries": 8
     }
   },
   "items": [
+    {
+      "id": "9981202bd888",
+      "title": "GMA News. . The Defense may be able to finish presenting its evidence in the impeachment trial of VP Sara Duterte by December, Defense counsel Michael Poa said on Thursday, Nov. 19. The verdict, however, may be handed down as early as January next",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTcyVUlQdEFFNGVZSS1hTFN5TXNjaGdxQ0V5QklJMTRfcnE2YVFlaUltOWVUVzltQkl2RkY0cjh3TGRYZXBEZ21MUmtTcHpwcWdmVldGMExxQkM5TlpXcVNDR2JWNWZCelBkeE96NDJuTUJpX1dvM25mWGtZeEJrUzZWNi1XcHI3enFxY0tMTUdJYWRKa2QwZDczUlhFOEpISEdvWlVYMDdPRWRLc1E0OXYwUm9UQnY4ODZWU0NUbG03Ulk?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "f411b27696de",
+      "title": "'MAKE THE EVIDENCE SO, SO CLEAR, LORD' Senator-judge Alan Peter Cayetano leads the opening prayer for the continuation of Vice President Sara Duterte's impeachment trial this Thursday, November 19. #VPOnTrial",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUN4VnFtZkN4Y2dlWmJYSldCejdFWWFXb1QtaEN1UmdvcnFRWWU1SG1FTlQzOVp5QlZtQjlObkdkR0JMcmpIQ0tSbWRUVjd6eW03alYtQ2FWMlEyRjF3WEpSNGd3ZDgweXdMMm50Tzdad3VPaDZNZmtzZ1hzaWxBT2piOHh2dDBKanlKRUdNbmdrTG90al9FVzF2Tl9MX2xXTUJrRENRcXB1Ni1WMDMzMWplaVNkd0VkTFhDdHlrYW5FRWZxUmZmd0MydlRrVXpYZkROOEhOSQ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte",
+        "alan-peter-cayetano"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "9a9e27e57858",
+      "title": "Sara Duterte defense eyes December finish for witness presentation",
+      "url": "https://newsinfo.inquirer.net/2343684/sara-duterte-defense-eyes-december-finish-for-witness-presentation",
+      "publisher": "Inquirer",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "7733a5a03024",
+      "title": "WATCH: Sara Duterte impeachment trial | Nov. 19, 2026",
+      "url": "https://newsinfo.inquirer.net/2343621/watch-sara-duterte-impeachment-trial-nov-19-2026",
+      "publisher": "Inquirer",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "5c3b8f4317ae",
+      "title": "VP Duterte trial Day 44: Ex-AMLC prober expected to testify for defense",
+      "url": "https://newsinfo.inquirer.net/2343385/vp-duterte-trial-day-44-ex-amlc-prober-expected-to-testify-for-defense",
+      "publisher": "Inquirer",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "72a0907787be",
+      "title": "VP trial resumes; defense pressed on P817-M wealth",
+      "url": "https://newsinfo.inquirer.net/2343579/vp-trial-resumes-defense-pressed-on-p817-m-wealth",
+      "publisher": "Inquirer",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "9e025df5fdf9",
+      "title": "Who is Rainer dela Fuente, the CPA lawyer witness for Duterte's defense?",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1010038/who-is-rainer-dela-fuente-the-cpa-lawyer-witness-for-duterte-s-defense/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "1ad7802d96fb",
+      "title": "Gov't exec tapped to appear in Sara Duterte trial seeks reschedule of testimony",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1010032/gov-t-exec-tapped-to-appear-in-sara-duterte-trial-seeks-reschedule-of-testimony/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "fc3d33c7ca11",
+      "title": "LIVE UPDATES: Sara Duterte Impeachment Trial (November 19, 2026)",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1010023/live-updates-sara-duterte-impeachment-trial-november-19-2026/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "4a3aa4e405b0",
+      "title": "Sara Duterte impeachment trial Day 44: What to expect",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009985/sara-duterte-impeachment-trial-day-44-what-to-expect/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "02e5420a8239",
+      "title": "LIVE: Sara Duterte impeachment trial, Nov. 19",
+      "url": "https://www.philstar.com/headlines/2026/11/19/2571179/live-sara-duterte-impeachment-trial-nov-19",
+      "publisher": "Philstar",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "3a77c87e2cd4",
+      "title": "‘Very clear’ evidence sought in VP trial",
+      "url": "https://www.philstar.com/headlines/2026/11/19/2571133/very-clear-evidence-sought-vp-trial",
+      "publisher": "Philstar",
+      "date": "2026-11-19",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte",
+        "alan-peter-cayetano"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "6947d836428d",
+      "title": "VP Sara’s camp: House discussing no-el in 2028",
+      "url": "https://www.philstar.com/headlines/2026/11/19/2571146/vp-saras-camp-house-discussing-no-el-2028",
+      "publisher": "Philstar",
+      "date": "2026-11-19",
+      "topics": [],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "be47647ca326",
+      "title": "Magno offers alternative to political dynasties Cielo Magno says her 2028 Senate bid will give voters an alternative to political dynasties and traditional politicians while pushing candidates to explain their economic plans. “I am not saying I'm one of the best, bu",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQTl0TGpPVTZvS1RIVHQ0QnNXVHVWZ2RuRUd5eElKZXRNZUZHU1FyR3JKRTdfX1IxY2s2bXZRSEdxNUIyRENrNzdhcVVZZkVkQS1yb3hURGZVRXdYeG0wS3NXX2N1ZDFBekF4NVlnc2FzSzdYVV9jY3p2cTdnVDhCTm5vMUpfUWxxX2VyMWFOTHdwQzQ4TXpSa09DZS0zRldBSFZsZHQxN1lEQVJnUU1zTTlWTWpTaFpMazgxSFJHQllKaXRWdjdXUW9nUm13dHBVZFRsel94YVZQQnZPRkVr?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-18",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "f3acdefa4c0d",
+      "title": "Marco Rubio shares how faith informs the law as 2028 presidential bid rumors mount",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOHhnZzlyZGxqRjJ1R092VEdSREhQWW1XLXM1MU1ueU1KLWtJR2dDc0M1cFdPMC1QN0dfS3FxUGgzTmJ6U3JrQk1sOFp6b1ZaWDNiS09HMUlrMW5ZdWFhSEEwUHNJdnRQSXd6bkZOSVpJNFAyMnRvTjgyc1dFSUhlSW9DRXVDd0IxOTVDT012VzJWbEY5SVg3NTRSczlzUHlRWHV5UkdpWFpIWC1ZZjFSa3dPRVlmNjVpVWpoQmpjdHJpdFRva1BnQ3J0TzRhNmRGb05SeWRFRzAzcjl4Q1NqTTMzd0pXNmVDSUZncVlPT3V3YkRGNGNWYlNqa1dWbHNJN1FXSm1GbkwwMGd3cHc?oc=5",
+      "publisher": "Deseret News",
+      "date": "2026-11-18",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "3bf5bf2b2fa1",
+      "title": "Senator Cayetano Urges Compelling Evidence in VP Duterte Impeachment Trial to Prevent National Division",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGZQaUoweVoxYmhfUEhMNHYtSzRseUlidnotVVlQY0ZnZVJaTmVOLWw4V3ctaUE3SW9KRzBrMlg2TTJxZVpiNzRBR3ZWVXJXVjNoTFR3R3ZfdktNaVBpNHlfbUJwTlVnaC1XczRNb3RnU3RhN3NldmJ2VFBvRXNXcnBERG9YUnJJZkIwVUFaNS1VRTlXOWt5SEc1V2dMbmUtR0ZCQTcybjdwLXctMFd4cjl6Z19zTzV1?oc=5",
+      "publisher": "Daily Tribune",
+      "date": "2026-11-18",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "d2d0ff1d6816",
+      "title": "Barbers: VP’s ex-staffers matter may be smokescreen on impeach issue",
+      "url": "https://newsinfo.inquirer.net/2343557/vp-dutertes-ex-staffers-matter-may-be-smokescreen-on-impeach-issue",
+      "publisher": "Inquirer",
+      "date": "2026-11-18",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "02ba7343b683",
+      "title": "Prosec demands explanation of Cale88 China-linked remittances",
+      "url": "https://newsinfo.inquirer.net/2343511/prosec-demands-explanation-of-cale88-china-linked-remittances",
+      "publisher": "Inquirer",
+      "date": "2026-11-18",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
+      "id": "c90494bfbb8d",
+      "title": "4 more VP Sara Duterte defense witnesses subpoenaed",
+      "url": "https://newsinfo.inquirer.net/2343408/4-more-vp-sara-duterte-defense-witnesses-subpoenaed",
+      "publisher": "Inquirer",
+      "date": "2026-11-18",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
     {
       "id": "1966acf1aab2",
       "title": "No brakes: Cielo Magno vows candor in 2028 Senate bid",
@@ -2129,6 +2406,19 @@
       "feed": "seed"
     },
     {
+      "id": "bb2642f211e4",
+      "title": "JD Vance Hits Roadblock Over Possible 2028 Presidential Bid",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFAzTDcxbzlpR0JIbW5SWEJaUTFEX29GcGlEaXB4cU5hSkgxOWJsbmZxajhMdFp6ZFNWOU5aU1RyaEZpZ0xDSW1NQ2NrOFdQQlF3T0R6bGNtcWF2cHMxTFRZVVBjSnNOQ2hUUnZRVGtFcXpCVV9EX2pvandMdzJyTUZWaw?oc=5",
+      "publisher": "Yahoo",
+      "date": "2026-11-09",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-19T03:38:58+00:00"
+    },
+    {
       "id": "ea20f9c4e77f",
       "title": "Voter registration for 2028 polls resumes Nov. 10",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2tXcVczSzFpQ2JfTkxaejBMb1ozRTlWUUE3NjYxWUNDamlfLU9rWEVxQ0VHVlQ2cndjcTVmNGIzRS1YYUFOZlZGVThfcUEyODFuaS1SdDZlYnBoX2E3NmN4NzRqNFhTcXBET1ZTelpYRGJLLTVQODJCYVdmRVJPZEd6SGJ3Zw?oc=5",
@@ -3267,272 +3557,6 @@
       "people": [],
       "feed": "gn-impeachment",
       "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "0296def1a056",
-      "title": "Comelec resumes voter registration for 2028 elections",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlhTLWFTeDhxclRhX3hRcUtrT2JJLUowUXRGX3VqN0NPRXZRQXduY2w1Tmw2V2dYQnJPT0hWa2l2LVcxMHRSLWhSSmMxR3RJS3k5NVVUM2ZGRGxVc0pXRzNoWDBFNXVHaXVhLUFFN1VmeXBJMUpiQUY2SEotT3hXYjlZa2JlT2VjY0lxQkxtNk42RnlnMlZ1OUcwTGxnR2Q3SlHSAagBQVVfeXFMTmdHSkdpcXRYSU83dUxKQ3NDNjJEVHFuT0xEVGcwaTFnZVBIV1cwNEtpUWZ1YTRsTnU4dVBlT0V2NGJuNDUwVERZTWNzU0I2eTNqNTVRZndWUEt3dG5QZ1NFTnNQc2FvbTdRVkNWcGxWelJXZkVlMVVDWVphYzNOV2d6dURQbEpIY1IzblptTDl1SnQyMVY5NHJLcmhZb2hGSGh6aXh6OVVL?oc=5",
-      "publisher": "Philstar.com",
-      "date": "2026-10-30",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "8dae2e6aa61d",
-      "title": "Philippine defense chief signals potential 2028 presidential bid amid China tensions",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWwwVGpKOGo5aXhjSWpTaXdHdWpEc2VRZnhRWXN4SnpUYVJuckdTS3pic1NqRmcyYnl3LWxlVVMzS0ROQV9GRTZ0emt6MXlLRWVuTHBVblVHekhZeXRmVDQwVVlOV3d1QkROaGhHRHd3TXFNUF9MTHNrMlBKZkpWWFBqTWI5Nk5wQll5dzZpa0VNMlB0TlFUNnJ3TEgweGRFY3lOUko3aXVUTGJt?oc=5",
-      "publisher": "Traders Union",
-      "date": "2026-10-30",
-      "topics": [
-        "candidacy"
-      ],
-      "people": [],
-      "feed": "gn-2028-president",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "59ec22cc5ff0",
-      "title": "Too early to seek SC view on impeachment voting, says prosecution",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXBWbmJvZ2pMdHRUdHJQZUYyVzhmam8ySmlIN3RLbUxCWnprWV9Sd1ZTVnhBQXdrS1pteDVDSTNrd1RIanhDNFB6MlQtdUxDajl0T1RnNmg3STZrTHZMeEM4YXltRklNemtGUjA3blZ2ZjhVTnRkMzdzRGk1WXZBUUtOOEVMRktTWUlOTUY2aFdnTGp3d0lRQjY0eUY1eW95X243RdIBqgFBVV95cUxQLVE3WUcwU0xEaVJfWjN6d1NkcW5aaTMwaDVHR3N2NDZnQ09uMlRlcUtBa2xPbFhrVUVQMHl1VzNHa3NKbVBvMEdETjZHX1RSTThMTjByQjJUUmJBU3RXRUs5UV9DQ1RRWVBoRW8yNWM3bjVmaGs1Y2FnMmd4ak53X2JxRUJtbGwzSFk3YWdCU2RPMENzbG9hXy1tNTNuMEo3S0VPamNwZjF4dw?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-10-30",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [],
-      "feed": "gn-impeachment",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "2a69d91b6b8e",
-      "title": "Voter registration for the 2028 general elections will resume on November 10, 2026, according to the Commission on Elections. https://tinyurl.com/yyrrxuy7",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDl1TVlWeTFwYmQ1NVFKb1pWY1lSNEdVcVhFb2lQaWFaRVl1NkIxZW9kRXF2Mnpkc05EcDFsQXZhOUJqUFdHWndROXFFdWxoWFh3QnVYY0JtVzd0Mnh3TGxXeDBOa0x0UDJGdzNmWGVTLUdLdURva2s0UUtaWllQUHh3cDI1TWhLNHBnZVVWR09yOTU1eXZQYktBNWZSM19VWnVpY0JRWHpLUDlBeHVrT3JXYW5lMnNBMGxlRG5fdnFiWVhWalhBSDdoUmlGNHVDb3V5WTlBWXlWOTQx?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-10-29",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "8d720e878058",
-      "title": "Comelec to reopen nationwide voter registration on November 10 ahead of 2028 elections",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnRmamYyYmNKWGNvc0JpbzhzMEtwdXdNaThrZ2JVNmNtTmlORTV3aWo3Z3g3eEpEcFUtNEtGTFRaemxmZHJqcWlNNGU4ZjU5QVlONWJyXzhnMzB6YUxGTDRzbFFnMkloRm1pRU5lU25oeDlHcUotN1VjWVdDckNBUGJqc01MaExzaGNweFZ6RUtrRGNSR20xZFNWWUw0RFNZN1RWQkdpS2pDd1F4VXlBSWVWWUE1c2lEczdJRkw0aENTUzdYNEE?oc=5",
-      "publisher": "Philippine Canadian Inquirer",
-      "date": "2026-10-29",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "46e5c3e24b21",
-      "title": "Comelec reopens voter registration on Nov. 10 for 2028, aiming for three million more voters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWpxVjRsa0tESDhiYkJtc01uRFBMWVJpS0ExMVVXTWtXN1g0VDRhZnJET3oxdmE5Q2Q1b3lqckJHazdBS2pVMU9PM0o2STNuUndYV08yS01zQjUyWE9VRDZiZDNiWC1ULWVzX1JhcUFkWHlyQXdnc01JOW56a01ReXZNRWlxY0E?oc=5",
-      "publisher": "astig.ph",
-      "date": "2026-10-29",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "0a71d4b9736b",
-      "title": "Voter registration para iti 2028 polls inton Nobiembre 10, ituloy ti COMELEC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREVqclhyUDBEV2dEbjZudG5feEljbXZvUnZGUUZsNUJ2X3JUUHRIME9hanBvcDVMRXBiU1NaZ0gtejJfRGNqOVg0UmxaUy1jRjNQQS1QZk43VkMyNUhMdDRXOUZST3J6RTZ1LWVLU1lNU1BsaHdmM2FadnU1aHVyemtJa3pBM0g2THRBSXJSdXp1enAxNHdZNlpsRE00R0JnYnNCekNOUXY?oc=5",
-      "publisher": "Bombo Radyo Vigan",
-      "date": "2026-10-29",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "c3ffc9108353",
-      "title": "SC asks Senate, House to comment on Sara Duterte impeachment vote rule",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzliNTVyLVVCODF2MWNRclZBWFVwWE9HbWMxS1ZlcXFkM3FUNUNabEVLbUg2akxqc19Bd1ZzTjhyS09jMmV2RF8wVlRsUFlvem9OX05MWGdMU3ZhM19NekFTNFhab1pIWXh4MWxNRDlvLVJOMXJ3SVRzRklCc2c4bTl3RFpoMmpCeG0zM1pBenAtbDFzNTZmZnZIUjhGY3FiV3A3U2Q4RVIxdEnSAbABQVVfeXFMUGVvZDMzel9fV0FZUTJIN1dNUi1LZEZEVVhtREloWWtzcWU1MWlCVUNjbjNkNEdGVXNhYS11dnBKdkF0a19RWlV1QzN1cVhNNkZKQmtkZTltMl90YUtiTVppdXNya3ByYU1Sd2RxVmlmMzBqX1dpLWFnOEJ6QXNYTkh6OHR4MkdQbFJOZFVuU2oxcEhtNk1ZS1FMemdzSjFQTUFsa3ZPRlo1RHo0d2liZ0k?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-10-29",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gn-impeachment",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "bf99b62f7395",
-      "title": "Acquit or convict? SWS: Half of Pinoys ready to accept Sara Duterte's fate in impeachment trial",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ00wcUR2dEo3c2lwbjNad3o0aHE4ZzE0M3BGWWpOLTNVUFZyNzh3aXZXRGQtS0FUV045bFRBb3NSc01CUGZER0hlUnlwTlZjejJQUVJIcTZWcEtra1BrWHFyTWhTVUx1b29XeGtIMzE3Sk93TVdWLXRVemZzNlRuYXFLd1lTb1piOHlpd3NlcVFjQlpHOGpXeDVIclJRUE11M1FLTlNCWXNmNjdsZk5CemxiYUExMnF5?oc=5",
-      "publisher": "Politiko.com.ph",
-      "date": "2026-10-29",
-      "topics": [
-        "survey",
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gn-impeachment",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "ca4c6c4e6291",
-      "title": "SC seeks Senate, House comments before acting on impeachment vote threshold plea",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnpWTU9DbGZDdnBOS042c1hDaGk0MWgwWGlkLWpFbzdOdDJ5blpnSUJZTk1JRlAtQW9rNTdvRlFpNnZzZ1ZIMHp3YkROUHdzNVYtLUZSV1BZSXhqeUZjSENram4xdUVGc2RWUy02TXpBWlRBT2NiSm9JNzZZX1lnRl9sSmU3S1RKUUVPbUp2dWdXbTg4Q25aaTF0cGU1Z3RLb0VQdmFqNHhMQks5QjVSekdaa3NSeEEtUFQweG9VZXbSAccBQVVfeXFMTmpoYUMxTGJfOC10MlphbGlpYWFMd2pNcUZEblhJUXhWbkJlXzhOUXkyY2lUNVJXOXFsMzg2QXIyWWJUNXVpVHpHRUZ1VmE1TWVwWDF4WG1kNy1EZWxJaDNLTW9Kck1TOHFOWGU2ZG5Pc3ZWWWN4a3N6TVZRODF4M0U5NUNwMER3NmtVY3ItU1pSOW5RMVhQTWdPNVdsYnhkUGY4LXByU0JNY095bU1pclZSRG5CQUY0THE1cFltUUhxTXk2ZDlXQQ?oc=5",
-      "publisher": "Philstar.com",
-      "date": "2026-10-29",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [],
-      "feed": "gn-impeachment",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "f22cf075ccca",
-      "title": "SC ORDERS RESPONDENTS TO COMMENT ON PETITION OVER VP SARA IMPEACHMENT VOTE THRESHOLD The Supreme Court has directed the Senate sitting as an Impeachment Court, its presiding officer, and the House of Representatives prosecuti",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQXZBbDM3R0ExTG15V0RJeFIyMGxhQXU4QjVZbV95Z3hVemJlTU5mbTNCLVYtbUZkU2V0OGtRM0xnOTZPM05NSktTa2daTzZaazdtSDF4VU9LSW8zMlc2dWo4T0YxZDNFUzJkUEZMMUt5NE1rQV9rM1hvdnY0aks3ODZpQWxHNWFwV2gzQWhYTXhVUUFNOGhSMnpjNTBpdGlTOExDdl9rMEE5V1dvLXVxYTNHRnBFZklWblAzQ0RCUDY0RVZlT2FoOXJHNVNTWW1ET3dNR0RhU1lyZzJWd0lR?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-10-29",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [],
-      "feed": "gn-impeachment",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "9902b4778b9f",
-      "title": "Comelec to reopen voter registration on Nov. 10 for 2028 polls",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3dUZnVFM3RIeGtlQVlxZmFmVExwLWJjZ3Y2SUtBdjdUdXJreGcyZnA3MDBXeWpwVkFLemlJckRISFI5VmVxYkZIT1lKTVRmc291ZERoUGpLUjRGNThxRFAzal9EM1FncG5RMV9POTd5YVp6WkFOU21zb0lwUHlSWjZ0cWdiTVVWYXB3ZkhoQ2piMkxHaFc4MUVn?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-10-28",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "b17294d79bf9",
-      "title": "Comelec to resume voter registration for 2028 polls on Nov. 10",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGJ4VDJSMjBucHdjb2htZ0RHZmhTQ1pBQnRVYkhrU0Nzb2dNWWx2ejNlaFFDSFFtbUxPeXNDRC1pNVBMTVBKdWp2aGdhLXdzOHZEb1NlbGFCMWFSbUdlc0wwX0tHUnROSWo3bmlFMm1yeF83LWFCZHJIbWhFc0ZIN254RVBpbElCajMwemxWWmxHOUdBbThEcTRTSXYta3RHSTBQUUxuS3lGZ2xFYXl0V3loZGU0UjhuT096SkpmX0VlamVm0gHKAUFVX3lxTE51bmlUWUtDYzFnMkdaNDU1dzlpN2ZfcXNTcDhzbHBOYzRCLWlaYXROSlhPWEVESFhmYzhSNUY2Z1JtRnlZNExwUjh6SUNiLWRZUEczNzQ5TnRfTWxHX2hHaEQ0ZmpaZF9IMzR4X3kwbmtTbWg4VnVPWUp1S25CUU5OUEpmUWp4SkdYVmlYVDZJT2xxYUJJYldvLXBrVFRNY0NpY015a3hYa1BpdG9GRHlKekZWUi10VmUyU0VxTFRkNjhfUDNFTXdmTWc?oc=5",
-      "publisher": "GMA Network",
-      "date": "2026-10-28",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "f0124afd4eb0",
-      "title": "The Commission on Elections will resume voter registration on November 10, 2026, running until July 30, 2027, in preparation for the 2028 national and local elections. Comelec Chairperson George Erwin Garcia stated that the early schedule provides sufficie",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFdTZWFRT0phZ2NwZlA3cFB3VUdWOUNxZXdBU0JPcmF3X0dueEp2UjhSbnFNTTZDY0N4UlhRdEhIQ1RqTlhXYnFBQ09zZHMwWl90dzROemtSalQ4SDlnRkpjazlQM2kzYmxlSUhzMi1lYXpXVmFQVWJBQWdUamJLeGFwTGNOWGFsOXlpOVFSdXRYb29oNElHN3dHTXNDT1JsVWloenVienRPSVN4SEZkOGtCYmNlQXdMaHRmU1ZubEJHaFVQa28waUFjSG5rVFlTd0tRN2xSYUYtQWM4NlE?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-10-28",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "3b44bf8201a3",
-      "title": "Comelec to resume nationwide voter registration 10 November",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUJIVTVNeEhLTkFzZHVSZFctMHJKak1KajhiUW1GWTM5b1RKV1lGWUNxd1NpdmlkeGlUb0tfckNOVGpjZV9fNkhoXzRieExGdlJYMWRXdWN3N1ZJbFhaT19JVHhWSEM5UVR6TEo5MVVXOU5iTlFCR1VFLXppV2FPMzJJaks0eE0xVEM2YWF5Z19wR0lPcUJrVA?oc=5",
-      "publisher": "Daily Tribune",
-      "date": "2026-10-28",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "78824fa29825",
-      "title": "OCTA: four tied in 2028 Senate race",
-      "url": "https://www.philstar.com/headlines/2026/10/19/2564265/raffy-tulfo-padilla-cayetano-vico-sotto-statistically-tied-hypothetical-2028-senate-race",
-      "publisher": "Philstar",
-      "date": "2026-10-19",
-      "topics": [
-        "survey"
-      ],
-      "people": [
-        "raffy-tulfo",
-        "robin-padilla",
-        "alan-peter-cayetano",
-        "vico-sotto"
-      ],
-      "feed": "seed"
-    },
-    {
-      "id": "1b88abf289fb",
-      "title": "Bong Go leads VP preference",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1005608/bong-go-leads-vice-presidential-preference-survey-for-may-2028-polls-pulse-asia/story/",
-      "publisher": "GMA News",
-      "date": "2026-10-12",
-      "topics": [
-        "survey"
-      ],
-      "people": [
-        "bong-go"
-      ],
-      "feed": "seed"
-    },
-    {
-      "id": "8f53b05af70e",
-      "title": "Poe leads 2028 senatorial list",
-      "url": "https://tribune.net.ph/2026/10/12/poe-leads-2028-senatorial-bet-pulse-asia",
-      "publisher": "Daily Tribune",
-      "date": "2026-10-12",
-      "topics": [
-        "survey"
-      ],
-      "people": [
-        "grace-poe"
-      ],
-      "feed": "seed"
-    },
-    {
-      "id": "345fb5c31cee",
-      "title": "Comelec: 74 million voters expected in 2028",
-      "url": "https://www.inquirer.net/487086/comelec-74-million-voters-expected-in-2028-elections/",
-      "publisher": "Inquirer",
-      "date": "2026-09-01",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "seed"
     }
   ]
 }
