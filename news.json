@@ -1,33 +1,33 @@
 {
-  "checked": "2026-11-24T06:08:33+00:00",
+  "checked": "2026-11-25T04:56:06+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 60
+      "entries": 51
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 6
+      "entries": 9
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 31
+      "entries": 59
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 11
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 33
+      "entries": 38
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 11
+      "entries": 9
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 55
+      "entries": 49
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,151 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 10
+      "entries": 0
     }
   },
   "items": [
+    {
+      "id": "f7edb2061051",
+      "title": "Comelec targets 3 million new registrants for 2028 elections",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGVWUWNKY0czcTVMaTUwcTI4bkE4RFZlSExfUmVYWWlxMGg3c21FY0dHWHBXWWJBbVE2M1hSSncxRU9iSFNTXzFyRWdmcFYzdWR0NzFHVGJzMHFVUmYxY0JJaldwQUtTbFRXelRYc3ZEOXBOblBlQzJjOWVsLXVTcFZEOFpXNEt1RXRZUDlsNTFDX29OeWExaE1VNG50cHREbUttUXVvZmNaajIxNzMySm9B?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-25",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "7cef44663595",
+      "title": "Defense dared to answer 3 questions proving VP innocence",
+      "url": "https://www.philstar.com/headlines/2026/11/25/2572481/defense-dared-answer-3-questions-proving-vp-innocence",
+      "publisher": "Philstar",
+      "date": "2026-11-25",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "d01524794861",
+      "title": "Poll body reminds political parties, party-list groups of Dec. 18 registration deadline By Ferdinand Patinio MANILA – The Commission on Elections (Comelec) on Tuesday said there will be no extension on the deadline to file petitions for registration of political",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcFp5Y1VpalRwSEtqQUdWbkRqTjAwWVY1VXMyT0RJWEhkeTM1ZjlCSkUzQkNJcW50TjZKamtTMHphR245b0NvMS04eTJ4OERxRjFWaTlGMXFqRW05WVhrSXlmMU9ZMElOWkR6dW9teWhMS2ZmNS1PdVB3VVdwWUFSVmlQT1ZiSEYxTEZ4N05jM1BfX2xuNldYUVhFcGRybFJ1US1CRjViR1U1cXRVOXlmLWJ5WXVjYVRFTXlRdkxjdGRoRWlXMzRxblEyMGhtTDNoZkhvVg?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-24",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "249680fd0e04",
+      "title": "COMELEC brings voter registration post in FEU ahead of 2028 elections",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV19pSDl1UnlHUno5LUNxNkhEYXRZYW93LXdsZm1fQXRqZFJmXy02ZVlxQlU1SEJDRHY2MnNrOVpjTElBQmQ5VEJ6WWtPTEtDaUgtOXpIMEpqeHdpMWJUTXRNc0N0R25FS0VWcHJscU94RWR4SVhza2VkV25TQWVQS2lqODUzc0JUTGpOcmpreXVCRVV2X1ZuNjRB?oc=5",
+      "publisher": "FEU Advocate",
+      "date": "2026-11-24",
+      "topics": [
+        "registration",
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "c695cf89a9a4",
+      "title": "COMELEC logs 180,000 voter registrations, mostly first-timers",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0tqLUVKTGVmazVra3lyZk9QOVl6RkJINms5ekFHNUp2LWNORlBTbVh2Y3R4Y1NuLWltSTJtU0dhMDFvYlRBdlE1dDE0czVxVVloekNPZ3JRUjBFc1FLX01mejBwZkFxQ0Jab1RWQTEtemx4Uy1yUG5GbzJpa19VbDhVVXhmeVlNN1dQZ2NYME0ySEtCempRRGExLXMtMmdhd015a0k5WnZkT1d5YTEzc0R3OFl2ZFhMT3FQTHVLcmJrUkXSAcgBQVVfeXFMTV94YTJrcmhJN0wwMjRISFVNS0pYeklzYUJ1dkszUnJrV0l4QjNRaW00aWN6V2YtY1ZtdFdMT2d2c2VNMm0wVlZhSUxrN1N2Rm5SWHBPQXRpOGZreXkzSXBWdktmeFJVdnhMbjUtQmstR3F5RXVIaTdYRzVRX0QtYk51NTRHd2FUTmNOekktS2tidTBTcmdSRlNWOXVYem8xUERjV09kOW1QLWRQQUk1WnBnN2lYOGNlcDlJaFJzVEVfbXVubndHSGQ?oc=5",
+      "publisher": "GMA Network",
+      "date": "2026-11-24",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "b8838dbafd7c",
+      "title": "Luistro hoping Sara Duterte impeachment trial ends on Dec. 18",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVm1YRlBVT214Z2lia1A3LVNuZWk2QkQxeGtNeTF5SkZsbkItekQxUUViaGJ0YVhBLWRicGVmZmF5TXZNSm9mQkE2MWIzZVBEVll6Mkg0SVhRUjVTT1NHaXA5MXYwQWlyYlBFNEotTnF1STdYYmFWa0QyWEhZUmpOR2NNQV92Uk42RHJUSFBJSkU5cml5ZFB4bUwtOW1mUE3SAaQBQVVfeXFMUG5fRU1abW1YVm02TzY4OEROQUpDRjByRXZZMUJxNGpHc3ZCMlU3eUhSajV5elVLb2VjT3N6SFZkMThYYl9FZWRGVzZhZDEtQjVyRTJYNEdEemFfcTExMTl2d2Q5YldwbVBPakplcGc0eXBya3liR2VmSjZkbG1jREhQckNNeU1YRHdmdVZMMGFIUUk2ZklEcVdPY3FNOWFjLURoUWo?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-24",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "e88ea21b328a",
+      "title": "INTERIOR and Local Government Secretary Jonvic Remulla has ordered the Philippine National Police (PNP) to prepare for all possible scenarios surrounding Vice President Sara Duterte’s impeachment verdict. FULL STORY: https://www.sunstar.com.ph/ma",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHByY1c5bjliWmRBSi1ncS13eHZYR1RPNlYyOUlZbmlUUVJXRjkxZ2pSSUVSMGJxTEhzQndkWjk4Rnp5QlFBYzVCNFNRX0JwZkpGXzRCM0MtVGJKUE1QNjdtQmxaeGRwUE03QWtmazRQNENxZG43enpWOHNuX3p5V0xyWUh6Q0NSRUE5T3JGUks5MFEwS3czZ2ZTRlBRSlhpaEVTOXI0N0xIUlJGM3h5N2pJLUEyem16SGllbUdMOVNPaWdxYi1jbVBnU2N2cTVadmpSNS1peGJDQWpRaXltUA?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-24",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte",
+        "jonvic-remulla"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "ed3462444559",
+      "title": "Impeachment verdict expected next month",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa01oRmx3MkxEV0hBY19uUTN3alI5S2lfa1pENEk1MnAxSWdnMDBMa1k3SUVRUVhMRGdWbnRxTDc1MzdvRmVnYnVjd1BFYWVJNG04ekllMHZrVk94RE9Wdy02eXpFTWpoVkZUd0tHVzdGY2ltYTQ0SVhsY25jZ0pZLVdxaUQ1VUdsbFRVdkM5T3hBNmNOY0HSAZsBQVVfeXFMTUxWWjFxZHlLUnF2ci00cHNuN1ZhSUxzVTJVTnRKWkdGenhacFMtZFRKbl9NdUdSaXpLbEplWUtQaWJER04zUkozZ0FDVlhyTXVYdjI1d0dudTl4N0dkMFZ6Uk1meEh1R0dNTFFOYkpSNWhUWFludWVNYnFBYmRhV25OMVRBQTdpc0prc0tra0tWbkJ4VXVOX1E3azQ?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-24",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "368fc1eeaf26",
+      "title": "‘Nasa tama ako’: VP Sara says she won’t resign amid impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVCZGRQcVV5Vk9MNnlfeVIzTkk1T1lmMHk3VnpfMWExVmxZRlNBN0hQeU52d0NMTHpNMVl6UUp2YURZUm1BVHZJSWc5TDBBN3JONS0ySnBEdVBPSGwtWmVqMjlvTVhWLXVuTEtra2VDbk5GQkZXZ0dGM05wQnJ2eUFRZTBObEE1Z1F3QnpqN0hjMmVhSThNNUtPbldpSE0?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "date": "2026-11-24",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "3a0c25cb1c89",
+      "title": "PNP heightens security preparations ahead of Sara Duterte impeachment verdict",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2ZmRE1jUzlTdmZBZHBvNWhPQmdLVU1pYzhTdUwya3lmd3lHVzNsdHZGWDRtcHNyUGFZVnlOcWp4MHFrcENCTGJENFdzVFFCX0VCQ2hfVFN0ajFfZTZFc01WcmdVandveTdHVU1UeWRHcHJLMkJTZWFYczJfV3BvX2dNdEJ3Z1JidlBmLTh0aXhQYVZaNVM2Q1JNSks2cHI1ODU1SWh4d190Zw?oc=5",
+      "publisher": "thechronicle.com.ph",
+      "date": "2026-11-24",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
     {
       "id": "53719817b6ca",
       "title": "ABS-CBN News. . DILG tells police to brace for tensions amid VP Duterte impeachment proceedings #ANCHeadlines",
@@ -119,6 +260,34 @@
       ],
       "feed": "philstar-headlines",
       "found": "2026-11-24T06:08:33+00:00"
+    },
+    {
+      "id": "5d0e32dcc2e2",
+      "title": "GMA News. . Senate President Pro Tempore Tito Sotto said he hopes there will be a verdict on the impeachment trial of VP Sara Duterte before Christmas, but he said that it would be difficult to predict when the verdict will be decided. \"Hopefully, we can keep o",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVpEb1YxVUpsOHpWOUJKZUFqRnIwN21HbkdQTGpMQWV4bzNyV3ZDUG9CN3JQa0ZBcUtOYjZYS2N0UmNKdmROQktMYlZGN3M2Wl9vQ3lpblduOERCQVIyNEV0RTNQUVZpY2YwZlhZR0VibXNBRUVWMFdGdGJ0TXNTUVB2ZDdvRVpZSTlKc3JOaC1VRFZXbnBKLWw2LWhnd29ka3c4bG02WkhGZlFmY3hHeWJHaEhQczJMNl9qVE5BczAtTGVwSjRjcEtXcFYwODhTaXBnTQ?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-23",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "id": "7b2a4c058a2e",
+      "title": "Sotto hopes to wrap up VP Sara’s impeachment trial before Christmas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3hTMGY2Vl9JUVBadGdTTnJtMWtqakpyNm9fOUZhYjZiRXpwOVlvcDdZbU5ZZlJQWUdjc19xWVZWYXdWUUZZOEs3Y2I2NGFvRjhhVVA5SXpaSV9SY0dNUzc4bEV1Q3BibkM1M01vTzFVYmNKaE5KeWFNei1MeEx2S1ltNEJGSjVTek9rNTdpaHRwX2JrS0o4TzhQNUpkd1ZW?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "date": "2026-11-23",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-25T04:56:06+00:00"
     },
     {
       "id": "0f1ae3123aac",
@@ -653,6 +822,19 @@
       "people": [],
       "feed": "inquirer",
       "found": "2026-11-21T03:16:10+00:00"
+    },
+    {
+      "id": "1c49965a5632",
+      "title": "Comelec: Only a revolution would stop 2028 elections",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXZCRzdwRmZES0F4c1U4YnBoai1WSzgza3JVSG12blJ6UGZaRFNPeUU2QWVVckZxQjdvMTR3c1VHbTI1UzV1S2pjcEdUeWViOFJubUlUTmlNNUhiLTZDZUZHVDMyVUVqbVpBMWhWZnY2ZVZDelNINFQ4VEdYdUM4QUN0SjNvd2J1bTZ2aWRB?oc=5",
+      "publisher": "Daily Tribune",
+      "date": "2026-11-20",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-25T04:56:06+00:00"
     },
     {
       "id": "a7aa51cd78b4",
@@ -1733,6 +1915,19 @@
       ],
       "feed": "inquirer",
       "found": "2026-11-17T04:35:15+00:00"
+    },
+    {
+      "id": "5445e744cad7",
+      "title": "Pete Hegseth Allies See Impeachment as Path to 2028 GOP Presidency",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWkwWFZFcHJDNjAzOHFnVkRhbXgyV3hVcW1qdTRxMVd0Xzh5dUZnb0dDVnlWOGJXZnp2bklYZmc1a1d4bW5pSkZwUUpudHVsV3pjandSLWNkRGhjTDQwNG5mWGNzZWRoLVhSWjlsem9vdEhXemY5Vmx4Um5GQjZHcHpISHEzekNTT0JSUUhHUjJleUtIaWhqa0o0UQ?oc=5",
+      "publisher": "Head Topics",
+      "date": "2026-11-16",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-25T04:56:06+00:00"
     },
     {
       "id": "703e69dbc4cc",
@@ -3377,198 +3572,6 @@
       "date": "2026-11-10",
       "topics": [
         "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "c1362a8c7055",
-      "title": "Comelec opens voter registration for 2028 polls from Nov. 10 to July 30",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTl2NkFFRUhudU9uU3k3WFhlZkRiTWNwaWM4SWJ4cC1UamtDaG1vbTc2bHloNGc4VHYwMnVDSjhGck1kcDN6eEtfWmxtLUZ4a080WmFBaTg1cTFEeXVuY3A4UGgwQ1dNc1g3Ym1XUW5pa3lUTWtBb0ZMR2MtdWNuOGJJV3FKR3pQVC1ya05FN190UTBVUkdhVDFPcklLd2xYRzk5emhB?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "92b85ab714db",
-      "title": "LOOK: Youths flock to the COMELEC registration site at Luneta Park in Manila as voter registration resumes on Tuesday, Nov. 10, 2026. The registration period runs until July 30, 2027, from Tuesday to Friday, including Saturdays and holidays when registratio",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTW1fWlB3Y1VpSjdkZEs1aTFzbTJpYlROODZGWE9WVUNybHBodzlhcTFFYTFWdEQ4TnhSMTg0d25iMDVFeW5CQWo0U2ZEaTVwMTFCZ3NaREV1TUpFdGRNeFlqLVZmbGlmMVB0TDBxU1V2VHgtRXVaY0hSSVhpQnVDTk5zcVVtQ0dCZEZPbnNDc0o0UmVWWVVITWNEMTJoN2xkOUtmRjk2ZDlHMXhjTmpkdjVhRUUwNjlkWGhscnBSSmNrT1BRdTVuOEtEQTNITXFTQ0FF?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "d4ba73ceb81f",
-      "title": "The Commission on Elections (Comelec) resumes voter registration at various sites, including Luneta in Manila on Tuesday, for the 2028 national and local elections. Registration will remain open until July 30, 2027, under the leadership of Comelec Chairman",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXNVWGdvYWE3aWZxbEZMNVhUZmMwRXYxSzhWSlNPSU5nUUdhX2w1Q3dUaVVUM3VzN2xsdU9UdlRlb083b25HZ3BDUDJ5aERsYm91RF9EX0dlTlBJQzRFNW1FMWZfcVBCX2MwNEQzZjlxcXdESzVmQkZ4dXNIbkRTWERXQ1NDcFloTEd5c0ZUNFV3dlVaVzVHWlJDVFFsd2VGR1ZmTE9LWTdWaHRDMmhKZ0dxOVd5LTQzeTlBZFdlVWwwVklMbElnUVEyQVBlVnJTdC14WGpfRHFYRVFn?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "176593b5a746",
-      "title": "Comelec opens voter registration ahead of 2028 presidential polls",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUNrTmFwYUNhd1E2MWhiZHlRaEZhaGlfVnlZQTZsLW9zak8xWmhUQXRGREgtb3laTUhZNm8zb1g1MW1QS1BYUzJNclpiWnhRd0FTN0Y5Xy1ENGJPcVVoVmxXNjFwWC1Ha1REUWpyaHYwWXlNSTYzNzljQnY0Yk02Ri14WHJHUXFBU0RWU1BQT29VSTFWX0tpOUVJcHBZS1hU0gGuAUFVX3lxTFBPV1RNa0ROakN3cUlBMWNva216T1l3OEN0WkszSXRuZ0NnQmRVN3REOHRHa3BydkIwaTlLSFM1UUQ4OFE2WFJJdWUwTGtYM1FYMVI2XzVMa0MtdFFGdWFhbk9xZUdZN3BVSVVtU0J3SVJCTjlNSFZILUVNX0ZFOGRFYkdETmtjM3VXdUI3ZHc5RlhCTFU0SEZUdWlUZWhTeVJDbFd3MlZoN2QzZ20tdw?oc=5",
-      "publisher": "SunStar Publishing Inc.",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "88f15106c950",
-      "title": "Comelec resumes voter registration for 2028 polls",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnlCNG90dnJsS29HdVpRZFBGLS01OFFTaE11OXpacF9WbWVvVGMtY1owOUdZMU5UV0h4b1VybmFla1lmNkxTU2RUYWlCUl9EVHM1ckF6VngwZFNub2pMSl9UNy02VGVDanZMVE1TbDhrNjRlY0k4OHZRdHoyMndhYko5RDVfd3dWTW56ZUd0SlBqRzNQOUZ3T2RZLXgtMHVlWGxVbnlDdDZYMWxHRXRDMkY1UnrSAboBQVVfeXFMTmxDdTA5Si1LeVNVU0UzMzFuc2M3a1VUZmV0XzA2dmd0bXRaSFBsb2twQWdCLWdYRE1GZTctcnVWaGdYYTh3SmRKV0l6VFpfQVVPaEFLZ3A3UWVwVmRGeHFsUEN5by1mTjlZQ1VoZnN3SWwxTHFXek9hV29hMzhnU2lvb3FWWlRXd1UzNnNzQmtvM0lkMEJqdzJNbDlQS1AxbDhCQ250UFpJSWJ2bEc1cThoQklVaENMMTZn?oc=5",
-      "publisher": "GMA Network",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "443575710a0b",
-      "title": "First-time voters queue at the Comelec registration site at Luneta Park in Manila on Tuesday, November 10, to register for the 2028 national and local elections. Photos by Rappler. For more updates, download the Rappler app and join the Voter Hotline chat ro",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREFqVTMzUUlkQmdsblQ4U2I4SWtKOFI3ODZLSnFtcmwxa01zRkFyRl9DODQ0X3ZnTG41c3BHVUwtY2g2MHZfY1hVSllMdVU1ODh5YnRzX1lBOTd0N283bEVKU3NsNE9VVWJzUVNZT3ZBSS1LbktJekNnZ3RYblNidkthelJBWFNxSV95TVB5QkhWVl9Xbnc5eDRXWkY1S2xnVTNkaXVoMGJKSVAzeWk3M2dOU1ZFNTFnb0E4OFBSX2pmdXNIMW8ycWdzQjNiRGE0NWJEQ01NaDRmRlU?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-10",
-      "topics": [
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "91202587aedb",
-      "title": "Comelec Reopens Voter Registration Nationwide for 2028 Elections Starting November 10",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTUE1Q1MyNXNpTFoyeVlIS3g3UGY2ZFRrSlJOZzdjY0pnVzkzTjRRXzlhdS1mZ05LOE12QjBzVkVHQk5jcXoyVk9hcXpuNEVTM19Mc1luTmt1S0JZRHdfSjNsNU1FVjd0dWtfUm1DUU1hdFhkOGQ2VThnQm00dm9DblE3eHM0TU5kMzZoWjVfM28?oc=5",
-      "publisher": "Daily Tribune",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "710c1d0f6d47",
-      "title": "[Local Vote] Voter registration for 2028: Answers to your common questions",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGdMN2xtRmhJWFN1THVyNXg3VXk5QWU0M2lJNVJfa3RvVEpRak1wcW42MHdlZnVuT2R2RG5iWUdqSVNzcXB2TlRVRXpTVXBNNEl1SUN3QUNKenhHSjVzN3plLTViZHhVVVFKM1JaeUR6X3pVV3NUbzJub0NLUnBENDJWaFgxTGpOa2x1aVVkVmxnQmNwNU03REhKaUZtOWRnUnk2RGZwejQwVDJh?oc=5",
-      "publisher": "Rappler",
-      "date": "2026-11-10",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "f4b7524f8279",
-      "title": "Cebu residents flock to the Comelec office in Cebu City on Tuesday, November 10, as voter registration begins for the 2028 national and local elections. Photos by Jacqueline Hernandez/Rappler. For more updates, download the Rappler app and join the Vote",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaERmeDVITHdwb1dYUmRabl8zLXpwQTVWUTJWdkpYMmFXZ2NLTVNZYm9Fdm5rWnlTa3Rhb1BkYXRvYm5neWNITUN6WV9HSl93ZUhfM2twNDBCbkVhLUg0akhQUHJRLVZVUVBsa3JGUGVxVzJoZHNtMkJycE5oWjJGd0ZhTndVSHJCZHE2UjN4Wm1CMGkxVmJkSG12YXRJekFpWlpqYzd6VHdXdG5WYXNmbkhNVHVZUFh4Njd1d25ENE1oRUNvcVhINEdJQkJYQldiczdlMldxWmQxWG8?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "96e6ec1758b9",
-      "title": "Comelec surprised by ‘overwhelming’ turnout as voter registration reopens",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUphX1JrRTd1eGpWekRhaEV3d09XY0I0WGlRZFMweDIyRkRKcTEwZHJZR2MwSmpfd0dVT1p4OTJmYnV1Q0d1d3JGQ09LRW1QajUyRi1OZWdYdlhrN2hZTDd0QmpkZW9UYi1IWFAyUFRId29ydE51WUVGZHFGcVFzekQzMnlibVhvWGRSczdtNVBaX3FhdDYwNmRMWnkwX0RZVFlEbVI3QQ?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "9f9ca94c8730",
-      "title": "Comelec: Voter registration for 2028 polls open from Nov. 10 to July 30",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3RoMGZqcGtOb0FPMXlvSEM0dDdpTjg0WU1xWWZnWWtCZmZZVmc0YTBqck5HY1RrakIzSUl2NlRSYUtCXzZiWnVnckhDMkFmdFVLUEsxZnNQNTE1OEdwU2ZQX0JkX2JLS0g0c2x1T0VvZnp4MTZOZDI2QXVjUkRvMnlHU25rMkNLWldfRzBTMzBZbkkxbUd3TEtxaUJONFEtYTJHZkNzbjgySm9jWmRoSDlFNzJzUdIBtgFBVV95cUxPc3RoMGZqcGtOb0FPMXlvSEM0dDdpTjg0WU1xWWZnWWtCZmZZVmc0YTBqck5HY1RrakIzSUl2NlRSYUtCXzZiWnVnckhDMkFmdFVLUEsxZnNQNTE1OEdwU2ZQX0JkX2JLS0g0c2x1T0VvZnp4MTZOZDI2QXVjUkRvMnlHU25rMkNLWldfRzBTMzBZbkkxbUd3TEtxaUJONFEtYTJHZkNzbjgySm9jWmRoSDlFNzJzUQ?oc=5",
-      "publisher": "Cebu Daily News",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "595b70f89881",
-      "title": "Comelec opens voter registration for 2028 elections",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0VlMXR6dFNiQ2syclZIZ3NoM3pNVkVNLVpEQ3NxQWFsWkNJM0VFbUpVR0FvY2N5dWZTNXhYVWJXU2pZZzg1d2NoWDJ3d2tQWDJJcWVYcG5udF82ZUs5RlRjb0lweDNSUFE5WjdUY2M2S0pGem95VnQxYWh0cmFFZjItZ1ZnVkowV1JKa19XZ0VkWnBZT0N6NjVsVFpBOEdfcG1udFAyeXY5c03SAasBQVVfeXFMTnNFZTF0enRTYkNrMnJWSGdzaDN6TVZFTS1aRENzcUFhbFpDSTNFRW1KVUdBb2NjeXVmUzV4WFViV1NqWWc4NXdjaFgyd3drUFgySXFlWHBubnRfNmVLOUZUY29JcHgzUlBROVo3VGNjNktKRnpveVZ0MWFodHJhRWYyLWdWZ1ZKMFdSSmtfV2dFZFpwWU9DejY1bFRaQThHX3BtbnRQMnl2OXNN?oc=5",
-      "publisher": "The Manila Times",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "b3e527d99a6b",
-      "title": "Haven’t Registered Yet? Voter Registration Is Now Open!",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pTmVGSTF3cG15anZjbXROWVV6elFPZ3pUcXU0VW9aTXRCT09TSUxiMFNUVHd1dTZ5OWlFVE5PaWQ4MUR4RUxaVTA1akw5NHdJREF2T0xpc2JISE9lSVRGaWhsWUVXdmhGeHdFY3kzdldfam1aUkk4clhXUQ?oc=5",
-      "publisher": "When In Manila",
-      "date": "2026-11-10",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-10T12:57:57+00:00"
-    },
-    {
-      "id": "7f41fcede803",
-      "title": "Youths troop to Comelec sites to register as voters | Photos | GMA News Online",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1Q0cGY3M1QzdFRBLUxWWUlTOS1CTGxnVlFvMExZSzJ5MVE0eVhmMFBUZThxemZLTmh4UURJc3hUZEl4eHVPNF9DTVhFOUNPNTlCQkwwSU5kZVBmUHRsdjNXVFhuTUVXNWxreUNPSFVtdy1ZeUtZaHF0Z202bnNtdDlncTd3SUJIUmVQSFo5Ul9oV0N1dGUzRlJ1VlJvRzlpNkp5elFGRjNIdDdE?oc=5",
-      "publisher": "GMA Network",
-      "date": "2026-11-10",
-      "topics": [
-        "comelec"
       ],
       "people": [],
       "feed": "gn-comelec-registration",
