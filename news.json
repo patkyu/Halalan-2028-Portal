@@ -1,33 +1,33 @@
 {
-  "checked": "2026-11-26T04:12:33+00:00",
+  "checked": "2026-11-27T04:19:22+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 42
+      "entries": 32
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 8
+      "entries": 9
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 29
+      "entries": 31
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 8
+      "entries": 6
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 32
+      "entries": 24
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 9
+      "entries": 15
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 52
+      "entries": 28
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,152 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 13
+      "entries": 4
     }
   },
   "items": [
+    {
+      "id": "1dceeabe4e4f",
+      "title": "Veep’s dentist expected as next witness for defense",
+      "url": "https://newsinfo.inquirer.net/2347842/veeps-dentist-expected-as-next-witness-for-defense",
+      "publisher": "Inquirer",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "66f3cf3a374e",
+      "title": "VP Duterte faces Senate on OVP budget, dodges impeachment questions",
+      "url": "https://newsinfo.inquirer.net/2347854/vp-duterte-faces-senate-on-ovp-budget-dodges-impeachment-questions",
+      "publisher": "Inquirer",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "07ccee313ea3",
+      "title": "OCTA: Duterte leads Robredo by 7 points in hypothetical 2028 presidential matchup",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVFhZm9xWFMyMk1OTm5QU1JvRkRTdkVFR3pZWS1mb203WVNUTmxyd25ROVo2ZUdyaUxRcGF2WVVLZ3VkYW1VV2Q2eUF5ZlY0MTdsSnUyQ1RGZnlRMEJfSE1RdTkzVWxKdjA2RDFKNks0S2VsdXNjQUxfZXJiUEdUN05GTDNpSmNLcVRTaTAtMjROS00tb29FTzd3cU53UFBEQ2RwMVBneGJNN2RvV0RBbWtySlNuVHJ2ZzhuMFFDZTFtZy1NUkxBUjRMVzU4UQ?oc=5",
+      "publisher": "Metro News Central",
+      "date": "2026-11-26",
+      "topics": [
+        "survey"
+      ],
+      "people": [],
+      "feed": "gn-surveys",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "1cc052ba5673",
+      "title": "Ridon: Where did Cale88’s P500-M difference come from and go?",
+      "url": "https://newsinfo.inquirer.net/2347818/ridon-where-did-cale88s-p500-m-difference-come-from-and-go",
+      "publisher": "Inquirer",
+      "date": "2026-11-26",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "90533a847bc8",
+      "title": "Prosecution: VP’s dollar accounts may point to alleged wealth past P817M",
+      "url": "https://newsinfo.inquirer.net/2347816/prosecution-vps-dollar-accounts-may-point-to-alleged-wealth-past-p817m",
+      "publisher": "Inquirer",
+      "date": "2026-11-26",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "225700dcb95f",
+      "title": "Batanes polls to use manual voting, text-based results transmission",
+      "url": "https://newsinfo.inquirer.net/2347810/batanes-polls-to-use-manual-voting-text-based-results-transmission",
+      "publisher": "Inquirer",
+      "date": "2026-11-26",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "adf5497d2272",
+      "title": "Impeach court subpoenas BOC exec, Cale88 ex co-owner as witnesses",
+      "url": "https://newsinfo.inquirer.net/2347760/impeach-court-subpoenas-boc-exec-cale88-ex-co-owner-as-witnesses",
+      "publisher": "Inquirer",
+      "date": "2026-11-26",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "5cd53701f867",
+      "title": "Sara Duterte can best answer allegations, says House prosecutor",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1010899/sara-duterte-can-best-answer-allegations-says-house-prosecutor/story/",
+      "publisher": "GMA News",
+      "date": "2026-11-26",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gma-nation",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "57319a98f44f",
+      "title": "Ex-Cale88 co-owner, BOC official to testify in Sara Duterte impeachment trial",
+      "url": "https://www.rappler.com/philippines/former-cale88-co-owner-boc-official-testify-sara-duterte-impeachment-trial/",
+      "publisher": "Rappler",
+      "date": "2026-11-26",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "rappler",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
+    {
+      "id": "b773e74c32d3",
+      "title": "US firm: Sara Duterte popularity ‘sliding,’ 3rd force seen in 2028 polls",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjlhUDdYc052aGI1ZlppeS03X19QV3Q3N1ExOTRqY1VFbUxEOXZJM2VmRWZkZWRGNlRoaGIwV2ZwZGI1bjU4bmp4UkEzY21hVTQ4bWVZYlZBYnhMclU1b0M1TVhyQkR2ZTVrRV9fQ2xTanVMTFZOQmR1eW9paVR0elZKN0FOS0lpcEJqRFV5eFhfQmhLYzNBcTVaY3NpT1lleENKMUdOenRLTXFzZGN30gG0AUFVX3lxTE9kdFc0UFViNlhFMDFCUDR3R1lKM0NWOVkxc0dBeXU2NG5GbVNydlg3SDNYU19FelNFcXBiUDJIYzYtRzd0NjRId09xSTY4MlVPdU5fZWthR0xjR0NUMlFlMXA0alBNRUl1bGZRXzRUZXo3STZDSzF6VG04LWRGYVBUcXBqZlhqQVpZQ3lPbnNuWXRKQUY4ZVl5NjR5c01lTUZNTnlaeDJuT0cxT1JEQ3FlblN3Wg?oc=5",
+      "publisher": "Cebu Daily News",
+      "date": "2026-11-25",
+      "topics": [],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-surveys",
+      "found": "2026-11-27T04:19:22+00:00"
+    },
     {
       "id": "d073bf389711",
       "title": "Comelec denies P6,000 voter registration aid",
@@ -417,6 +559,19 @@
       ],
       "feed": "philstar-headlines",
       "found": "2026-11-24T06:08:33+00:00"
+    },
+    {
+      "id": "650a2c40c7a9",
+      "title": "Comelec expects 74M voters in 2028, up 6M from 2025",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PZWN2am9KN1BSbXZNcXZuZXhkTmhCUEl1REM5MEJ0NHlJSXpkOW55SXphYXdOWW1Jc1l6Nks1TTB1VENSNlBqUGVPMndXZ3NJYnduODJuUGxwOHBSLU13X1RPTHdrUWI0XzB2R19uMFRvb19yenZxaU5NRDU?oc=5",
+      "publisher": "Explained PH",
+      "date": "2026-11-23",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-comelec-registration",
+      "found": "2026-11-27T04:19:22+00:00"
     },
     {
       "id": "5d0e32dcc2e2",
@@ -3416,166 +3571,6 @@
       "people": [],
       "feed": "rappler",
       "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "4d6a10eae121",
-      "title": "Comelec to resume voter registration for 2028 polls",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzFZYkVyUFlhMzZEOTBfemNRM0dVc3U2Rkpyd3ZnT0t6bGozakNLSlpDTDZIZFFqczlYd0dTbzF2Q04zS0RUdGJqMEtzTGs2MTJUUFZaNms2TFVuQWxxZ1hDT2IxdmFXQmNCa0xDbkpYNXRBYkFSMVBEU2tWME8zMDl6cjZOSmpuU2tYTGduWTA3M0trNGtZZzVaMjRFdjBJaHR3UkI4VQ?oc=5",
-      "publisher": "Metro News Central",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-24T06:08:33+00:00"
-    },
-    {
-      "id": "936b56c29a8b",
-      "title": "Leni Robredo ‘definite’: Not seeking national post in 2028",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnYxN2Z2UGlzNHpqcnZTMm8xNGo3UVF2elBiT2duWEdHYkV1bjExNTdXb1dJOGcyQ1hoUS04SkMyMnh6R1VrUmtiU01JT1FjVWctU01udWlLVHBUcGVnTnVPWUtVQmtNQnkzYzB3SktXQU1ZeTJ3OFlGSjl1dmJZOHNnQVh1enV2aXdoSNIBkgFBVV95cUxNMFlyR1JsUkluT1o4S0NLVFpBVG5TMmtMZ1M5QWNfQkw1Ri14X2xFLVBQRVVtUGxYSERjcnlsRE10V2dxc094UC1DR01rdzRMQ2o2RVRScFVUX3ktZVBsMGxCREY1U210OHBQUFRHOU54YnAyRXJwc2dka3JoQk0yNVA0SG4yWTl2cTNLQTNBbVpTQQ?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-11-10",
-      "topics": [],
-      "people": [
-        "leni-robredo"
-      ],
-      "feed": "gn-2028-president",
-      "found": "2026-11-24T06:08:33+00:00"
-    },
-    {
-      "id": "c116b3b640ae",
-      "title": "Defense and Prosecution Clash Over 'Judicious' Statements in Sara Duterte Impeachment Trial",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmtyczVYMW1GVUs5bFRXN2FHY1I4Y3dBOF9XZ2lnZzRIc3VMR2VPdzV4akQ0bDRiQXpCdEw2aFZ4dDlYWnBQTlRlNTNTb0hqYjhrRlpCbEx1M2ZsMlJseXpUTFhxdE8wckRkdDZTSUw5ZWd2Q3hHcVhtTXRpVTk3WEEtUGUtcEpTcVpOS2ExVFR3ZWtTZUlKR1VOdGEtTUxlWWFWZ1gwOGRfa2M?oc=5",
-      "publisher": "Daily Tribune",
-      "date": "2026-11-10",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gn-impeachment",
-      "found": "2026-11-24T06:08:33+00:00"
-    },
-    {
-      "id": "3221f5b0106d",
-      "title": "Leni Robredo-Raffy Tulfo leading Baste Duterte-Robin Padilla — OCTA 2028 tandem survey",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc3lVeVNPWDRVN1VoY29IOUhpUUFMNzdaRkg5eF9DQTRDQzVwVjdMQTNPT3h2Ny00V2pRMmt4aVRWRnRZWWFDa3ExeW5RUzRKRHh6dVBReFUyVDFUSDR3cjdIQlEtOVc2VDZ3bWhmVmYzZ24xZDZOZGFxRTZ2V043eW9md3NsaUZReXlxUzlEeW5wc3NxNjhMUVcwVC1zUjhZQjNFenRSOVRGcjQ0N01rWHA0RGREQXBKUW5VeU5QOXVsdmFzNHpZbzRQXzdHRnRBcm53RWJQbl9iQWNVbjVZa3gycThMLWN2VzgwMVFBU3l1WTVlWGF1b2dGQdIBgAJBVV95cUxNLWtxbGswSFZKVXp5VDNrQnJQQUVYT0l0c1U1b0NIUy1zRlhQMGNUa0VFYWJ6X3lCMHRhSGxDeGZjaDZGeENHMWJGaEpoWnRObi1iNXM3M1VSVElyRnNCT1I3U3RvR3BmSWNLX0JMVTdlU0ROZVRqV3p3dkI4cm9mQkpSOUpKTmFDa05pVHBmVGE2T0xqOUYtVGZDekpQTUcxSUx2em10OTFfZnk5QmdxUkhxVVZLWWg4VmZWakJIZlF4bzhaM2RCeWs2ZmJDaUpkamxTRUZGZWtVa2tyWW9rdnllWEFaMlhDM09PZkpNMXFQS3RTcE9rU0ZyYU5XS3Iy?oc=5",
-      "publisher": "GMA Network",
-      "date": "2026-11-10",
-      "topics": [
-        "survey",
-        "candidacy"
-      ],
-      "people": [
-        "baste-duterte",
-        "leni-robredo",
-        "raffy-tulfo",
-        "robin-padilla"
-      ],
-      "feed": "gn-surveys",
-      "found": "2026-11-23T02:53:50+00:00"
-    },
-    {
-      "id": "d46859f30db5",
-      "title": "THE Commission on Elections (Comelec) started on Tuesday, November 10, 2026, the voter registration as preparations for the 2028 presidential polls. FULL STORY: https://www.sunstar.com.ph/manila/comelec-opens-voter-registration-ahead-of-2028-presid",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbjkxTGV2MUR0WmtOTWZudHV4M09JYnlKQUxJZ1dBMDVFWjdvQzlsQ1VRRjJSSGFOWEhxLUFWSTBZQTVKQmhZRWcyU1Nub3dpUXFRVVRxNTk5ZnhEd3gwZUdUcmR4U2VMRnkwb1ljb0RSWDY4eDJNVnEwSGJubV9ubnFyV2dmVEFyWGpIX3d2ZGQ1UzhmUFhZaXFlZWJiNHlaaHUyWVlvUkFRY0QxMEhYM1BLTDlGU2hMSU9KM2RFLXlRM01vQngwLXpJcGkxTUtVOVRMYkVwVThaX2xGWENB?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-registered-voters",
-      "found": "2026-11-21T03:16:10+00:00"
-    },
-    {
-      "id": "0296def1a056",
-      "title": "Comelec resumes voter registration for 2028 elections",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlpsTGh2eF91Z1pPNmxpd2pBNEFYeTZFUlhyREpFdXdTb0t4aFhtS0RFdWhDTEttZnJMczlXWFNTLThLamc1TmRWcjgxSjFoSmNwNmJhTk1ESzNfMFEzNk03SFpQbmQ0VnhSWHM3cWFOcmhfWjUzbG1WRmpFa0tLV2lVemVTdzlSWVE?oc=5",
-      "publisher": "DZRH",
-      "date": "2026-11-10",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-20T03:28:13+00:00"
-    },
-    {
-      "id": "30680a98aa8c",
-      "title": "Cayetano continues to rank among top choices in 2028 Senate polls",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVJ3TkRSdWVETXY4Wmhqb0M0bTZTbmMxRHhSQW1EaGJYNFlxOEdFb2NHZWJrWWtCMFBGU2FWc184b1JQWlRWbmllcGNETGtJamFsUy1QZmR0bkw3VUstcGpHTDJxNFVxZFpIMWtVczd2NENWM25rLU1hR0M3bHQybkJMV0hqdEozTE9GOElMeHZYZEpkTFgwajhScDJoN2Y2SE9yYQ?oc=5",
-      "publisher": "Alan Peter Cayetano",
-      "date": "2026-11-10",
-      "topics": [],
-      "people": [
-        "alan-peter-cayetano"
-      ],
-      "feed": "gn-surveys",
-      "found": "2026-11-20T03:28:13+00:00"
-    },
-    {
-      "id": "a2f5c058907d",
-      "title": "AOC dismisses speculation over 2028 presidential bid, says Democrats must focus on voters’ mandate",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXZ1Mkk5eHhrdy00emw5X2NwYTlBZTdNLXUybjhlbVZsODhXbmU2OVNoSmtJWGw5V0NLVVhSQmR0amhhci1EQUg3ak1OWXdLWVc2aGpaLWNEb3AySHJDSkJSM1ZGRm5MYzNTSE8xM3JhM3NpX25pSXZOQmxBaHBHdldwNC0taGtKWjRDVjhJZFlsWkw4QlFpWEYtZTJJMjgya2ZxbjA2TkVHRmVDclQ0YjdTVGF3eEVDMjBPckRDczllbUVQeEpnb2JReWU3TFpqejFHV3VKS09ad1F3ZnpWaU9FbVgyUQ?oc=5",
-      "publisher": "ANI News",
-      "date": "2026-11-10",
-      "topics": [
-        "candidacy"
-      ],
-      "people": [],
-      "feed": "gn-2028-president",
-      "found": "2026-11-16T02:14:41+00:00"
-    },
-    {
-      "id": "a90798b6e348",
-      "title": "Robredo-Tulfo tandem edges past Baste Duterte-Padilla in early OCTA 2028 poll",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3VDd3YxbS1FckdLTjhZUFdVQ1FaNVhzbmc4a2tYZ19yVWxhVzhzUkVrVEJRU3llcnVLVUQ5dnBEb21NX0RSZjhlNHVuaXhVeUJ6Vm5LeFgxVHJ5aHhGUnFWRVRIYUtfWmcwWFJDVm83ckJEMUdHdkp2VmRnTFphbVJkdVZaZWNvRGZBOF85djMzZGp5Ym9FSTZ2bWVITVhVQzVEajA1TkZsVWt1XzhiQVk4d2ltQzA3SmtqTGlCRdIBxwFBVV95cUxPdzhJTWxzLVpmeGRaeFNtYjFVcUdNaU42NHYwa2gtSDB5YnhXWkZiN05tWUdEcmpwM2I0d2RCLWd2eWxVa3YybGxISnd6UWhVSnRWXzdwV1Z1UEVSVjVKdUwyNm55TlFycTc0Ukx5V1JnMU9QdjRteHJaWkpqRnEyMjFNTm92SGlmZDVyYmtYWm5NMlZRRzR4VnIyUVpyMHhIdjRoNlFZcWFDWkp4b3ltUzBLN013cWlwVDZMMW1ldmV1ZU1xX1RV?oc=5",
-      "publisher": "BRABO News",
-      "date": "2026-11-10",
-      "topics": [
-        "survey",
-        "candidacy"
-      ],
-      "people": [
-        "baste-duterte"
-      ],
-      "feed": "gn-surveys",
-      "found": "2026-11-15T01:58:53+00:00"
-    },
-    {
-      "id": "d11024775577",
-      "title": "Baste Duterte is Gen Z’s top pick for senator in early 2028 survey",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlZFaDNsRHo4SGFwbE9IaFB5X2VWR3Y4WDZxYkNoUGxUdnB5TklscEtRY3hGTEFfZXZmeVhCYkpFel9ZTENRZDZnaEZXWFQxX2Zwb2JsX0ZzWFFPMjYzc3o2b1NwT1pEd2pxRy1CVjc0N0pXRGRneW51VkdpcndyMm55dnE3ZFE1ZXJBaEtZZjd1OUZsMnBwNG02RkVSNFlZNjdVN2xnSQ?oc=5",
-      "publisher": "The Global Filipino Magazine",
-      "date": "2026-11-10",
-      "topics": [
-        "survey"
-      ],
-      "people": [
-        "baste-duterte"
-      ],
-      "feed": "gn-surveys",
-      "found": "2026-11-14T02:30:02+00:00"
-    },
-    {
-      "id": "e8b8497a95f5",
-      "title": "Robredo-Tulfo tandem tops Baste-Padilla in OCTA's hypothetical 2028 matchup",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQl83MzA2NUxraGRUY1VwLXl5Zy1Gdy1XUi1wM014VG02Z3BNZThDVnZIR2tUVlowbGhxZnZsUzZvaVh3V3BHVFZESzdUWS1QVmNMXzNvYnFRWDRiekU3SWF4WGZKdUhTTF9oa0pHeDRlTjViMndsSklPUUJCRkZ4UHd6akM0VUlJbUc4MHY4bXhJRjVWTk5pRGpNMk4tVWpzdC1naVRsWWkxZVhMQzBnREswNENOZjBWaHcxR1kxdDFGTzBGTVE?oc=5",
-      "publisher": "ABS-CBN",
-      "date": "2026-11-10",
-      "topics": [
-        "survey",
-        "candidacy"
-      ],
-      "people": [],
-      "feed": "gn-surveys",
-      "found": "2026-11-13T02:40:43+00:00"
     }
   ]
 }
