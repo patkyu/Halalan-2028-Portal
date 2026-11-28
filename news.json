@@ -1,33 +1,33 @@
 {
-  "checked": "2026-11-27T04:19:22+00:00",
+  "checked": "2026-11-28T03:58:49+00:00",
   "feeds": {
     "gn-comelec-registration": {
       "ok": true,
-      "entries": 32
+      "entries": 26
     },
     "gn-registered-voters": {
       "ok": true,
-      "entries": 9
+      "entries": 8
     },
     "gn-2028-president": {
       "ok": true,
-      "entries": 31
+      "entries": 58
     },
     "gn-2028-vp": {
       "ok": true,
-      "entries": 6
+      "entries": 15
     },
     "gn-2028-senate": {
       "ok": true,
-      "entries": 24
+      "entries": 18
     },
     "gn-surveys": {
       "ok": true,
-      "entries": 15
+      "entries": 8
     },
     "gn-impeachment": {
       "ok": true,
-      "entries": 28
+      "entries": 39
     },
     "inquirer": {
       "ok": true,
@@ -47,10 +47,334 @@
     },
     "sunstar": {
       "ok": true,
-      "entries": 4
+      "entries": 0
     }
   },
   "items": [
+    {
+      "id": "d9dfab54e316",
+      "title": "Sara Duterte wants to ‘lawyer for myself’ in impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzUxSmZtb1ROSEdJQWtIcU5UYVgya2tEZS1XT2Rab2JVeWplUWxCSTVSeW1EN1NrelZEY18yQTZMakF3RkVxTVltcVRXUkNBTFpEZmJZaEd6d3hOWUFhaTJvdC1BZEJNTE1lR0NIRFVwbHVfSXJuV1FFWXlobzcxRzA5RXN0dS16Y3UzRksyNk5KX0FNVEh0T3VwbkhWSGtabVFBZTQwM2FWUlhIZFFPbElMVVlZeVE?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-28",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "5b39835c14a2",
+      "title": "Luistro on next defense witness: Same banana?",
+      "url": "https://newsinfo.inquirer.net/2348311/luistro-on-next-defense-witness-same-banana",
+      "publisher": "Inquirer",
+      "date": "2026-11-28",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "7efee636a139",
+      "title": "Sara Duterte ‘prepared for worst’ as trial nears decision",
+      "url": "https://newsinfo.inquirer.net/2348309/sara-prepared-for-worst-as-trial-nears-decision",
+      "publisher": "Inquirer",
+      "date": "2026-11-28",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "inquirer",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "39c3b92c75c6",
+      "title": "Impeachment court summons BOC official, Carpio business partner",
+      "url": "https://www.philstar.com/headlines/2026/11/28/2573119/impeachment-court-summons-boc-official-carpio-business-partner",
+      "publisher": "Philstar",
+      "date": "2026-11-28",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "philstar-headlines",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "c4e7fafdd19f",
+      "title": "Philippine VP Duterte rules out resignation, braces for impeachment verdict",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGVTaHJ5RWM4a1NsdFcyLV9jcnprZDlVWjg0Yi1KT1ZCMDF0T3ptT25sdU4weS00UDgzOHVrX0FGM1l6bkgzQXlXSnZ1bmNzakhTUWg3LUFwNmhRdE1fUzd0dnRKYlRVdzRkLXh6T1VjeTFEQ2RXb3NXazc2RlQ3eXhQd2NWTi1CRWZ2OVJTN3Q2dDEwX2I3clJCN0tza0hoM0psTU9tMUpwZUNaT2RuT21kbGpBeGd1dHRYQjlpVHRTQ3A1YnhyNw?oc=5",
+      "publisher": "Reuters",
+      "date": "2026-11-27",
+      "topics": [
+        "candidacy",
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "89bdb35faf92",
+      "title": "Duterte: Possible running mate for 2028 polls not yet decided on VP bid",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVVyOWJyV0VjZi0wQTV5eFJIWVNCYS1MRGsxRFNMQVQwV2RtSDdlOFpIZ3VodGRWUTAyN3JvYW9CV0hyazJ2TjllYWdSbVdjZENySEIxYmhOY28yTkpvQUtpSDgxZzFWMkZIRllWU0VEUVdSeUx5TFhBWGNHOWFUYVMyeGpEeFFMbzc2YXFsRVRBWmh5elNZSXRmeVY4NkxxX00xcXJreFBUX3oz0gGyAUFVX3lxTFBmX25NNXl3Z2MwMER5TVB3SEFFM0w5ajQ5MVVEX1VaQjNpOEZKTXRlT2FZVGtfdlA5Z2RqWThybXdXZ1BTaWEzZnhTbFpaYy15VVVCcV90emp0YjlVdUtSQ3k3M3hZSTFBc1NnOGlVT3c2aUNqb3NGVmR4c2xOVkV3UVVPMUlwOFNVaEttLURVNUgtM0NIdzlramp3eXN6NDJsekFFNlVkVjhrUnNTbV9tOVE?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-27",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "783f395bbc8e",
+      "title": "Sara slips, refers to potential 2028 running mate as ‘he’; vows not to campaign for senators",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEdMemRhUGNqcUlTemFnTG9JZFRDejRxcHFOUXR3c0RPSUg5aXRjZ19nU1ZITy1hLWFHME1jMmF5MzRtdWtrMlBzeENXbG9VWVota1BjaUM5WlZQZC1IQXFWSXFVVldqeW1ZSVAxR1FxNnM0LVQ5ckRDNFVIVjVhQ3V5dGNzdFFaVDMyc2tUaDJOaUtMQTlFeEVFbXprcmtBenZCS2lFYXdRVGREeERPYmxzNWZ5ajJ2WVFucU42MWtDa1Fhb3RjMTVJTmo0R2x0RWlJN1JjY25wWmxkb3N5QkNQa9IB6AFBVV95cUxPWkpFbnpzbGtGNmplQXVUMzNhSHBEMFU5YnRLaXBMOFJMWmlqYUtPRTZNOHNqejRFemlXYngteWVzWldsMVNWc0xyLUl3MjlORVlUeVlIVURtNE9GaU9kRjh3NlZZWUt2NkJ5VW93OWpCVDdkME1EdFJ2azJZUWlzMXp2a2Rzam1VMlVlcHBvWTNrSlZtSkN3aU5XdkhkTHdHTUlLRXF3dW5QN3NWX1I0RGVqWkFoQVVaQkhxM2g2ZkZYcG4wNGUxT3otcm5UTjNMcXJ2TTd2NVhUcWlCMWxwSFRHczhxa3Rp?oc=5",
+      "publisher": "The Manila Times",
+      "date": "2026-11-27",
+      "topics": [
+        "candidacy"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "88dd7827df32",
+      "title": "Sara Duterte won’t campaign for senators in possible 2028 bid",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3AxUEYzNllrcURYRktsaHpnS3BhNFBOdkFRS0pCbkEtUVg0VmVDX3JxVGp1c3VwUWZwU3JZcEdYQlAwcDByVDJqNFJfY19QM3Nvd0wyTDZoeXB2MmVFRTVvb2IzVF95MTRhSjFLQlp1VjVISXR2RkQtMy15N1VNU2c2dmJrSlRNM29oNWdRdDFyZFI2bGM0d09xdlNDZVJVZERmZdIBpAFBVV95cUxNS3AxUEYzNllrcURYRktsaHpnS3BhNFBOdkFRS0pCbkEtUVg0VmVDX3JxVGp1c3VwUWZwU3JZcEdYQlAwcDByVDJqNFJfY19QM3Nvd0wyTDZoeXB2MmVFRTVvb2IzVF95MTRhSjFLQlp1VjVISXR2RkQtMy15N1VNU2c2dmJrSlRNM29oNWdRdDFyZFI2bGM0d09xdlNDZVJVZERmZQ?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-27",
+      "topics": [],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "7e2a80e1eb27",
+      "title": "Sara Duterte to form legal, IT teams to guard against 2028 poll cheating",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0o4SWZWS3ZlYV9FSTY0a0kyaGxHSi1obG9UV2xucEdwRVhfUGI5UTNCUlNEU2ctNFZ1c09JeThWZUpER254c3dIQVRzclo3VGYwOUtUUGRaanNtalM3UDRGTUZ4cTJIME1Bd2VZYm9KcmtlMXk1NTFDUE92cmgzcWk2M0RpZW1KbWRQMW5zTXV0SVdKaGlGdVY1MmJTRll0bWU5TWdEbw?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-27",
+      "topics": [],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "5cfdd8952524",
+      "title": "Sara reiterates not quitting amid impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOG1CVzlzQ1RkdDRzUFcxa0pkWU1QRnh2Y3k3YWRBRExwOWREdVpDYTV4MDNtQ2RKOUsxN1UxUVdtNXZTLWhoU0NjeDBTVHNTXzRwZExjbGllODZjaGVwdGNHazNxLWs0dDV0WHNEa3RwMzFnNXFtWlR2UTJ4aFpvTUhQeTNvOHFXNUpfTNIBmgFBVV95cUxNbUpRdllDVkR0NjZvLW9BUHc0aTBwS2RscEtDZS1GZjd0R0syUzdPU2NEZkNTYmFuVWs0WDBnbnEtQnBRRHdPbGU2MU93cXkxWE04amdmbkxhSlRRMFgweVV6cWVHSkxHZS00YkZodlNlVjRrZGxpc1lqTDRfY21YN0I4a2cyWFJTM2lhNnpOTnprV2JodDV1OEx3?oc=5",
+      "publisher": "SunStar Publishing Inc.",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "cf45769029ca",
+      "title": "Sara Duterte rejects resigning as vice president of the Philippines before the verdict of her impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeGRpWFA0YjhkX0pxWFVheEtfVlpkNkNfb2YzMUNRZUpYcmN5SV9jSTVfWnVpTkxGSzVoY0NrNVNzYTVnUWdnU2VMZlZmRGxBUWtEalZFQjJrdU9TQjYtbTVaVVoxOEFKaG1VRllNRmNqaVB6OHViei1PNW9GTHJ2ZTJoUzZjMVpqODNianZZVTBOVzdFU2J3RVFUbE5BMTVOT19pUF9xaDFlenNPQ3ZxRXdXN2FMTjZYOHV2amF4akgwQzNFRUVEMHdTQkRhZlZWdjE5bGZKS1FJSGtDeFowSFZrMmNLZjhnYmfSAe8BQVVfeXFMUG1oTlUxQXBnQ05vbFVOb0tNUmQySF9mQWVDY0JKV0pYYWFOTmN1ZXR2MWhBdEppaHdSdzF6U3JyZm05NVNZR2FhM2VaanVrb3N1bUxHaktrNG93ZThkd2RDTHNVSVBmdkU3WjA3RUNKN1BWYUVWVC03eGNmQU9TQXJQS2VCQ09XckczMFdRNTVoZVNuQWpGcERlM3g1SW5oa0RxQ2x1d0dPd2l0SHV0ZGVOc0t5Q184cE5MdW9Ld3ZRYVFGVVFhaGxwQnN3Q2lvbVZlcHJ0VlJmV09lQlNoY1NGV0xjRGVLZHVDNXlyWWc?oc=5",
+      "publisher": "Demócrata",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "3d4550ee3475",
+      "title": "Sara Duterte rules out resignation, vows to fight impeachment",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWJSd2pMOWFnSEMzZ1BYdGxiM2lzOVJNNU83dGpiMHUyUGR1aDhJa2NFYldMYnV3dzM3bEJYWVd3cmE5dlZGZU9mOTFLVFcwZHhEeXFuOHZTZXhrQ3pnS1A2VmhFT1poRVpNQ2dPaVVyTXJyZDNfaDlvbXQ3NlRwazBzellrS0FFYVc3akNGZ3lwNnpnYWYzUUpsMWNEdmVCNlhJX05Kb1dUcENJc2wwNjRpSlRZNzd4?oc=5",
+      "publisher": "The Vibes",
+      "date": "2026-11-27",
+      "topics": [
+        "candidacy",
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "d0718229ff47",
+      "title": "Philippine VP Duterte says resignation 'out of the question' amid impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmRnTEw0dTBBcG5obGZYdXNXQWh1RWM5RnhQa1pOYWgtbWNQSndXWFZkUG4zam5xYlJEWERseUhLaEoxbGtXOE1ONFBXQ1lNcFdHWk05UUZ1NFJPUjZvN3ZpNFZYSzdxNXVxaFZWcDBNQXhUYkpRbG0zaFZ0RUkxTGNWMml5UQ?oc=5",
+      "publisher": "Yahoo News Singapore",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "673300fa2acb",
+      "title": "VP Sara gears up for 2028 run, ready to accept impeachment verdict",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWRWaGdtcUViYTJCN3pPaktPWGQ3QzctWFY2RlVGWEFfX2U2NjhTYUhFQlk2MXdJU1k3MUtiX2huXzJmZmxzaDNYcUtDWFI3anFfTWNtQ0VvaWxtTlpTaUh2VjZweUtndVQ2ZmlWNXVKQTZPb0ZZNVBWWWlvMWJFRm9DV01lYlVZVkg3X21SR0xWTHExNWlyVFZDWVlYR1F2NFlxV3JGOHNicURqV0dkaktkMXhXa3BuZ21XekRn?oc=5",
+      "publisher": "Manila Standard",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-2028-vp",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "f23c6ca48b5b",
+      "title": "‘Pagod na ako sa kanila’: Sara Duterte won’t endorse senatorial bets in 2028 polls",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnk2X2o0b0dlWF84ejh0cDRCajZsQ0FsdG0xU216LWxWdlBoQ3hOcnhZYWFLR2prNVJBVmNsWHhVemJESHptSUlPaXM0NWc5a1JncjBvZ01keGp1bE1peTFSa2ZVLXIwVXJ6U1BLN2MzYV9OLWRrV21yVGlYT1c4bHNpZ1FCTHhKZjlWdlJITjE5d2MyNWliX3BsRUpYSGRHWUloQ0lqYkloRVBtaGg4VExzcmpoV0NhOU1qMXY1UW1JZlBIdTRyeUd1TDk?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-27",
+      "topics": [],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-2028-vp",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "87bd549da6c5",
+      "title": "Comelec pledges to fight cheating, vote buying in 2028 polls",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnk0emhBdEszVmpQQlViQS1Wb1ZiR2x2X1VKZjFTYlgxUFppN0wxQzJ3dUwwRVJ5Q3V3T3EzdW1VN1VnQXBOaUpBZW0yVXZhNTlBNFp6NDd6SzEzaEtiZXFSU2dSdW83Y3NQU0lXaXQ3bkFtdnZXTzVXMUdCclpac0RMM1RxZEM3VzFoYjlERzhXVnRtUl9KbkFxby1sYndnWWNxSGZFa1RHZVVlMEdnQw?oc=5",
+      "publisher": "ABS-CBN",
+      "date": "2026-11-27",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-2028-vp",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "4b3a8d57afae",
+      "title": "Rappler. . Sara Duterte ‘preparing for the worst’ ahead of impeachment verdict WATCH: Vice President Sara Duterte says her office is “preparing for the worst” ahead of the Senate impeachment court’s expected decision on her impeachment trial in December.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWtZakZrSW1KR1UwcTBraDAxcDZENEd3d0ZvZUpIczJuNHVRd2t0cWZYS3ltaWR6RFVrOE5Sc3B0WVJrTVgya1loX1J3Tzh4ZFgxOWFaSnR3Y3p6UjBTWEROeTNKZjFNZnpfbW41MjRYdnc1a2NUZndlcWZsYUYwdEUzWExFMkNqVTFKUmtESXBoenhpVkpGOWV0M1htMWlBRXZOd0hORFUxZGtQZkU5c2NqbVh1dE9uM2xSempPUkU2dWpKREJKVjlYOGV6c0FDdldlNzFuZkZOQ3B2?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "d0d16f418b0f",
+      "title": "VP Duterte prepared for verdict of Senate impeachment court",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3owWFc3Zjcxd1E4MHdWSUxjT1RzZXRUb095WWhEb0ptdlVISVdwOHpIVUxLd2QzbGVvQjg3TERzNTN5OFpLSlNmOC1Nd2g0NU05dEhzbmMyRGVRUXJJQmFsSS10cG05TEdYQnM3eXFKbENaekUzSGtNb0hWSjhpRGtGTWl3NVB1WnJuR0VUV0pRenJHQlNSa2UyTFFfUdIBowFBVV95cUxPVFFTUEphM0czazhscWlEVkVVOXM3QXlNcGpHRGh4Z0dHTjE3ZGtPcWVBMVZTZWZuQjNwTGJDNTBjSkdLcTh2a245eGxncVRSR3lOLU4xbnpDN0xfZlhwVDVtOTJmd3ZoTVRVT21BQ1JoOXg0bkI3emdvcWVtRktiSjVnSE5vZGxrVGh5YnhWZzFNbURVTG1EZFB3a050anp5ZDdV?oc=5",
+      "publisher": "Inquirer.net",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "feb811fc6346",
+      "title": "VP Sara Duterte: We will accept whatever impeachment verdict",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdm13RkR4T2dJYUktMzJSa0lPVEp2cjBzZTlIR2t5SV94Yno5amNrSHh1MGNqeV9QYXZlVkNDZi1ERVNYdFh1bzZnQ3VfMEIzNEluRnBXQTJGaVhCRUVxc2gyTkF3NTUwVlpqYWpiOHJxc0xaVnl5ZUxiU2lZUTYweVUyN2t1YnBDazFkeXM2b0x0SVBWR3NuVXQyMzk1RVlwRVF6b2trcFpRckhtTjF6aVZWNNIBugFBVV95cUxNVzdYQU0wYnhhOTJyQmxRWnNkVFJMTk5pbW1OTFBuVXhNOExrZXZaVlRJLVFiRmQ4WW9XYTlab0xHSTdpZGhKLXBoRHVqOUxRZTBMQkN1WmNEMHNBWVp3YU0wUmhOMDI0N3pMX3lrbVpOeGxBczdOcmltU3piSW4tLU1DXzNkQXZEV0kyaVkzQ0FMTVh6N2g2eW1XOEhKUS1TbjJUUlhVSm90aVlPdU93V2RVdXhOemFlUFE?oc=5",
+      "publisher": "Philstar.com",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "563068432547",
+      "title": "ABS-CBN News. . ‘WE’RE ALWAYS PREPARING FOR THE WORST’ Vice President Sara Duterte said this when asked about the potential verdict in her impeachment trial, adding that they will accept whatever judgement will be handed down. | via Harlene De",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzhuOHlTZ2VwYTJmbzZyNFFrRkdUVDAzRmpJOW12TjdVb0MzQUpBWVNOQjU5cm5TVUF3cDA5aWNCaTNSSkJlbU5Uc2lxX0FaRmFpeWVKQm14TVJ2OWRfTnZCUklxZWFjVGNVT3JucUdWX3FDclh0UDdPSnNUR3g3TXg1RHlBT190aFd6elhyRXFaTksxd2FmY2hZZlVBcDN6X09uZlgxMHR1cVhwV2s4dGxkZk9SYkJrRjZneEE0UFlLMTVZZzZJakJSNE9veEtKOUNlYkFNTHg?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "e5e1220f517f",
+      "title": "Sara Duterte says resignation 'out of the question' amid impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUWwxa2RGbkgwWENhejJYeTY2QUpWaENuaGt5aEpzQW5FM0Itenp0YUx0aDlXeXNEdURrRlJLN2hWM19rQW1lUnhJT3phbGhVcUMzck5ORUIySnJDSVE2UXZjZWRKNWFDay1OZnVEY0Y3dkVHMk5wV2o3VXp4OHlJWm9kazlPa0p3RXp1UGxYMWotZUpLa1JSWFRKVXd1Y0NBSXZUWUN2WS1adjd2VnI2aWhEdFIxS1hYNU9HR3dfX1JHb1hwcXBqTmpCeTFGYmx1ckRB0gHYAUFVX3lxTFBuaUZnZVNMR2hvS1pRcm9oSkJtRXdsb0RISnZZOVlZb2lSZ0JqN2FfcTNJRFJmY2NDSjRzMVlHTnRkNHE1MU5sNTlfOVV3ZHV0YkZ6b2ZMODlfRDFGZjNjQld3bExTS3pYU2dtSDR4VnFwNUt5dXlkcDJMcld4RVN3WDk3TDE5RUN1QWdiU3M4V3llamFHMndQMzFQcEJIdVJrTktxOGQtYXpoZFZaOXZ3ZVg1dFd5UDZnaktKTkVpc25WRnpZc28yelNMdmFubmF5RW42UFJ0OA?oc=5",
+      "publisher": "GMA Network",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "c25252a971ef",
+      "title": "VP Sara says resignation ‘out of the question’ amid impeachment trial",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2g3UGNxWXc2ajVBWUFNR0NPZ25nazFQcXBrZXhVT25HdFBxWkFGMVY0aGt2M2ZtQ1VLSVd4cHk4bnpTYnBGb01kUWJxeFZsX1F6MTlEeHZ3SDRCZU8wWGxTWXNiVnZUY1ZOQWlSNEdRMUdFN0sxbzlGaVR3SEFjQUdzcGNFQmtSbG5UY1FFMDloMGRjQ19McVRSd0xzbUxRbXZURE8xTUtLN2IwZXk0UGk4WlVuNWF5b096cDhnWVEyQ0QwNUtWajUzU1NDbHlW?oc=5",
+      "publisher": "Interaksyon",
+      "date": "2026-11-27",
+      "topics": [
+        "impeachment"
+      ],
+      "people": [],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
+      "id": "b74b09998c60",
+      "title": "Philippine V-P Sara Duterte rules out resignation, braces herself for impeachment verdict",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDBLN0tVRkRWOHBaR09HOHptaTJ3OEJXdWJHenZaNUFVNGhLS2xMbmphN0ZCQ1NXby05b3NjNXNpN1FkZHJjZTM4bmY4cW5zeWU0SC1HVXk2Q0VQVFVDQVlPQVQ0YkNXc1JuWWU0WUdTcEpVVnhjOXlvdGVpYmlzSmE3bURkbHItdXIzdFk0QVhtbVVTWWdWNEl2bmZ2T0QydDNLRVpuamhaUDBEcjFnNm1UbDZNSmtHckNCc1Vram0?oc=5",
+      "publisher": "The Straits Times",
+      "date": "2026-11-27",
+      "topics": [
+        "candidacy",
+        "impeachment"
+      ],
+      "people": [
+        "sara-duterte"
+      ],
+      "feed": "gn-impeachment",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
     {
       "id": "1dceeabe4e4f",
       "title": "Veep’s dentist expected as next witness for defense",
@@ -2095,6 +2419,19 @@
       "found": "2026-11-19T03:38:58+00:00"
     },
     {
+      "id": "6e9f20acd509",
+      "title": "Comelec set to bid P22-B automated election system for 2028 polls By Ferdinand Patinio MANILA – The Commission on Elections (Comelec) is looking to open the public bidding next month for the automated election system (AES) to be used in the May 2028",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDFWbHYtWjlqeEJILUl1V2Y3LWRYVDhmeFk5S0ViZnlYUGlqT3prZmpWeGR0UkVJaEFVdkNzZ0MzcGd6a1FSaGpBOGN5RlBoMl9rTDg5M3RkMTlQeVh1bnIybk15MkotY0c2Y2U0N0JiQmlMQ2tJM29XeVVyTWdjR3o2cjJ3WkUzRVlfYmMtSXdCaEdrWmlBaG5yOWt0a1lzTVRqSmxMeTZkRUV1SG5uTTd1WVE5XzE1SDVTTVBKRGs0ai1YaG16MGRWWkdfWHFtUVFoNw?oc=5",
+      "publisher": "Facebook",
+      "date": "2026-11-18",
+      "topics": [
+        "comelec"
+      ],
+      "people": [],
+      "feed": "gn-2028-president",
+      "found": "2026-11-28T03:58:49+00:00"
+    },
+    {
       "id": "d4cb85cfa117",
       "title": "Comelec Initiates Bidding for 2028 Automated Election System with Transparency Features",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazQ2S3F5RWpjbUl0eEQxeWFJMUk0M2JqQlhhU0ZpRzhHVV9BMjRLV3JiajdDaXB0ZWVjb1VjLXlrbXdUdWRxYTFNQmxmRTRsaldfQnc2VTYySGZwTW5pOF9CcE5aS0V4RWt2eUdHMHJNUkU5dGZ1dU5fMXF5NG5sZ0tSbjFQU3lqb1lQQTRyVTJQa3h2eWhVbl9lZGJsV1Q0eEE?oc=5",
@@ -3227,350 +3564,6 @@
       "people": [],
       "feed": "gn-comelec-registration",
       "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "56acceea01d0",
-      "title": "The Commission on Elections resumed voter registration nationwide on Tuesday, November 10, 2026, to allow eligible Filipinos to register or update their records for the 2028 National and Local Elections. The registration period will run until July 30, 2027, op",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTnJWVXJFWGJNMlNUM0Z1Mk9KZE5NRkNlc2RuODB3ZTlUWXN2WFVNSGJXWHpWX0NRSHJ2VHVFWEVvalNHbE9HZmxKU2ZBeW5CUUJWOWsteFpla1VqS3J2Q3NzTXhVRHd0ZFpDek1xY1BSWUJFN3FKczZVU0hWSmdJaTYwRTJwWmRWTnZMd0d6cGp3WHpsY1R3Znk4d3lkVnBOVVdla29GWXo0eHhOV0NjVlFIU0doanpISmE1MC1mZlNCRDNNR1dMOEwyQjBDS3ZEQTduMjhqaTRMc1AzSUE?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-11",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "9865196072ac",
-      "title": "WATCH: Hundreds of Cebuanos line up at the Commission on Elections office in Cebu City on Tuesday, November 10, as voter registration resumes for the May 2028 national and local elections. The registration period will run until July 30, 2027. | Video by Ja",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUR1Z3o4b0dPYlJkMjU2YlA4OTFucGp6bnNKbXNtNmlrVG51QTVGRGFyTFJuQ01FSnllbUhqaWwyWHpqa0FVbEdBcTkyX05QWExQWDdWOWZDNHdmUHZnSnVFWUp6MHVFS0xCS3lKaUdCcE9JU2ZFelM2TXFScnJiRUlhRXF4ZVpkbUNuYXRuYzhFdHJIZ3lfNmV6aVB3bGx4YmU2aTJDV1ZRVi1ISkFhMnRJNzZxM25LbjFqUksxZ2EyNzVaZHlwWFQwRU45T2JtbjUtX3N2b1owM0k?oc=5",
-      "publisher": "Facebook",
-      "date": "2026-11-11",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "af63878331c5",
-      "title": "PNP directs all units to assist Comelec with voter registration",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXhlc3NSZ2ZrcjZsUG52cWtxTXlCUlBWWVI2QnV5QUl0WGxXblNmSExlNmRNWEMzb1V4ZThVck9XSlFVRUFoN2xHUUp0NlRnazk5alpveTJDN3VPZUJpd2tYUldudXBqaXBYd3ptYU1vczdvbDVKSVpTcDdqc1pQVGttTUlNR2YxejhFZTFRMThKR3FlZjNMMFR3cmg?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-11-11",
-      "topics": [
-        "registration",
-        "comelec"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "6632eb72bc9d",
-      "title": "36K register on voter registration resumption",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFlEOEhheE5SU3Z0T0FHaHhUaDRLVGw5djg1UkJ2UjRkcE5PekFqMERtVUlqcDdoTFRfbHlUeFZuazZYMFI3SGYyRHNZUm56cjdYa1JYTndzT1pEOVJTWmpHdXhLN29nRGk5YUNlVldCZmhGcHUzWWRFZGczWC1TbGY1aTdBNlR1X0JFTjN5Qmk1QVV1LXhvenFwRWNzY3RzUnhaVjI0OGx0dnM1Vy1R?oc=5",
-      "publisher": "Daily Tribune",
-      "date": "2026-11-11",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "8674c63a7191",
-      "title": "Voter registration resumes for 2028 nat’l, local polls",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGYycmtWbXVacFViY3Bwa0JNa3Fpbkg1WTUxLThyQzJhTHpFWXpWUTMzNUVaSDJ6cU92dldWYnkyRHRSdUswQ2lvTGszNnZGSFZ6dXpuLWlxeWNub1Q1NXdvOFVBdEJ0WWxIcXJLdHg3TXRZX3RwdmhPZi1lTFE0NXgyYmpXWm8?oc=5",
-      "publisher": "Negros Now Daily",
-      "date": "2026-11-11",
-      "topics": [
-        "registration"
-      ],
-      "people": [],
-      "feed": "gn-comelec-registration",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "76bfe0abd8c2",
-      "title": "Willie win sa QC? Revillame stirs 2028 mayoralty buzz with Ben Tulfo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkJ1NHJvcC1TX0l0bk55X3ZXWTBuTTE4bDctdzZheEFqbWU5WGdzX0VFTXJZM3FzcTZ0WUZ2NGxBRzBSbXhXX2JhSzM2RkxRZWxaSnpWSGlxUEJXd01oajl0ZUtOOTZzNVV4YWFNUXR2am1lejdacjZGS1JVNHJHS016TW43QmotYkM3UmhaMGpaSzBaMUtJ?oc=5",
-      "publisher": "Politiko.com.ph",
-      "date": "2026-11-11",
-      "topics": [],
-      "people": [
-        "ben-tulfo"
-      ],
-      "feed": "gn-2028-senate",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "ada131e6afc7",
-      "title": "New Mexico state Sen. Mimi Stewart won't run in 2028",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUdkVmNiT2FWdHBISndqQmplMmtoNURhLU0za3NjUEltYWFBcUZZa0JQVFVlRXNycnlfajVZSkZ0ZzBIWFEzWHF4TmNCSFYxT3FoNUdJVnFYWS1vcjFpTnRUTzlWVEhzMWpzNEM3QUF4Qmk5MEw3TnhTd1ZRdlVBMllhUnp2bW01bTR2bm0xTjRNejdCSGpXYmlNQnFCNktmOWxMamp5Qnl1WDBjVFk4ODhFZnQ3NXphNFEwOFpOaGFOQzJUNm51WXhBbVYxV2daMVVZVm1NNXFyVmloa2NnUGc3STQ?oc=5",
-      "publisher": "Santa Fe New Mexican",
-      "date": "2026-11-11",
-      "topics": [
-        "candidacy"
-      ],
-      "people": [],
-      "feed": "gn-2028-senate",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "eb7020dac970",
-      "title": "House Dem criticizes Fetterman's record, mulls 2028 Senate bid",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUlLSXpHQ1dLelh5MnFORzZvb2N5ck12Y2Iycm1rZE12cTJYR2FCOXBZbmkwS04tTXlwaXpybnU5N3BZcUxiWWNrOEJZUll2QlZPYWVHejNSVmdIVnNHdUNWejg1Rm9tODEzZXVZSW9GVkUxeXkwazRqdW82bE5FY2ZKMEVDNXNyTXgxLTVvXzZmQlVQclJTR0FxSjdQenM?oc=5",
-      "publisher": "Yahoo",
-      "date": "2026-11-11",
-      "topics": [
-        "candidacy"
-      ],
-      "people": [],
-      "feed": "gn-2028-senate",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "e4f29e06ba22",
-      "title": "Highlights: Day 42 of Sara Duterte impeachment trial | Nov. 11, 2026",
-      "url": "https://newsinfo.inquirer.net/2339970/highlights-day-42-of-sara-duterte-impeachment-trial-nov-11-2026",
-      "publisher": "Inquirer",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "inquirer",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "dc9594a8359a",
-      "title": "Panelo asks Tulfo to tone down scolding of defense witnesses",
-      "url": "https://newsinfo.inquirer.net/2339936/panelo-asks-tulfo-to-tone-down-scolding-of-defense-witnesses",
-      "publisher": "Inquirer",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte",
-        "raffy-tulfo"
-      ],
-      "feed": "inquirer",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "dfdd172d7470",
-      "title": "Impeach court gets records on Duterte-Carpio Davao City properties",
-      "url": "https://newsinfo.inquirer.net/2339913/impeach-court-gets-records-on-duterte-carpio-davao-city-properties",
-      "publisher": "Inquirer",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "inquirer",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "2fbc50598f2d",
-      "title": "Sara Duterte's defense team drops most bank witnesses in impeachment trial",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009191/sara-duterte-s-defense-team-drops-most-bank-witnesses-in-impeachment-trial/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "c735070f7d99",
-      "title": "Sara Duterte impeachment trial Day 42: Loose investment, conflict of interest raised",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009188/sara-duterte-impeachment-trial-day-42-loose-investment-conflict-of-interest-raised/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "1ec5abd9d9e1",
-      "title": "VP Sara impeachment trial: Future defense witnesses could fill in gaps, says Poa",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009172/vp-sara-impeachment-trial-future-defense-witnesses-could-fill-in-gaps-says-poa/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "a54a3510a4a3",
-      "title": "Sara Duterte’s ‘loose investments’ in Gencorp earn her P2.1-M ‘return of capital’",
-      "url": "https://www.rappler.com/philippines/sara-duterte-loose-investments-gencorp-earn-millions-return-capital/",
-      "publisher": "Rappler",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "rappler",
-      "found": "2026-11-12T03:08:20+00:00"
-    },
-    {
-      "id": "a64960bf7cde",
-      "title": "Sara Duterte impeachment: Defense presents witnesses to counter case",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGRhaWRuUjNmYncxYVNkMUJqT2VGQjFBOGJ3ZzJNUWFNUnpWUVlRN3Q1dWlPeEZPQklIVnJUQUpHNkV5enVrRWJ2SlJuWks0aDJacjZScXd5U2V2ZG9YNUJqY1hpRWJVS21GTHlYaVozMTl2S2lKTE0yS1VnRVNrRHNQbXMtRVpWNnJhYU1odk0xbEt0UTc0Q2VvWXdHWW54cUFpN2NpM1RLT1h6d0HSAa4BQVVfeXFMUDBkYWlkblIzZmJ3MWFTZDFCak9lRkIxQThid2cyTVFhTVJ6VlFZUTd0NXVpT3hGT0JJSFZyVEFKRzZFeXp1a0VidkpSblpLNGgyWnI2UnF3eVNldmRvWDVCamNYaUViVUttRkx5WGlaMzE5dktpSkxNMktVZ0VTa0RzUG1zLUVaVjZyYWFNaHZNMWxLdFE3NENlb1l3R1lueHFBaTdjaTNUS09YendB?oc=5",
-      "publisher": "Inquirer.net",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gn-impeachment",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "9e7b72fb4f35",
-      "title": "WATCH: Sara Duterte impeachment trial | Nov. 11, 2026",
-      "url": "https://newsinfo.inquirer.net/2339476/watch-sara-duterte-impeachment-trial-nov-11-2026",
-      "publisher": "Inquirer",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "inquirer",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "7d4d65a5549b",
-      "title": "‘Evasive,’ conflicting answers test impeach court’s patience",
-      "url": "https://newsinfo.inquirer.net/2339418/evasive-conflicting-answers-test-impeach-courts-patience",
-      "publisher": "Inquirer",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "inquirer",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "345338b7491d",
-      "title": "LIVE UPDATES: Sara Duterte Impeachment Trial (November 11, 2026)",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009063/live-updates-sara-duterte-impeachment-trial-november-11-2026/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "79a8bfa80391",
-      "title": "Sara Duterte impeachment trial Day 42: What to expect",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009035/sara-duterte-impeachment-trial-day-42-what-to-expect/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "9bc6d51f7c21",
-      "title": "Sara Duterte impeachment trial Day 41: Contempt warning, salary differential, witness's accounting firm ties",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1009050/sara-duterte-impeachment-trial-day-41-contempt-warning-salary-differential-witness-s-accounting-firm-t/story/",
-      "publisher": "GMA News",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "gma-nation",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "ff9664672763",
-      "title": "LIVE: Sara Duterte impeachment trial, Nov. 11",
-      "url": "https://www.philstar.com/headlines/2026/11/11/2569396/live-sara-duterte-impeachment-trial-nov-11",
-      "publisher": "Philstar",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "philstar-headlines",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "aefec4f27d72",
-      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
-      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
-      "publisher": "Rappler",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [
-        "sara-duterte"
-      ],
-      "feed": "rappler",
-      "found": "2026-11-11T01:58:44+00:00"
-    },
-    {
-      "id": "624b0fc9767e",
-      "title": "US House blocks bid to impeach Defense Secretary Hegseth",
-      "url": "https://www.rappler.com/world/us-canada/house-blocks-pete-hegseth-impeachment-november-10-2026/",
-      "publisher": "Rappler",
-      "date": "2026-11-11",
-      "topics": [
-        "impeachment"
-      ],
-      "people": [],
-      "feed": "rappler",
-      "found": "2026-11-11T01:58:44+00:00"
     }
   ]
 }
